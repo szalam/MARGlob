@@ -1,0 +1,12 @@
+Figure 3a:
+Basin shapefile is obtained from HydroShed
+link: https://www.hydrosheds.org/page/hydrobasins
+
+Precpitation (P): Tropical Rainfall Measuring Mission (TRMM)
+link: https://gpm.nasa.gov/missions/trmm
+
+Evapotranspiration (ET): Global Land Evaporation Amsterdam Model (GLEAM)
+link: https://www.gleam.eu/
+
+Figure 3c: Gravity Recovery and Climate Experiment (GRACE)
+link: https://podaac.jpl.nasa.gov/datasetlist?ids=Collections:ProcessingLevel&values=GRACE-FO:*3*&search=%22GRACE-FO%22&view=list

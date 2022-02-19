@@ -1,0 +1,1012 @@
+site_name,continent,country,specific_mar_type,soil_class_val,longitude,latitude,optional,soil_grp
+Alcalá La Real,Europe,Spain,Infiltration basin,3,-3.92,37.46,TRUE,C
+Arve,Europe,Switzerland,Bank filtration,13,6.15,46.18,TRUE,C/D
+Prince Albert,Africa,South Africa,Aquifer storage using wells,3,22.029932,-33.222633,TRUE,C
+Caiçara,South America,Brasil,Subsurface Dam,3,-40.23522,-9.07306,TRUE,C
+City of Pasadena,North America,USA,Aquifer storage and recovery,3,-118.134041,34.154787,TRUE,C
+Bergsjön,Europe,Sweden,Infiltration basin,13,14.109,59.309,TRUE,C/D
+El Bustan Extension Area,Africa,Egypt,Infiltration basin,3,30.404489,30.38331,TRUE,C
+Upland Basin,North America,USA,Infiltration basin,3,-117.694958,34.097915,TRUE,C
+North Bend Aquifer ASR,North America,USA,Aquifer storage and recovery,13,-121.788579,47.497748,TRUE,C/D
+"First National Bank, 400 S.W. 6th Ave. Branch, Portland3- 4N 4,15",North America,USA,Aquifer storage and recovery,3,-122.6777,45.520505,TRUE,C
+Northern Cape,Africa,South Africa,Aquifer storage using wells,2,22,-29.5,TRUE,B
+Northwest Hillsborough County Reclaimed Water ASR Project,North America,USA,Aquifer storage and recovery,2,-82.413342,28.059608,TRUE,B
+Regent Gardens/ Roy Amer Reserve,Oceania,Australia,Aquifer storage and recovery,3,138.638733,-34.857654,TRUE,C
+City of Portland,North America,USA,Aquifer storage and recovery,13,-122.661117,45.525001,TRUE,C/D
+Longkou,Asia,China,Subsurface Dam,3,120.575455,37.676739,TRUE,C
+Sítio Serra de Campos Novos,South America,Brasil,Subsurface Dam,3,-46.1898,-8.936914,TRUE,C
+Plettenberg Bay,Africa,South Africa,Aquifer storage using wells,3,23.350715,-34.060875,TRUE,C
+Kladow,Europe,Germany,Bank filtration,2,13.143,52.45,TRUE,B
+Valle de las Palmas,North America,Mexico,Infiltration basin,13,-116.622267,32.375639,TRUE,C/D
+Santa Rosa ASR,North America,USA,Aquifer storage and recovery,3,-122.7123,38.447247,TRUE,C
+Hartfield Park,Oceania,Australia,Aquifer storage and recovery,3,115.997794,-31.99489,TRUE,C
+Rokugo basin 4,Asia,Japan,Infiltration basin,3,140.568056,39.424167,TRUE,C
+Nainital Lake,Asia,India,Bank filtration,3,79.456136,29.389253,TRUE,C
+Barragem do Mundaú,South America,Brasil,Bank filtration,4,-36.4918,-8.9465,TRUE,D
+Yamagata-shi,Asia,Japan,Infiltration basin,3,140.360278,38.243889,TRUE,C
+Gatton Weir  (Lockyer Valley),Oceania,Australia,Check dam,4,152.256897,-27.560482,TRUE,D
+Rio Grande wellfield,North America,USA,Aquifer storage and recovery,2,-74.825394,39.142196,TRUE,B
+Auf dem Grind,Europe,Germany,Bank filtration,3,6.69,51.55,TRUE,C
+Ladd Building Co.,North America,USA,Aquifer storage and recovery,3,-122.664035,45.52921,TRUE,C
+EMBRAPA – Campo experimental da Caatinga BS-3,South America,Brasil,Subsurface Dam,3,-40.327736,-9.067192,TRUE,C
+Mini-Anaheim Lake,North America,USA,Infiltration basin,3,-117.843679,33.866518,TRUE,C
+Evanston South,Oceania,Australia,Aquifer storage and recovery,3,138.715042,-34.633665,TRUE,C
+Pendleton ASR,North America,USA,Aquifer storage and recovery,3,-118.75714,45.666479,TRUE,C
+Huangtu Gaoyuan,Asia,China,Infiltration basin,3,107.999626,36.999577,TRUE,C
+Whittier Narrows Water Reclamation Plant,North America,USA,Infiltration basin,3,-118.068758,34.032992,TRUE,C
+Dagu River,Asia,China,Check dam,13,120.448002,37.045044,TRUE,C/D
+Poverty Bay MAR Pilot Project,Oceania,New Zealand,Aquifer storage and recovery,3,177.9196,-38.61037,TRUE,C
+Fazenda Várzea Queimada,South America,Brasil,Subsurface Dam,3,-40.08251,-10.47258,TRUE,C
+N/A,Asia,China,Subsurface Dam,13,105.124609,37.585192,TRUE,C/D
+Jandakot,Oceania,Australia,Aquifer storage and recovery,3,115.8747833,-32.1038159,TRUE,C
+Göttwitz,Europe,Germany,Bank filtration,3,12.918,51.254,TRUE,C
+Ossendrecht,Europe,Netherlands,Aquifer storage and recovery,2,4.333,51.395,TRUE,B
+Summer Rd.,Oceania,Australia,Aquifer storage and recovery,3,138.581709,-34.7473,TRUE,C
+College Heights Basins,North America,USA,Infiltration basin,3,-117.696148,34.10363,TRUE,C
+Ana Catchment 2,Africa,Kenia,Subsurface Dam,4,37.98888,-1.37143,TRUE,D
+Nabeul-Hammamet,Africa,Tunisia,Infiltration basin,3,10.6167,36.4,TRUE,C
+Grevie,Europe,Sweden,Infiltration basin,3,13.006,55.605,TRUE,C
+Rheintal Grundwasserstrom,Europe,Switzerland,Infiltration basin,3,7.691765,47.5303,TRUE,C
+Bear Canyon Recharge Demonstration Project,North America,USA,Check dam,3,-106.557539,35.138383,TRUE,C
+Horton Kirby,Europe,United Kingdom,Aquifer storage and recovery,13,0.243673,51.39471,TRUE,C/D
+Yokatsu,Asia,Japan,Subsurface Dam,3,127.885021,26.325779,TRUE,C
+Yavne-1,Asia,Israel,Infiltration basin,3,34.723755,31.893417,TRUE,C
+Yufuhe,Asia,China,Check dam,3,116.862777,36.645926,TRUE,C
+Lee County WTP (LC),North America,USA,Aquifer storage and recovery,2,-81.6811111,26.719166,TRUE,B
+Guntersblum,Europe,Germany,Bank filtration,13,8.355,49.795,TRUE,C/D
+Campo de pozos de La Bomba de Limón,South America,Costa Rica,Bank filtration,3,-83.06382778,9.135663889,TRUE,C
+Caloosahatchee River ASR (CRASR),North America,USA,Aquifer storage and recovery,12,-81.557011,26.711697,TRUE,B/D
+Cornella,Europe,Spain,Aquifer storage and recovery,3,2.05,41.35,TRUE,C
+San Gabriel Canyon Spreading Grounds,North America,USA,Infiltration basin,3,-117.914103,34.15109,TRUE,C
+Sítio Serrota,South America,Brasil,Subsurface Dam,3,-37.81138,-6.260875,TRUE,C
+Asian Institute of Technology (AIT),Asia,Thailand,Aquifer storage using wells,4,100.601654,14.081453,TRUE,D
+Friendship Farm,Asia,China,Aquifer storage and recovery,13,131.810963,46.78169,TRUE,C/D
+Dam 9 Geul 1,Europe,Netherlands,Aquifer storage and recovery,2,4.64,52.38,TRUE,B
+Matchaponix Brook,North America,USA,Aquifer storage and recovery,12,-74.360276,40.317605,TRUE,B/D
+Elst,Europe,Netherlands,Bank filtration,2,5.8461,51.92437,TRUE,B
+WW Dollar + WW Hardt,Europe,France,Check dam,3,7.334,47.749,TRUE,C
+Hameerpur (Jabar Sagar),Asia,India,Check dam,13,76.195665,27.21825,TRUE,C/D
+Gordon Road WWTP,Oceania,Australia,Infiltration basin,3,115.7531894,-32.5078564,TRUE,C
+Assentamento Santo Agostinho,South America,Brasil,Subsurface Dam,3,-37.3746,-5.41557,TRUE,C
+Valley Boulevard Rubber Dam,North America,USA,Infiltration basin,13,-118.009124,34.049977,TRUE,C/D
+Northgate Expansion,Oceania,Australia,Aquifer storage and recovery,3,138.628719,-34.856112,TRUE,C
+Grantham Weir  (Lockyer Valley),Oceania,Australia,Check dam,14,152.216674,-27.575796,TRUE,D/D
+Tiendweg,Europe,Netherlands,Bank filtration,3,4.684,51.902,TRUE,C
+Heihe River,Asia,China,Check dam,13,107.349539,35.213283,TRUE,C/D
+"Da Yao Cun, Guangrao Xian",Asia,China,Aquifer storage using wells,13,118.366194,37.108194,TRUE,C/D
+Menashe,Asia,Israel,Infiltration basin,13,34.919873,32.460961,TRUE,C/D
+Stiepel,Europe,Germany,Bank filtration,13,7.24,51.41,TRUE,C/D
+Perth Groundwater Replenishment Scheme Stage 1,Oceania,Australia,Aquifer storage and recovery,3,115.776711,-31.782679,TRUE,C
+Mogarala area,Asia,India,Check dam,3,79.043898,13.481932,TRUE,C
+Caborca,North America,Mexico,Aquifer storage using wells,4,-112.140627,30.704088,TRUE,D
+Fazenda Mandassaia,South America,Brasil,Subsurface Dam,13,-41.16667,-8.65,TRUE,C/D
+Boynton Beach,North America,USA,Aquifer storage and recovery,3,-80.062819,26.51377,TRUE,C
+"Xi'an, Yanta",Asia,China,Aquifer storage using wells,3,108.984018,34.226908,TRUE,C
+"RRS, Sirsa",Asia,India,Aquifer storage and recovery,3,75.017002,29.533176,TRUE,C
+Sawpit Spreading Grounds,North America,USA,Infiltration basin,3,-117.990874,34.160229,TRUE,C
+"Al Masnaah, Wadi Al Fara",Asia,Oman,Check dam,2,57.675628,23.618534,TRUE,B
+Shanghai,Asia,China,Aquifer storage using wells,13,121.452034,31.187937,TRUE,C/D
+Brousse-le-Château,Europe,France,Infiltration basin,13,2.625504942,43.99756015,TRUE,C/D
+Microbacia do Córrego Fundo,South America,Brasil,Subsurface Dam,3,-47.84705,-7.476338,TRUE,C
+Lagoa do CTG,South America,Brasil,Infiltration basin,3,-35.1882,-5.87475,TRUE,C
+N/A,Asia,China,Aquifer storage and recovery,13,108.815648,34.275475,TRUE,C/D
+Nootdorp,Europe,Netherlands,Aquifer storage and recovery,13,4.396,52.043,TRUE,C/D
+EPAGRI – Estação Experimental,South America,Brasil,Bank filtration,4,-49.648521,-27.42058,TRUE,D
+N. Lekkerland,Europe,Netherlands,Bank filtration,3,5.18486,51.97304,TRUE,C
+Lodhi Garden,Asia,India,Aquifer storage using wells,3,77.219645,28.592926,TRUE,C
+"Shunping, Baoding, Hebei",Asia,China,Surface flooding and ditch-and-furrow,3,115.259762,38.895246,TRUE,C
+Tumbleweed Park Recharge Facility,North America,USA,Aquifer storage and recovery,3,-111.828048,33.272986,TRUE,C
+Schuwacht,Europe,Netherlands,Bank filtration,3,4.642,51.896,TRUE,C
+Waalsdorp,Europe,Netherlands,Aquifer storage and recovery,12,4.312,52.097,TRUE,B/D
+Hooge Boom,Europe,Netherlands,Bank filtration,3,4.892,52.12,TRUE,C
+"Shenbei, Shenyang",Asia,China,Surface flooding and ditch-and-furrow,13,123.414125,42.154363,TRUE,C/D
+Santa Anita Spreading Grounds,North America,USA,Infiltration basin,3,-118.021551,34.166973,TRUE,C
+Carracillo,Europe,Spain,Surface flooding and ditch-and-furrow,3,-4.36,41.31,TRUE,C
+Malham,Asia,Saudi Arabia,Check dam,2,46.240481,25.143502,TRUE,B
+Toms River Water Co.,North America,USA,Aquifer storage and recovery,2,-74.186073,39.988363,TRUE,B
+WW Halingen-Fröndenberg,Europe,Germany,Bank filtration,13,7.72,51.468,TRUE,C/D
+Windhoek,Africa,Namibia,Aquifer storage using wells,3,17.07356,-22.561459,TRUE,C
+Monto Weir (Three Moon Creek),Oceania,Australia,Check dam,4,151.10663,-24.858364,TRUE,D
+Funxi,Asia,China,Check dam,13,108.73481,34.212734,TRUE,C/D
+Ely Basins,North America,USA,Infiltration basin,3,-117.613444,34.034876,TRUE,C
+Lujiazui,Asia,China,Aquifer storage using wells,3,121.508677,31.224325,TRUE,C
+Ujecie wody Mostowo,Europe,Poland,Bank filtration,2,16.39,54.076,TRUE,B
+Rhein,Europe,Germany,Bank filtration,3,6.716645,51.444839,TRUE,C
+Grisolles,Europe,France,Infiltration basin,3,1.296667,43.82889,TRUE,C
+Watervlak,Europe,Netherlands,Aquifer storage and recovery,2,4.623,52.503,TRUE,B
+Middelweg,Europe,Netherlands,Bank filtration,13,4.663,51.885,TRUE,C/D
+Sulaibiya SU-10,Asia,Kuwait,Aquifer storage and recovery,3,47.816369,29.282966,TRUE,C
+Comunidade Riacho Verde (Owner: Sebastião M. de Lima),South America,Brasil,Subsurface Dam,3,-37.1334,-7.1541,TRUE,C
+Cornedo Vicentino A,Europe,Italy,Aquifer storage using wells,13,11.337,45.615,TRUE,C/D
+Max Amber Sportsfield/Torrens Valley Sportsfield,Oceania,Australia,Aquifer storage and recovery,3,138.693423,-34.869602,TRUE,C
+Bau Noi/Hong Phong,Asia,Vietnam,Bank filtration,3,108.312653,11.051604,TRUE,C
+Kaliningrad,Europe,Russian Federation,Bank filtration,3,20.506,54.711,TRUE,C
+Rusovce,Europe,Slovakia,Bank filtration,13,17.14485,48.06225,TRUE,C/D
+Ma Ma Creek Weir  (Lockyer Valley),Oceania,Australia,Check dam,4,152.161344,-27.656814,TRUE,D
+Tsunekami,Asia,Japan,Subsurface Dam,3,135.820499,35.637265,TRUE,C
+Gouda,Europe,Netherlands,Infiltration basin,3,4.710388,52.01616,TRUE,C
+N/A,Asia,China,Subsurface Dam,3,102.286657,38.476994,TRUE,C
+Spandau,Europe,Germany,Bank filtration,2,13.17,52.58,TRUE,B
+Dong Zhu Ying Cun Guangrao Xian,Asia,China,Aquifer storage and recovery,3,118.479667,37.039041,TRUE,C
+Chesapeake,North America,USA,Aquifer storage and recovery,13,-76.291915,36.738493,TRUE,C/D
+Khlidia,Africa,Tunesia,Infiltration basin,3,10.201305,36.623334,TRUE,C
+Bhaonta (Sankara),Asia,India,Check dam,3,76.224669,27.328641,TRUE,C
+Fazenda Catolé de Queimadas - Dona Dora,South America,Brasil,Subsurface Dam,3,-35.887999,-7.34714,TRUE,C
+Assentamento Pedro Henrique - BS-3 (Owner: Fancisco Belchior dos Santos),South America,Brasil,Subsurface Dam,3,-35.75722,-6.78083,TRUE,C
+Morphettville Racecourse,Oceania,Australia,Aquifer storage and recovery,3,138.5427889,-34.9780389,TRUE,C
+Castricum AIP,Europe,Netherlands,Aquifer storage and recovery,2,4.623889,52.53667,TRUE,B
+Aberdeen,North America,USA,Aquifer storage and recovery,12,-74.218067,40.424025,TRUE,B/D
+Zhabei Qu,Asia,China,Aquifer storage and recovery,3,121.458563,31.241862,TRUE,C
+Hassayampa Recharge Facility,North America,USA,Channel infiltration/spreading,3,-112.698988,33.935532,TRUE,C
+Fazenda Queimada dos Loiolas,South America,Brasil,Subsurface Dam,4,-48.916656,-24.0447091,TRUE,D
+"Anxin, Baoding",Asia,China,Surface flooding and ditch-and-furrow,13,116.033721,38.960491,TRUE,C/D
+Kentville Weir  (Lockyer Valley),Oceania,Australia,Check dam,4,152.437705,-27.492619,TRUE,D
+Kuivala,Europe,Finland,Infiltration basin,3,26.92,60.88,TRUE,C
+Crezeepolder,Europe,Netherlands,Bank filtration,3,4.641638,51.86178,TRUE,C
+South of Lyon,Europe,France,Bank filtration,3,4.8356,45.7684,TRUE,C
+Pine Flat,North America,USA,Aquifer storage using wells,3,-121.564956,42.236392,TRUE,C
+Gracia-Morenita,Europe,Spain,Aquifer storage and recovery,3,-8.09,42.46,TRUE,C
+Área do Instituto de Pesquisas Hidráulicas - UFRGS - Trincheira 1,South America,Brasil,Trenches,13,-51.114595,-30.076102,TRUE,C/D
+"Xiongxian, Baoding",Asia,China,Surface flooding and ditch-and-furrow,3,117.02111,36.630317,TRUE,C
+Sanjianpu,Asia,China,Subsurface Dam,3,121.286811,38.903652,TRUE,C
+Katrineholm,Europe,Sweden,Infiltration basin,3,16.205,58.995,TRUE,C
+Little Para Dam,Oceania,Australia,Check dam,3,138.7206319,-34.7537319,TRUE,C
+Northwest University,Asia,China,Aquifer storage and recovery,3,108.87438,34.148276,TRUE,C
+"Xinshi, Baoding",Asia,China,Surface flooding and ditch-and-furrow,13,115.373177,38.94355,TRUE,C/D
+Sunagawa,Asia,Japan,Subsurface Dam,3,125.353333,24.732902,TRUE,C
+Munno Para West,Oceania,Australia,Aquifer storage and recovery,3,138.674906,-34.66836,TRUE,C
+Madonetta E,Europe,Italy,Aquifer storage using wells,13,11.523,45.698,TRUE,C/D
+Höttinger Au,Europe,Austria,Bank filtration,13,11.404,47.269,TRUE,C/D
+Buell-Red Prairie AR,North America,USA,Aquifer storage using wells,3,-123.5132,45.001552,TRUE,C
+7th and 8th Street Basins,North America,USA,Infiltration basin,3,-117.632777,34.089705,TRUE,C
+Ssangcheon,Asia,Korea,Subsurface Dam,3,127.346757,36.638522,TRUE,C
+San Gorgonio Pass basins,North America,USA,Infiltration basin,2,-116.972362,33.978323,TRUE,B
+Eaton Wash Spreading Grounds,North America,USA,Infiltration basin,3,-118.089032,34.162916,TRUE,C
+Scheveningen CIP,Europe,Netherlands,Aquifer storage and recovery,2,4.31,52.125,TRUE,B
+La Ligua,South America,Chile,Infiltration basin,3,-71.2325958,-32.4499018,TRUE,C
+Peumo Valley,South America,Chile,Channel infiltration/spreading,3,-71.3,-34.05,TRUE,C
+N/A,Asia,China,Subsurface Dam,3,102.647167,37.909021,TRUE,C
+Engelsche Werk,Europe,Netherlands,Bank filtration,2,6.072,52.499,TRUE,B
+Superstition Mountains Recharge Project (SMRP),North America,USA,Infiltration basin,3,-111.500925,33.226945,TRUE,C
+Soreq-2,Asia,Israel,Infiltration basin,3,34.76879,31.954099,TRUE,C
+3 Ba Li Zhuang Lu Chaoyang Qu,Asia,China,Aquifer storage using wells,3,116.494904,39.913323,TRUE,C
+Hancheon,Asia,Korea,Infiltration basin,13,126.524602,33.444757,TRUE,C/D
+Beaufort-Jasper Water and Sewer Authority,North America,USA,Aquifer storage and recovery,3,-80.869252,32.365499,TRUE,C
+Vierakker,Europe,Netherlands,Bank filtration,12,6.235,52.107,TRUE,B/D
+Jordan Valley Water District,North America,USA,Aquifer storage and recovery,3,-111.834448,40.68985,TRUE,C
+Druten,Europe,Netherlands,Bank filtration,13,5.608,51.872,TRUE,C/D
+Punta Gorda ASR,North America,USA,Aquifer storage and recovery,2,-81.935457,26.973355,TRUE,B
+Lopez Spreading Grounds,North America,USA,Infiltration basin,3,-118.414121,34.298245,TRUE,C
+Emek Hefer Region,Asia,Israel,Aquifer storage and recovery,13,34.90981,32.375216,TRUE,C/D
+Tanuf,Asia,Oman,Check dam,3,57.469183,23.058707,TRUE,C
+De Laak,Europe,Netherlands,Bank filtration,13,5.036,51.957,TRUE,C/D
+Enschede,Europe,Netherlands,Infiltration basin,2,6.886368,52.22696,TRUE,B
+Landskrona,Europe,Sweden,Surface flooding and ditch-and-furrow,3,12.83,55.87,TRUE,C
+Callide Dam (Callide Valley),Oceania,Australia,Channel infiltration/spreading,4,150.613771,-24.366833,TRUE,D
+Westhofen2,Europe,Germany,Infiltration basin,13,7.5182,51.4157,TRUE,C/D
+Jhiri (Amli),Asia,India,Check dam,3,76.219031,27.255127,TRUE,C
+Williston,Africa,South Africa,Aquifer storage and recovery,3,21.216791,-31.624083,TRUE,C
+Appoigny,Europe,France,Infiltration basin,13,3.527624844,47.87689825,TRUE,C/D
+Flammerans,Europe,France,Infiltration basin,3,5.447404674,47.2303313,TRUE,C
+Llohué,South America,Chile,Trenches,3,-72.46431222,-36.30344636,TRUE,C
+Bolivar,Oceania,Australia,Aquifer storage and recovery,3,138.559448,-34.731404,TRUE,C
+Granite Reef Underground Storage Project (GRUSP),North America,USA,Infiltration basin,3,-111.777168,33.491674,TRUE,C
+Hengsen,Europe,Germany,Infiltration basin,13,7.63,51.458,TRUE,C/D
+Mancha Real,Europe,Spain,Aquifer storage and recovery,3,-3.61,37.79,TRUE,C
+"Tacoma Public Utilities Building – 13A1, B1",North America,USA,Aquifer storage and recovery,3,-122.485958,47.227693,TRUE,C
+Torgau-Ost,Europe,Germany,Bank filtration,2,13,51.554,TRUE,B
+Foothill Municipal Water District,North America,USA,Aquifer storage and recovery,3,-119.733806,34.455083,TRUE,C
+Nardò,Europe,Italy,Aquifer storage using wells,3,18.028,40.176,TRUE,C
+Fakhrabad,Asia,Iran,Check dam,3,54.345453,31.635948,TRUE,C
+"West Coast Telephone Co. building – 31A1,A2",North America,USA,Aquifer storage and recovery,2,-122.221574,47.961856,TRUE,B
+City of Lincoln – collector wells,North America,USA,Bank filtration,13,-96.321379,41.056019,TRUE,C/D
+Shifosi,Asia,China,Infiltration basin,3,123.343543,42.147266,TRUE,C
+Bremerberg dijk,Europe,Netherlands,Bank filtration,2,5.777,52.442,TRUE,B
+"Jinshui, Zhengzhou",Asia,China,Infiltration basin,13,113.705344,34.82362,TRUE,C/D
+Derby,Europe,United Kingdom,Bank filtration,3,-1.678162,53.19287,TRUE,C
+Springfield,North America,USA,Aquifer storage and recovery,13,-123.02081,44.024614,TRUE,C/D
+Nong Taphan,Asia,Thailand,Aquifer storage and recovery,3,101.258063,12.753379,TRUE,C
+Monteccio Precalcino,Europe,Italy,Aquifer storage using wells,13,11.523,45.698,TRUE,C/D
+City of Walla Walla,North America,USA,Aquifer storage and recovery,3,-118.346772,46.061742,TRUE,C
+Branford Spreading Basin,North America,USA,Infiltration basin,3,-118.415493,34.230428,TRUE,C
+IEUA RP3 Ponds,North America,USA,Infiltration basin,3,-117.475568,34.044332,TRUE,C
+Doesburg,Europe,Netherlands,Bank filtration,2,6.134491,52.01511,TRUE,B
+Uppsala,Europe,Sweden,Infiltration basin,3,15.974,59.437,TRUE,C
+Bacia 1: Rod. Geraldo Silva Nascimento – Instituto Federal Goiano,South America,Brasil,Infiltration basin,4,-48.2269,-17.495,TRUE,D
+Satsuma,Oceania,Australia,Aquifer storage and recovery,4,138.717997,-34.781838,TRUE,D
+Shougang,Asia,China,Aquifer storage using wells,3,116.264289,40.02154,TRUE,C
+Unity Park/Pooraka,Oceania,Australia,Aquifer storage and recovery,3,138.66977,-34.87985,TRUE,C
+Madison Farms,North America,USA,Aquifer storage and recovery,3,-119.359432,45.712723,TRUE,C
+Nakajima,Asia,Japan,Subsurface Dam,3,132.616781,33.973943,TRUE,C
+City of Dallas,North America,USA,Aquifer storage and recovery,3,-123.338634,44.919471,TRUE,C
+Wanglanzhuang,Asia,China,Aquifer storage and recovery,3,117.191555,39.053573,TRUE,C
+Sedgwick Recharge System,North America,USA,Infiltration basin,3,-97.481024,37.883601,TRUE,C
+Kalinkovo,Europe,Slovakia,Bank filtration,3,17.25248,48.0611,TRUE,C
+Live Oak Spreading Grounds,North America,USA,Infiltration basin,3,-117.745374,34.121945,TRUE,C
+Torreele/St-Andre ́,Europe,Belgium,Infiltration basin,3,5.753059,50.69744,TRUE,C
+"Tacoma Savings & Loan Association Building – 4D1,2",North America,USA,Aquifer storage and recovery,3,-122.432237,47.237521,TRUE,C
+Les Ansereuilles,Europe,France,Bank filtration,2,2.94616,50.557343,TRUE,B
+Richland recharge basins,North America,USA,Infiltration basin,3,-119.264761,46.255101,TRUE,C
+Sítio Fazenda Lagoa Comprida,South America,Brasil,Subsurface Dam,4,-40.25,-7.9,TRUE,D
+Briesen/Spree,Europe,Germany,Bank filtration,2,14.219,53.305,TRUE,B
+San Dimas Canyon Spreading Grounds,North America,USA,Infiltration basin,3,-117.787097,34.129229,TRUE,C
+Okinoerabu,Asia,Japan,Subsurface Dam,3,128.605091,27.385016,TRUE,C
+Casilla Valverde,Europe,Spain,Aquifer storage and recovery,3,-3.696148,40.53334,TRUE,C
+Sítio Fazenda Pitombeira,South America,Brasil,Subsurface Dam,3,-40.25341,-7.57382,TRUE,C
+El Señorío,Europe,Spain,Aquifer storage and recovery,3,-4.96,39.49,TRUE,C
+Mondragon,Europe,France,Aquifer storage using wells,3,4.713302401,44.23826135,TRUE,C
+San Carlos Estates ASR System,North America,USA,Aquifer storage and recovery,2,-81.7736111,26.389166,TRUE,B
+Hidango,South America,Chile,Trenches,3,-71.83023593,-34.10332595,TRUE,C
+Weinhübel,Europe,Germany,Bank filtration,3,14.986,51.156,TRUE,C
+Flins,Europe,France,Bank filtration,3,1.860166,48.98248,TRUE,C
+Kabudrahang,Asia,Iran,Check dam,13,48.724458,35.207186,TRUE,C/D
+Padipatlabayalu area,Asia,India,Check dam,4,79.020965,13.519922,TRUE,D
+Sítio Várzea Comprida,South America,Brasil,Subsurface Dam,4,-48.870614,-24.047689,TRUE,D
+Halls Head,Oceania,Australia,Infiltration basin,3,115.690477,-32.540789,TRUE,C
+Castle Pines,North America,USA,Aquifer storage and recovery,3,-104.89332,39.468491,TRUE,C
+Bay Park Wastewater Treatment Plant,North America,USA,Infiltration basin,12,-73.664929,40.632986,TRUE,B/D
+BS-4,South America,Brasil,Subsurface Dam,3,-37.32788,-6.068088,TRUE,C
+Hardhof,Europe,Switzerland,Bank filtration,13,8.48,47.401,TRUE,C/D
+Birstal,Europe,Switzerland,Aquifer storage and recovery,3,7.591,47.493,TRUE,C
+Biarjomand recharge project,Asia,Iran,Check dam,2,55.641625,36.076362,TRUE,B
+Witten,Europe,Germany,Infiltration basin,13,7.893202,51.50182,TRUE,C/D
+Hyndevad,Europe,Sweden,Infiltration basin,3,16.45,59.323,TRUE,C
+Belgrade,Europe,Serbia and Montenegro,Bank filtration,3,20.45654,44.84321,TRUE,C
+Sand Hollow Reservoir,North America,USA,Infiltration basin,3,-113.374061,37.11278,TRUE,C
+Yavne-3,Asia,Israel,Infiltration basin,3,34.713885,31.853911,TRUE,C
+Okseong,Asia,Korea,Subsurface Dam,3,126.833968,35.783484,TRUE,C
+Farm,Asia,China,Infiltration basin,13,133.51825,47.588685,TRUE,C/D
+Muttenzer Hard,Europe,Switzerland,Surface flooding and ditch-and-furrow,13,7.7,47.532,TRUE,C/D
+La atarjea,South America,Peru,Aquifer storage using wells,2,-77.014331,-12.041335,TRUE,B
+Paradise Run ASR System,North America,USA,Aquifer storage and recovery,12,-80.960666,27.21813,TRUE,B/D
+Petersaue + WW Eich,Europe,Germany,Bank filtration,3,8.264,50.01,TRUE,C
+Mosina-Krajkowo,Europe,Poland,Bank filtration,12,16.94246,52.21203,TRUE,B/D
+Zandvoort,Europe,Netherlands,Infiltration basin,2,4.548,52.376,TRUE,B
+Delray Beach,North America,USA,Aquifer storage and recovery,12,-80.1,26.466666,TRUE,B/D
+Ordos Plateau,Asia,China,Infiltration basin,3,109.80943,40.073906,TRUE,C
+Camp Peary,North America,USA,Aquifer storage and recovery,3,-76.644654,37.309114,TRUE,C
+Barragem subterrânea do Rio Palhano,South America,Brasil,Subsurface Dam,3,-38.5167,-4.91667,TRUE,C
+Lohiluoma,Europe,Finland,Bank filtration,3,22.29675,62.54552,TRUE,C
+Talbert Gap Seawater Barrier,North America,USA,Aquifer storage using wells,13,-117.967179,33.693905,TRUE,C/D
+N/A,Asia,China,Aquifer storage using wells,3,109.80943,40.073906,TRUE,C
+Sint Jansklooster,Europe,Netherlands,Bank filtration,2,6.009,52.68,TRUE,B
+river Guadalquivir floodplain,Europe,Spain,Surface flooding and ditch-and-furrow,14,-6.18,37.04,TRUE,D/D
+Camarillo,North America,USA,Aquifer storage and recovery,3,-119.029333,34.216016,TRUE,C
+Forssa,Europe,Finland,Bank filtration,13,23.62099,60.81368,TRUE,C/D
+Conceição (Barragem Comunitária Manoel Cândido Sobrinho),South America,Brasil,Subsurface Dam,4,-49.270978,-6.81102,TRUE,D
+Kikai,Asia,Japan,Subsurface Dam,3,129.970904,28.321593,TRUE,C
+Beenyup/Craigie Groundwater Replenishment Trial,Oceania,Australia,Aquifer storage and recovery,3,115.7780548,-31.7772582,TRUE,C
+Lower Santa Cruz River Managed Recharge Project – LSCRMRP,North America,USA,Infiltration basin,13,-111.206253,32.418597,TRUE,C/D
+Kiawah Island Utility,North America,USA,Aquifer storage and recovery,3,-80.07201,32.614431,TRUE,C
+Kale Khosk,Asia,Iran,Surface flooding and ditch-and-furrow,3,55.490798,36.928119,TRUE,C
+Kiindu Dam 4,Africa,Kenia,Subsurface Dam,4,38.00079,-1.45665,TRUE,D
+Crépieux-Charmy,Europe,France,Bank filtration,13,4.905,45.797,TRUE,C/D
+Miller Basin,North America,USA,Infiltration basin,13,-117.856058,33.864805,TRUE,C/D
+Eaton Spreading Basin,North America,USA,Infiltration basin,3,-118.081439,34.123581,TRUE,C
+Shanghai,Asia,China,Aquifer storage using wells,13,121.453504,31.238924,TRUE,C/D
+Fazenda Queimadas,South America,Brasil,Subsurface Dam,4,-35.872607,-7.347735,TRUE,D
+Fazenda Rosário,South America,Brasil,Subsurface Dam,3,-39.0667,-10.11667,TRUE,C
+Dyal Water Treatment Plant,North America,USA,Aquifer storage and recovery,2,-80.940653,28.389625,TRUE,B
+Mesa Northwest Water Reclamation Plant (NWWRP),North America,USA,Infiltration basin,3,-111.678445,33.42888,TRUE,C
+Someren DIZON,Europe,Netherlands,Aquifer storage and recovery,2,5.712,51.385,TRUE,B
+Praski 'Gruba Kaska',Europe,Poland,Bank filtration,12,21.0623,52.2238,TRUE,B/D
+Tennet Pond Well field,North America,USA,Infiltration basin,12,-74.335355,40.425598,TRUE,B/D
+Morroa,South America,Colombia,Aquifer storage using wells,3,-75.307733,9.332193,TRUE,C
+Devonshire,North America,USA,Aquifer storage and recovery,3,-74.954357,39.851481,TRUE,C
+De Steeg,Europe,Netherlands,Bank filtration,13,4.878,51.932,TRUE,C/D
+Siebeneichen,Europe,Germany,Bank filtration,3,13.485,51.149,TRUE,C
+Kingswood Golf Club,Oceania,Australia,Aquifer storage and recovery,13,145.118597,-37.9834735,TRUE,C/D
+Tolkewitz,Europe,Germany,Bank filtration,3,13.824,51.034,TRUE,C
+Dagu River,Asia,China,Surface flooding and ditch-and-furrow,3,116.248785,39.829667,TRUE,C
+Arapuá,South America,Brasil,Subsurface Dam,3,-37.21473,-6.34196,TRUE,C
+"Cokery Lane, ASR well 11 (Monroe North)",North America,USA,Aquifer storage and recovery,2,-74.95602,39.66401,TRUE,B
+Indira Gandhi International Airport,Asia,India,Trenches,3,77.087112,28.558582,TRUE,C
+José Brasilino Coelho,South America,Brasil,Subsurface Dam,4,-40.7,-11.46667,TRUE,D
+Balsamand Regional Research Station,Asia,India,Aquifer storage and recovery,3,75.490966,29.070696,TRUE,C
+BS-3,South America,Brasil,Subsurface Dam,3,-38.32788,-7.068088,TRUE,C
+Hochkirchen,Europe,Germany,Bank filtration,3,7.04,51.424,TRUE,C
+Solandra,Oceania,Australia,Aquifer storage and recovery,3,138.686308,-34.82274,TRUE,C
+Morroa,South America,Colombia,Check dam,3,-75.307733,9.332193,TRUE,C
+Ferraro Quarry,Europe,Italy,Infiltration basin,13,11.51734,45.67428,TRUE,C/D
+Kaurna Park,Oceania,Australia,Aquifer storage and recovery,3,138.6069616,-34.7389355,TRUE,C
+Kiindu Dam 5,Africa,Kenia,Subsurface Dam,4,38.00053,-1.45557,TRUE,D
+Västerbotten,Europe,Sweden,Infiltration basin,2,16.516,65.333,TRUE,B
+Las Vegas Valley well field,North America,USA,Aquifer storage and recovery,2,-115.252769,36.078198,TRUE,B
+"Guangrao, Dongying",Asia,China,Surface flooding and ditch-and-furrow,13,118.484859,37.086911,TRUE,C/D
+Shenbagathope,Asia,India,Subsurface Dam,4,79.056774,12.631261,TRUE,D
+Central Avra Valley Storage and Recovery Project (CAVSARP),North America,USA,Infiltration basin,3,-111.238615,32.238059,TRUE,C
+Udagamandalam (früher: Ootacamund),Asia,India,Subsurface Dam,4,76.699497,11.410759,TRUE,D
+Mulgowie Weir  (Lockyer Valley),Oceania,Australia,Check dam,14,152.3724,-27.753397,TRUE,D/D
+Jungfernheide,Europe,Germany,Infiltration basin,12,13.25,52.53,TRUE,B/D
+Cochrane Park Rehabilitation Project,North America,USA,Infiltration basin,2,-122.610175,46.937199,TRUE,B
+Esztergom,Europe,Hungary,Bank filtration,2,6.893921,52.22696,TRUE,B
+Daryan Chai,Asia,Iran,Check dam,3,45.604982,38.191138,TRUE,C
+La Cabaña bis,Europe,Spain,Aquifer storage and recovery,3,-3.829101,40.419288,TRUE,C
+Tampa-Rome Avenue Park (TRAP) ASR,North America,USA,Aquifer storage and recovery,2,-82.479783,28.007244,TRUE,B
+Marco Lakes – Expanded – ASR 2,North America,USA,Aquifer storage and recovery,12,-81.69333333,26.065555,TRUE,B/D
+El Paso Water Utilities 2 (EPWU),North America,USA,Aquifer storage and recovery,3,-106.364521,31.940272,TRUE,C
+City of Oxnard,North America,USA,Aquifer storage and recovery,3,-119.177432,34.204259,TRUE,C
+Walnut Spreading Basin,North America,USA,Infiltration basin,3,-117.874651,34.074118,TRUE,C
+"Jinxiang, Jining",Asia,China,Surface flooding and ditch-and-furrow,3,116.241001,34.939029,TRUE,C
+BS-1,South America,Brasil,Subsurface Dam,3,-40.328,-9.068,TRUE,C
+Guadix,Europe,Spain,Infiltration basin,3,-3.14,37.3,TRUE,C
+Yavne-4,Asia,Israel,Infiltration basin,3,34.70719,31.84786,TRUE,C
+Jokioinen,Europe,Finland,Bank filtration,3,23.5,60.8,TRUE,C
+Fazenda Folha Verde,South America,Brasil,Subsurface Dam,3,-40.05,-10.76667,TRUE,C
+Baerl,Europe,Germany,Bank filtration,2,6.667,51.486,TRUE,B
+"Columbia River High School – 10H1,2",North America,USA,Aquifer storage and recovery,3,-122.677893,45.693975,TRUE,C
+Kumbhej,Asia,India,Check dam,4,75.174658,18.311588,TRUE,D
+Oaklands Wetland,Oceania,Australia,Aquifer storage and recovery,3,138.5471397,-34.9973769,TRUE,C
+Valle de Toluca,North America,Mexico,Aquifer storage using wells,3,-99.6556653,19.2826098,TRUE,C
+Sítio Almeida,South America,Brasil,Subsurface Dam,3,-35.90199,-7.13384,TRUE,C
+Ban Nong Na (Nong Kula) 1,Asia,Thailand,Infiltration basin,13,99.999297,16.646433,TRUE,C/D
+Kolff,Europe,Netherlands,Bank filtration,13,5.249,51.829,TRUE,C/D
+"Sindos, Giannitsa Plain",Europe,Greece,Aquifer storage and recovery,3,22.8,40.67,TRUE,C
+Clarendon Dam (Lockyer Valley),Oceania,Australia,Check dam,4,152.3359946,-27.4975507,TRUE,D
+Cubeta de Santiuste de San Juan Bautista,Europe,Spain,Infiltration basin,3,-4.57,41.08,TRUE,C
+Solleveld,Europe,Netherlands,Infiltration basin,14,4.854,52.052,TRUE,D/D
+Huangshuihe Underground dam,Asia,China,Subsurface Dam,13,120.522914,37.740275,TRUE,C/D
+Aguascalientes,North America,Mexico,Aquifer storage using wells,4,-102.293428,21.890999,TRUE,D
+Dordrecht,Europe,Netherlands,Bank filtration,13,4.665756,51.8188,TRUE,C/D
+Nitata (Bhoja Kala),Asia,India,Check dam,13,76.201294,27.140253,TRUE,C/D
+Salem,North America,USA,Aquifer storage and recovery,13,-123.037606,44.888739,TRUE,C/D
+Adelaide Airport,Oceania,Australia,Aquifer storage and recovery,3,138.535684,-34.9534022,TRUE,C
+Hillsboro ASR System (HASR),North America,USA,Aquifer storage and recovery,3,-80.295232,26.355307,TRUE,C
+Valle de Santiago/ Río del Maipo,South America,Chile,Infiltration basin,3,-70.666667,-33.45,TRUE,C
+Universidade Federal de São Carlos (UFSCar),South America,Brasil,Trenches,4,-47.8805,-21.978339,TRUE,D
+De Hoorn,Europe,Netherlands,Bank filtration,13,4.625,52.133,TRUE,C/D
+EMBRAPA – Campo experimental da Caatinga BS-2,South America,Brasil,Subsurface Dam,3,-40.32788,-9.068088,TRUE,C
+Wanglong Farm 2,Asia,Taiwan,Infiltration basin,3,120.619761,22.52619,TRUE,C
+"Haidian, Peking",Asia,China,Aquifer storage using wells,3,116.319983,39.966394,TRUE,C
+Capdenac-Gare,Europe,France,Bank filtration,13,2.082,44.582,TRUE,C/D
+Foissac,Europe,France,Infiltration basin,3,2.00351198,44.51086704,TRUE,C
+Muklan,Asia,India,Aquifer storage and recovery,13,75.659481,29.068497,TRUE,C/D
+Tiel,Europe,Netherlands,Bank filtration,2,5.435,51.89,TRUE,B
+Shigaya well field C-105,Asia,Kuwait,Aquifer storage and recovery,2,47.246907,29.102865,TRUE,B
+East Meadow – wells,North America,USA,Aquifer storage and recovery,2,-73.559328,40.711222,TRUE,B
+Tongzhou,Asia,China,Surface flooding and ditch-and-furrow,13,116.713155,40.1139,TRUE,C/D
+La Mitidja Basins,Africa,Algeria,Infiltration basin,3,3.065827,36.520013,TRUE,C
+Corkscrew – Expanded – 5 ASR wells (ASR-1 to ASR-5),North America,USA,Aquifer storage and recovery,2,-81.704603,26.46339,TRUE,B
+WW Flehe + WW Staad + WW Holthausen,Europe,Germany,Bank filtration,13,6.73,51.295,TRUE,C/D
+Xi'an University of Science and Technology,Asia,China,Aquifer storage and recovery,3,108.984051,34.226901,TRUE,C
+Sar-chahan,Asia,Iran,Surface flooding and ditch-and-furrow,3,55.877645,28.061395,TRUE,C
+Tonami (Yasukawa),Asia,Japan,Infiltration basin,13,137.004001,36.625676,TRUE,C/D
+Corkscrew – 2 ASR wells (ASR-1 LM-3982; ASR-2 LM-4267),North America,USA,Aquifer storage and recovery,2,-81.704603,26.46339,TRUE,B
+Brigham City,North America,USA,Aquifer storage and recovery,3,-112.031203,41.50756,TRUE,C
+ASR Phase II site,North America,USA,Aquifer storage and recovery,3,-79.941536,32.775841,TRUE,C
+Fairbairn Dam,Oceania,Australia,Check dam,14,147.9385056,-23.6945582,TRUE,D/D
+Thompson Creek Spreading Grounds,North America,USA,Check dam,3,-117.710946,34.13933,TRUE,C
+Scheveningen DIP,Europe,Netherlands,Aquifer storage and recovery,2,4.31,52.125,TRUE,B
+Ergste,Europe,Germany,Bank filtration,3,7.63,51.46,TRUE,C
+Kaifeng,Asia,China,Aquifer storage using wells,13,114.275198,34.790017,TRUE,C/D
+Valle Aconcagua Dren las Vegas,South America,Chile,Infiltration basin,13,-71.01150513,-32.83676027,TRUE,C/D
+Nieuwe Marktstraat,Europe,Netherlands,Bank filtration,2,5.855,51.847,TRUE,B
+Chikhalgaon,Asia,India,Check dam,14,73.576591,18.565496,TRUE,D/D
+"Medical-Dental Bldg. - 4A2,3",North America,USA,Aquifer storage and recovery,3,-122.684149,45.518723,TRUE,C
+Varamin,Asia,Iran,Check dam,3,51.733348,35.399904,TRUE,C
+Gaobeidian WWTP,Asia,China,Infiltration basin,13,116.526057,39.895632,TRUE,C/D
+Aquífero Cauê – Área de influência Apolo,South America,Brasil,Infiltration basin,13,-63.6,-7.78,TRUE,C/D
+N/A,Asia,China,Infiltration basin,3,111.268567,34.186181,TRUE,C
+Charles M. Bolton well field,North America,USA,Bank filtration,13,-84.620627,39.318151,TRUE,C/D
+Ben Sergao,Africa,Morocco,Infiltration basin,3,-9.596897,30.333874,TRUE,C
+Oregonian Bldg. - 3E2,North America,USA,Aquifer storage and recovery,3,-122.681874,45.514848,TRUE,C
+Bangpoon,Asia,Thailand,Aquifer storage using wells,14,100.573651,13.999498,TRUE,D/D
+Bazley Weir (Three Moon Creek),Oceania,Australia,Check dam,14,151.123261,-24.893695,TRUE,D/D
+Parafield Airport – ASR,Oceania,Australia,Aquifer storage and recovery,4,138.6222026,-34.7935429,TRUE,D
+5 Wang Zhuang Lu,Asia,China,Aquifer storage using wells,3,116.338755,39.99876,TRUE,C
+Jeffara Plain,Africa,Tunisia,Aquifer storage using wells,2,10.36589,33.423801,TRUE,B
+Ica-Villacuri-Lanchas,South America,Peru,Infiltration basin,3,-75.72967,-14.049871,TRUE,C
+Kitui District,Africa,Kenia,Sand Dams,4,38.00394,-1.46194,TRUE,D
+Fazenda Belmonte,South America,Brasil,Subsurface Dam,14,-48.883994,-24.0493718,TRUE,D/D
+Sangapur,Asia,India,Check dam,4,78.658174,17.821119,TRUE,D
+Baker City,North America,USA,Aquifer storage and recovery,3,-117.858341,44.766666,TRUE,C
+"Equitable Bldg. – 34N3,4,5",North America,USA,Aquifer storage and recovery,3,-122.67799,45.520576,TRUE,C
+Kinchant Dam,Oceania,Australia,Check dam,14,148.893793,-21.1971234,TRUE,D/D
+Namsong,Asia,Korea,Subsurface Dam,13,126.912159,34.57321,TRUE,C/D
+CE Caatinga BS IV,South America,Brasil,Subsurface Dam,13,-37.959114,-6.803995,TRUE,C/D
+Vergel,Europe,Spain,Aquifer storage and recovery,3,0,38.84,TRUE,C
+Wabash River - Indiana–American Water Company,North America,USA,Bank filtration,3,-87.418028,39.476635,TRUE,C
+The Dalles,North America,USA,Aquifer storage and recovery,3,-121.181414,45.597531,TRUE,C
+Deep run lagoon,North America,USA,Infiltration basin,12,-74.309219,40.385622,TRUE,B/D
+Zhaoyuan,Asia,China,Aquifer storage and recovery,3,120.345108,37.380946,TRUE,C
+river Oja,Europe,Spain,Infiltration basin,13,-2.91,42.57,TRUE,C/D
+Declez Basin,North America,USA,Infiltration basin,3,-117.500702,34.031898,TRUE,C
+Gully Winds,Oceania,Australia,Aquifer storage and recovery,3,138.7540464,-34.568604,TRUE,C
+Sur 2,Asia,Oman,Check dam,2,59.338049,22.461952,TRUE,B
+ASR Pilot Study site,North America,USA,Aquifer storage and recovery,3,-79.970003,32.776973,TRUE,C
+Xi'an,Asia,China,Aquifer storage using wells,3,108.92807,34.180459,TRUE,C
+Grand Strand Water and Sewer Authority,North America,USA,Aquifer storage and recovery,3,-79.024041,33.782414,TRUE,C
+City of Beaverton ASR Project,North America,USA,Aquifer storage and recovery,3,-122.815834,45.463481,TRUE,C
+Sítio Estação Ecológica UFMG,South America,Brasil,Trenches,4,-43.975012,-19.88307,TRUE,D
+C. Rodenhuis,Europe,Netherlands,Bank filtration,13,4.775,51.936,TRUE,C/D
+Nieuwegein,Europe,Netherlands,Aquifer storage and recovery,12,5.094,52.032,TRUE,B/D
+Dösebacke,Europe,Sweden,Infiltration basin,3,16.3169,56.6735,TRUE,C
+Ixtapaluca (Parque Ejidal los Depósitos),North America,Mexico,Infiltration basin,3,-98.843104,19.324525,TRUE,C
+Lalpura (Koda Wala),Asia,India,Check dam,3,76.163959,27.264041,TRUE,C
+Fazenda Baixa Verde,South America,Brasil,Subsurface Dam,4,-44.7091,-8.916656,TRUE,D
+Böckinger Wiesen,Europe,Germany,Infiltration basin,3,9.165,49.129,TRUE,C
+Makauri Aquifer Managed Aquifer Recharge Trial,Oceania,New Zealand,Aquifer storage and recovery,3,177.9196,-38.61044,TRUE,C
+Blagnac,Europe,France,Infiltration basin,3,1.389836355,43.63602113,TRUE,C
+Schmarsow,Europe,Germany,Bank filtration,12,13.929,53.47,TRUE,B/D
+Jäniksenlinna,Europe,Finland,Infiltration basin,3,24.965,60.49,TRUE,C
+Tiefwerder,Europe,Germany,Bank filtration,2,13.22,52.52,TRUE,B
+Warruwi,Oceania,Australia,Aquifer storage and recovery,3,133.377581,-11.662803,TRUE,C
+Seminole-Brighton,North America,USA,Aquifer storage and recovery,12,-81.118072,27.078492,TRUE,B/D
+Riku,Europe,Finland,Bank filtration,3,24.072,61.464,TRUE,C
+Oakes - Large Recharge Test Basin,North America,USA,Infiltration basin,3,-98.094266,46.126103,TRUE,C
+Eksjö,Europe,Sweden,Infiltration basin,2,14.995,57.66,TRUE,B
+Samorin,Europe,Slovakia,Bank filtration,3,17.31445,48.03218,TRUE,C
+Abu Rawash,Africa,Egypt,Infiltration basin,3,31.236138,29.677871,TRUE,C
+Oakes – recharge test 1 & 2,North America,USA,Infiltration basin,3,-98.094266,46.126103,TRUE,C
+HuaiHai Lu DongDuan,Asia,China,Aquifer storage and recovery,3,121.479031,31.224633,TRUE,C
+Hermanus,Africa,South Africa,Subsurface Dam,3,19.234465,-34.418697,TRUE,C
+North London Artificial Recharge Scheme (NLARS),Europe,United Kingdom,Bank filtration,3,-0.398229,51.670883,TRUE,C
+Fazenda Rompe,South America,Brasil,Subsurface Dam,3,-40.2333,-11.46667,TRUE,C
+Neckaraue,Europe,Germany,Infiltration basin,3,9.118,48.693,TRUE,C
+Leiduin IP1-2,Europe,Netherlands,Aquifer storage and recovery,14,5,52,TRUE,D/D
+"Bayizhen,",Asia,China,Infiltration basin,13,123.297754,41.618709,TRUE,C/D
+Caddadup WWTP,Oceania,Australia,Infiltration basin,3,115.631538,-32.616839,TRUE,C
+Louisville Riverbank Filtration,North America,USA,Bank filtration,3,-85.62856,38.35937,TRUE,C
+Edwards Aquifer Authority Recharge Program,North America,USA,Check dam,3,-98.516913,29.468326,TRUE,C
+CE Caatinga BS II,South America,Brasil,Subsurface Dam,3,-38.959114,-7.803995,TRUE,C
+Edinburgh Park South,Oceania,Australia,Aquifer storage and recovery,3,138.650778,-34.707798,TRUE,C
+Ijsselstein,Europe,Netherlands,Bank filtration,2,5.040665,52.02166,TRUE,B
+Siegniederung,Europe,Germany,Bank filtration,3,7.207,50.8,TRUE,C
+City of North Las Vegas,North America,USA,Aquifer storage and recovery,3,-115.110595,36.244993,TRUE,C
+Mulgildie Weir (Three Moon Creek),Oceania,Australia,Check dam,14,151.092984,-25.0189,TRUE,D/D
+N/A,Asia,China,Infiltration basin,3,109.80943,40.073906,TRUE,C
+Globe Derby Park,Oceania,Australia,Aquifer storage and recovery,3,138.5910467,-34.7946624,TRUE,C
+Carpendale Weir  (Lockyer Valley),Oceania,Australia,Check dam,14,152.156704,-27.571747,TRUE,D/D
+Ketwig,Europe,Germany,Infiltration basin,13,6.929,51.364,TRUE,C/D
+Southern Avra Valley Storage and Recovery Project (SAVSARP),North America,USA,Infiltration basin,3,-111.224246,32.176115,TRUE,C
+Barka,Asia,Oman,Check dam,2,57.92953,23.59447,TRUE,B
+Oued Besbes,Africa,Algeria,Aquifer storage using wells,2,5.756197,34.900454,TRUE,B
+ETE Ponta Negra,South America,Brasil,Surface flooding and ditch-and-furrow,3,-35.178925,-5.898202,TRUE,C
+Leersum,Europe,Netherlands,Bank filtration,2,5.429,52.012,TRUE,B
+Etiwanda Spreading Area (Joint Use of Etiwanda Debris Basin),North America,USA,Infiltration basin,3,-117.508836,34.152802,TRUE,C
+Sítio Tanquinho,South America,Brasil,Subsurface Dam,4,-49.270172,-25.078805,TRUE,D
+Hitdorf + WW Süd,Europe,Germany,Bank filtration,13,6.987,51.044,TRUE,C/D
+Hazerswoude,Europe,Netherlands,Bank filtration,3,28.18268,61.00975,TRUE,C
+St. Elizabeth Church,Oceania,Australia,Aquifer storage and recovery,3,138.542125,-35.010864,TRUE,C
+Kale Zardabe,Asia,Iran,Surface flooding and ditch-and-furrow,3,55.474394,36.900281,TRUE,C
+Toushka Khoure,Africa,Egypt,Infiltration basin,1,31.62777777,22.4222222,TRUE,A
+Urrbrae wetland,Oceania,Australia,Aquifer storage and recovery,3,138.619545,-34.966084,TRUE,C
+Victor Valley Water District,North America,USA,Aquifer storage and recovery,2,-117.296367,34.529969,TRUE,B
+Xi'an Engineering Technology College,Asia,China,Aquifer storage and recovery,3,108.993197,34.251779,TRUE,C
+Jianye,Asia,China,Aquifer storage using wells,13,118.706239,32.031431,TRUE,C/D
+Los Sotillos,Europe,Spain,Aquifer storage using wells,3,-5.83,36.84,TRUE,C
+Mirrabooka,Oceania,Australia,Aquifer storage and recovery,3,115.8444068,-31.8456061,TRUE,C
+Sant Vicenç dels Horts,Europe,Spain,Infiltration basin,3,2.02,43.38,TRUE,C
+Michael Okpara University of Agriculture,Africa,Nigeria,Aquifer storage using wells,3,7.545783,5.480602,TRUE,C
+Dongling,Asia,China,Infiltration basin,13,123.454993,41.713939,TRUE,C/D
+Área da Agrishow,South America,Brasil,Subsurface Dam,3,-40.959114,-9.803995,TRUE,C
+Stammheim Nord / Süd,Europe,Germany,Bank filtration,3,9.151,48.844,TRUE,C
+Khoudh Dam,Asia,Oman,Check dam,3,58.165473,23.628847,TRUE,C
+Ridge Park,Oceania,Australia,Aquifer storage and recovery,3,138.640454,-34.9603666,TRUE,C
+Sítio Parque Lagoa do Nado (1 e 2),South America,Brasil,Trenches,14,-43.956758,-19.84175,TRUE,D/D
+Lagoa de Infiltração Cidade Jardim,South America,Brasil,Infiltration basin,3,-35.202974,-5.846633,TRUE,C
+Wohler Riverbank Filtration site,North America,USA,Bank filtration,3,-122.88234,38.51045,TRUE,C
+Sliedrecht,Europe,Netherlands,Bank filtration,3,4.773,51.825,TRUE,C
+Avis Weir (Three Moon Creek),Oceania,Australia,Check dam,14,151.123473,-24.979351,TRUE,D/D
+Bonneville Power Administration,North America,USA,Aquifer storage using wells,2,-122.097433,47.922272,TRUE,B
+City of Yakima,North America,USA,Aquifer storage and recovery,3,-120.526976,46.599605,TRUE,C
+Ujecie Polnoc,Europe,Poland,Bank filtration,3,21.01,52.23,TRUE,C
+Garzweiler,Europe,Germany,Aquifer storage and recovery,2,6.44,51.17,TRUE,B
+Nuestra Señora de Fátima,South America,Argentina,Check dam,3,-66.32171631,-30.35154626,TRUE,C
+Brenta Ramp,Europe,Italy,Subsurface Dam,3,11.6934,45.7214,TRUE,C
+Pima Mine Road Recharge Project (PMRRP),North America,USA,Infiltration basin,3,-110.958278,32.016369,TRUE,C
+Wang He Zhuang Zi Cun,Asia,China,Subsurface Dam,13,120.172658,37.241307,TRUE,C/D
+Budhshelly,Asia,India,Aquifer storage and recovery,3,75.578256,28.811682,TRUE,C
+West Well Field,North America,USA,Aquifer storage and recovery,13,-80.461394,25.739801,TRUE,C/D
+Diamond Creek well,North America,USA,Aquifer storage and recovery,13,-121.335994,38.805949,TRUE,C/D
+Scottsdale Water Campus,North America,USA,Aquifer storage and recovery,3,-111.892772,33.659395,TRUE,C
+Lübbenau,Europe,Germany,Bank filtration,12,13.932,51.868,TRUE,B/D
+Sítio Santo Antônio – Distrito de Capim,South America,Brasil,Subsurface Dam,13,-40.23717,-9.8731,TRUE,C/D
+Oakes – Small Recharge Test Basin,North America,USA,Infiltration basin,3,-98.093011,46.125,TRUE,C
+Benrath,Europe,Germany,Bank filtration,13,6.84,51.16,TRUE,C/D
+Senbaru,Asia,Japan,Subsurface Dam,3,127.763829,26.249964,TRUE,C
+Balisha River,Asia,China,Subsurface Dam,3,116.984759,40.426251,TRUE,C
+East Meadow – basins,North America,USA,Infiltration basin,2,-73.559328,40.711222,TRUE,B
+Damascus University Campus,Asia,Syria,Aquifer storage and recovery,3,36.290802,33.511274,TRUE,C
+Darnakambala area,Asia,India,Check dam,3,79.304971,13.545506,TRUE,C
+Shijiazhuang,Asia,China,Infiltration basin,13,114.512185,38.140566,TRUE,C/D
+Soukra,Africa,Tunisia,Surface flooding and ditch-and-furrow,3,10.25,36.883,TRUE,C
+CE Caatinga BS,South America,Brasil,Subsurface Dam,3,-39.959114,-8.803995,TRUE,C
+City of Kerrville,North America,USA,Aquifer storage and recovery,13,-99.142412,30.045765,TRUE,C/D
+Hainburg,Europe,Austria,Bank filtration,3,16.94,48.12,TRUE,C
+Karanampettai,Asia,India,Check dam,3,77.185017,11.017903,TRUE,C
+Maribor,Europe,Slovenia,Bank filtration,3,15.646,46.5567,TRUE,C
+N/A,Asia,China,Subsurface Dam,3,102.620827,39.725872,TRUE,C
+Ocotillo ASR Facility,North America,USA,Aquifer storage and recovery,13,-111.89217,33.256422,TRUE,C/D
+"President Estate , New Delhi",Asia,India,Trenches,3,77.197286,28.616437,TRUE,C
+Yanchep WWTP,Oceania,Australia,Infiltration basin,3,115.646792,-31.5459028,TRUE,C
+Mount Gambier,Oceania,Australia,Aquifer storage and recovery,13,140.7788041,-37.8263533,TRUE,C/D
+Kraemer Basin,North America,USA,Infiltration basin,13,-117.856654,33.861014,TRUE,C/D
+Borsodszirak,Europe,Hungary,Infiltration basin,3,20.768,48.261,TRUE,C
+Leiduin WIP,Europe,Netherlands,Aquifer storage and recovery,14,5,52,TRUE,D/D
+San Jacinto recharge site,North America,USA,Infiltration basin,2,-116.922753,33.771743,TRUE,B
+Paleshwaram,Asia,India,Check dam,13,80.044002,13.322428,TRUE,C/D
+Rosenau,Europe,Austria,Infiltration basin,3,14.378554,47.99288,TRUE,C
+Wang He Cun,Asia,China,Subsurface Dam,3,117.148194,36.860907,TRUE,C
+Aquífero Cauê – Área de influência Capanema,South America,Brasil,Infiltration basin,3,-64.5,-7.77,TRUE,C
+La Jolla Basin,North America,USA,Infiltration basin,3,-117.869659,33.860794,TRUE,C
+Virttaankangas,Europe,Finland,Infiltration basin,3,22.692576,60.901196,TRUE,C
+Warner Basin System,North America,USA,Infiltration basin,3,-117.830223,33.854693,TRUE,C
+Bodegraven,Europe,Netherlands,Bank filtration,3,4.750557,52.09111,TRUE,C
+Dijklaan,Europe,Netherlands,Bank filtration,3,4.784,51.925,TRUE,C
+Evesham Township MUA,North America,USA,Aquifer storage and recovery,12,-74.879292,39.852528,TRUE,B/D
+Örby,Europe,Sweden,Infiltration basin,3,13.006,55.605,TRUE,C
+Lakehaven Utility District,North America,USA,Aquifer storage and recovery,2,-122.335041,47.318059,TRUE,B
+Saham,Asia,Oman,Check dam,2,56.731968,24.210171,TRUE,B
+Lincoln Basin,North America,USA,Infiltration basin,3,-117.865443,33.834318,TRUE,C
+Castellbisbal,Europe,Spain,Infiltration basin,13,1.96,41.47,TRUE,C/D
+Miremont,Europe,France,Infiltration basin,3,2.716676426,45.89872312,TRUE,C
+Engineering Design & Research Institute,Asia,China,Aquifer storage and recovery,3,116.301297,39.925043,TRUE,C
+"Al Hamra, Wadi Ghul",Asia,Oman,Check dam,3,57.235907,23.139653,TRUE,C
+Kiindu Dam 3,Africa,Kenia,Subsurface Dam,4,38.00394,-1.46194,TRUE,D
+Bacia 2: Rod. Geraldo Silva Nascimento – Instituto Federal Goiano,South America,Brasil,Infiltration basin,4,-48.2269,-17.5019,TRUE,D
+Alamitos Gap Seawater Barrier,North America,USA,Aquifer storage using wells,3,-118.096743,33.773909,TRUE,C
+Wanglong Farm 1,Asia,Taiwan,Infiltration basin,3,120.619761,22.52619,TRUE,C
+Angas – Bremer,Oceania,Australia,Aquifer storage and recovery,3,139.0649091,-35.3001429,TRUE,C
+Curral Queimado,South America,Brasil,Subsurface Dam,3,-37.21417,-6.37308,TRUE,C
+Fazenda Asa Branca-comunidade Barreiro,South America,Brasil,Subsurface Dam,4,-48.91742,-24.0446051,TRUE,D
+Mekhtan Dam,Africa,Yemen,Check dam,3,44.331205,15.38153,TRUE,C
+MVWD ASR Program,North America,USA,Aquifer storage and recovery,3,-117.682045,34.12637,TRUE,C
+Mitchell River,Oceania,Australia,Aquifer storage and recovery,14,147.3707958,-37.7794543,TRUE,D/D
+Ben Lomond Spreading Grounds,North America,USA,Infiltration basin,3,-117.882746,34.105117,TRUE,C
+Vauvert,Europe,France,Aquifer storage and recovery,3,4.276675945,43.69291499,TRUE,C
+Parafield Airport – ASTR,Oceania,Australia,Aquifer storage and recovery,4,138.6222026,-34.7935429,TRUE,D
+Minafuku,Asia,Japan,Subsurface Dam,13,125.412596,24.740567,TRUE,C/D
+Sidfa Riverbank Filtration,Africa,Egypt,Bank filtration,3,31.389553,26.967987,TRUE,C
+Ixtapaluca (San Buenaventura),North America,Mexico,Aquifer storage and recovery,3,-98.859231,19.307335,TRUE,C
+Bajestan,Asia,Iran,Surface flooding and ditch-and-furrow,3,58.172951,34.519212,TRUE,C
+Aquífero Cauê – Área de influência Mutuca,South America,Brasil,Infiltration basin,4,-60.92,-7.79,TRUE,D
+Fountain Valley – Water Factory 21,North America,USA,Aquifer storage using wells,3,-117.945191,33.693724,TRUE,C
+Ciudad Juarez,North America,Mexico,Aquifer storage using wells,3,-106.455753,31.701073,TRUE,C
+Marco Lakes – ASR-1 CO-2428,North America,USA,Aquifer storage and recovery,12,-81.69333333,26.065555,TRUE,B/D
+MBT Ranch Recharge Project/ Vidler Recharge Facility,North America,USA,Infiltration basin,3,-113.395037,33.557785,TRUE,C
+Johannisthal,Europe,Germany,Bank filtration,2,13.5,52.45,TRUE,B
+Andrews Farm (Stebonheath Park),Oceania,Australia,Aquifer storage and recovery,3,138.665145,-34.675922,TRUE,C
+Toevoersloot,Europe,Netherlands,Aquifer storage and recovery,13,4.656,52.299,TRUE,C/D
+Kaler (Tode Sagar),Asia,India,Check dam,3,76.224218,27.155505,TRUE,C
+Forbes Spreading Grounds,North America,USA,Infiltration basin,3,-117.832627,34.118947,TRUE,C
+City of Tualatin,North America,USA,Aquifer storage and recovery,3,-122.788146,45.356024,TRUE,C
+Barrera hidraulica del llobregat,Europe,Spain,Aquifer storage and recovery,3,2.09,41.33,TRUE,C
+Citrus Spreading Grounds,North America,USA,Infiltration basin,3,-117.893487,34.108788,TRUE,C
+Assentamento Oziel Pereira (Owner: Anilda P.dos Santos),South America,Brasil,Subsurface Dam,3,-35.8009,-6.8967,TRUE,C
+Comunidade Santo Agostinho (Owner: Fernando D. de Souza),South America,Brasil,Subsurface Dam,3,-37.2532,-7.22381,TRUE,C
+Giiza,Asia,Japan,Subsurface Dam,3,127.73298,26.100777,TRUE,C
+Cloudbreak,Oceania,Australia,Aquifer storage and recovery,4,119.362449,-22.317891,TRUE,D
+Chhara,Asia,India,Aquifer storage and recovery,3,76.717358,28.696818,TRUE,C
+Gabcikovo,Europe,Slovakia,Bank filtration,3,17.57,47.89,TRUE,C
+Lavelanet-de-Comminges,Europe,France,Infiltration basin,3,1.11824784,43.25581424,TRUE,C
+Lower Tenthill Weir  (Lockyer Valley),Oceania,Australia,Check dam,4,152.235815,-27.593005,TRUE,D
+"42 Black Horse Pike, ASR well 14 (Monroe South)",North America,USA,Aquifer storage and recovery,12,-74.88514,39.604965,TRUE,B/D
+Banana Basin,North America,USA,Infiltration basin,3,-117.497383,34.094449,TRUE,C
+Swimming River,North America,USA,Aquifer storage and recovery,2,-74.090884,40.33223,TRUE,B
+Placentia Basin,North America,USA,Infiltration basin,3,-117.886221,33.857704,TRUE,C
+Fochabers,Europe,United Kingdom,Bank filtration,12,-3.116,57.611,TRUE,B/D
+Sun Lakes City,North America,USA,Aquifer storage and recovery,3,-111.869533,33.218165,TRUE,C
+Cajamarca,South America,Peru,Trenches,3,-78.531114,-7.159392,TRUE,C
+Scheveningen Flip- Flop,Europe,Netherlands,Aquifer storage and recovery,2,4.31,52.125,TRUE,B
+Marathon Pumping Station,North America,USA,Aquifer storage and recovery,3,-81.0938888,24.71083333,TRUE,C
+Lange Erlen,Europe,Switzerland,Surface flooding and ditch-and-furrow,13,7.6,47.57,TRUE,C/D
+Hunbai,Asia,China,Infiltration basin,3,123.601173,41.828288,TRUE,C
+Dagujia River,Asia,China,Subsurface Dam,3,121.283957,37.517839,TRUE,C
+Contigny,Europe,France,Infiltration basin,3,3.304569236,46.35318524,TRUE,C
+Lagoa Manoel Felipe,South America,Brasil,Infiltration basin,3,-35.20299,-5.79634,TRUE,C
+Mankhal Cheruvu,Asia,India,Check dam,4,78.447879,17.165704,TRUE,D
+Greenspot Rd basin and recharge dams,North America,USA,Infiltration basin,3,-117.118445,34.099597,TRUE,C
+Garmsar,Asia,Iran,Check dam,3,52.438213,35.26982,TRUE,C
+San José del Cabo,North America,Mexico,Check dam,4,-109.809358,23.126883,TRUE,D
+Souss - Massa,Africa,Morocco,Channel infiltration/spreading,3,-8.877,30.4703,TRUE,C
+Tujunga Spreading Grounds,North America,USA,Infiltration basin,3,-118.41479,34.226479,TRUE,C
+BS-2,South America,Brasil,Subsurface Dam,3,-39.32563,-8.069837,TRUE,C
+Fukuzato,Asia,Japan,Subsurface Dam,13,125.402511,24.734194,TRUE,C/D
+Halstead recharge site – trench and basin,North America,USA,Aquifer storage using wells,3,-97.565488,38.014659,TRUE,C
+Huantai,Asia,China,Infiltration basin,13,117.911602,36.980017,TRUE,C/D
+Oberwerth,Europe,Germany,Bank filtration,3,7.59,50.34,TRUE,C
+Turner Basins,North America,USA,Infiltration basin,3,-117.596712,34.073858,TRUE,C
+Emamzadeh Jaafar Artificial Recharge (EJAR) Project,Asia,Iran,Check dam,3,50.969885,30.325833,TRUE,C
+Ana Catchment 1,Africa,Kenia,Subsurface Dam,4,37.98505,-1.34344,TRUE,D
+El Paso Water Utilities 1 (EPWU),North America,USA,Aquifer storage and recovery,3,-106.364521,31.940272,TRUE,C
+Olga Water Treatment Plant,North America,USA,Aquifer storage and recovery,2,-81.68222222,26.72,TRUE,B
+Twin Oaks ASR – San Antonio Water System (SAWS),North America,USA,Aquifer storage and recovery,3,-98.404393,29.126093,TRUE,C
+Bill Gun Dam  (Lockyer Valley),Oceania,Australia,Check dam,14,152.3785385,-27.6283761,TRUE,D/D
+County Line AR,North America,USA,Trenches,3,-119.45561,45.792006,TRUE,C
+Brooks Street Basin,North America,USA,Infiltration basin,3,-117.711076,34.060761,TRUE,C
+Weiler,Europe,Germany,Bank filtration,3,6.87,51.02,TRUE,C
+Loeriesfontein,Africa,South Africa,Aquifer storage using wells,3,19.443363,-30.953936,TRUE,C
+Aquarenova,Europe,France,Infiltration basin,3,6.156057,43.120094,TRUE,C
+West Deptford,North America,USA,Aquifer storage and recovery,2,-75.189861,39.837185,TRUE,B
+Condomínio Residencial Alto da Boa Vista,South America,Brasil,Aquifer storage using wells,4,-47.762485,-15.62388,TRUE,D
+Broward County Office of Environmental Services 2A (BCOES2A) Water Treatment Plant ASR System,North America,USA,Aquifer storage and recovery,3,-80.252403,26.205657,TRUE,C
+Callide Weir (Callide Valley),Oceania,Australia,Check dam,4,150.4731092,-24.3467283,TRUE,D
+Badain Jilin Samo,Asia,China,Infiltration basin,3,102.620827,39.725872,TRUE,C
+Lake Baltezers,Europe,Latvia,Bank filtration,3,24.10538,56.95471,TRUE,C
+Ixtapaluca,North America,Mexico,Check dam,13,-98.87335,19.287398,TRUE,C/D
+Yongchang-Jinchang,Asia,China,Infiltration basin,3,102.286657,38.476994,TRUE,C
+Goleta Water District,North America,USA,Aquifer storage and recovery,3,-119.854427,34.437686,TRUE,C
+Tonami (Kitsunejima) No.1-3,Asia,Japan,Infiltration basin,13,136.918889,36.651667,TRUE,C/D
+Grove Basin,North America,USA,Infiltration basin,3,-117.63002,34.016749,TRUE,C
+Leiduin,Europe,Netherlands,Infiltration basin,12,4.55,52.38,TRUE,B/D
+Lower Day Basin,North America,USA,Infiltration basin,3,-117.543524,34.132022,TRUE,C
+Manzanares,South America,Chile,Trenches,13,-72.50955319,-36.35599726,TRUE,C/D
+Kitui District,Africa,Kenia,Subsurface Dam,4,38.00394,-1.46194,TRUE,D
+Kingfisher,Oceania,Australia,Aquifer storage and recovery,3,138.695693,-34.810455,TRUE,C
+Shram sakthi Bhawan (Ministry of Labour and Employment),Asia,India,Trenches,3,77.212059,28.618466,TRUE,C
+Rustaq,Asia,Oman,Check dam,3,57.013136,23.955932,TRUE,C
+Clarendon Weir  (Lockyer Valley),Oceania,Australia,Check dam,4,152.374924,-27.526693,TRUE,D
+Sítio Parque Nossa Senhora da Piedade,South America,Brasil,Trenches,3,-43.92618,-19.84793,TRUE,C
+Hieroglyphic Mountains Recharge Project (HMRP),North America,USA,Infiltration basin,3,-112.425473,33.759517,TRUE,C
+Echthausen,Europe,Germany,Bank filtration,13,7.89,51.5,TRUE,C/D
+N/A,Asia,China,Subsurface Dam,13,107.349539,35.213283,TRUE,C/D
+Tualatin Valley Water District,North America,USA,Aquifer storage and recovery,3,-122.892836,45.462151,TRUE,C
+Fanshan,Asia,China,Surface flooding and ditch-and-furrow,13,116.158776,39.703593,TRUE,C/D
+Barra de Maniçoba,South America,Brasil,Subsurface Dam,3,-37.22113,-6.32229,TRUE,C
+Halstead recharge site – well,North America,USA,Aquifer storage using wells,3,-97.565488,38.014659,TRUE,C
+Valle Aconcagua,South America,Chile,Infiltration basin,3,-70.6865124,-32.7823009,TRUE,C
+JNU – IIT - Sanjay Van Project - Sanjay Van,Asia,India,Check dam,3,77.173517,28.530088,TRUE,C
+Korba,Africa,Tunisia,Infiltration basin,3,10.909284,36.66471,TRUE,C
+Haidian,Asia,China,Infiltration basin,13,116.214405,39.918853,TRUE,C/D
+Johnson Aquifer Recharge Site,North America,USA,Infiltration basin,3,-118.439909,45.95698,TRUE,C
+Assentamento Pedro Henrique (Owner: Francisco Lira dos Santos,South America,Brasil,Subsurface Dam,3,-35.7607,-6.7856,TRUE,C
+Jardim Atlântico,South America,Brasil,Aquifer storage using wells,3,-49.2953,-16.7265,TRUE,C
+Lobau,Europe,Austria,Bank filtration,3,16.5,48.174,TRUE,C
+Victoria Basin,North America,USA,Infiltration basin,3,-117.50619,34.129886,TRUE,C
+EMBRAPA – Campo experimental da Caatinga BS-1,South America,Brasil,Subsurface Dam,3,-40.328099,-9.069175,TRUE,C
+The Vines Golf Course,Oceania,Australia,Aquifer storage and recovery,4,138.57417,-35.093027,TRUE,D
+Lagoa de Alagamar,South America,Brasil,Infiltration basin,3,-35.17535,-5.883129,TRUE,C
+Villigst,Europe,Germany,Infiltration basin,13,7.627938,51.45192,TRUE,C/D
+Ulfiswiese,Europe,Austria,Bank filtration,3,11.344,47.257,TRUE,C
+Oregonian Bldg. - 3E1,North America,USA,Aquifer storage and recovery,3,-122.681874,45.514848,TRUE,C
+Harkins Slough MAR pond,North America,USA,Infiltration basin,3,-121.817963,36.888578,TRUE,C
+Geldermalsen,Europe,Netherlands,Bank filtration,12,5.288029,51.88126,TRUE,B/D
+Lagoa de Infiltração Mirassol,South America,Brasil,Infiltration basin,3,-35.204664,-5.844457,TRUE,C
+Veerdam,Europe,Netherlands,Bank filtration,2,4.683201,51.82423,TRUE,B
+Maligampattu Odai,Asia,India,Aquifer storage using wells,3,79.52805,11.735055,TRUE,C
+Brick Township MUA,North America,USA,Aquifer storage and recovery,12,-74.136903,40.0572,TRUE,B/D
+Wadi Al Hawasnah & Wadi Bani Omar Dam,Asia,Oman,Check dam,3,57.013136,23.955932,TRUE,C
+"Barka, Wadi Hifri (10)",Asia,Oman,Check dam,2,57.790212,23.616123,TRUE,B
+Santa Fe Spreading Grounds,North America,USA,Infiltration basin,3,-117.954246,34.120986,TRUE,C
+Sítio Almeida,South America,Brasil,Subsurface Dam,3,-35.847647,-7.15178,TRUE,C
+Koppanymonostor,Europe,Hungary,Bank filtration,2,18.06084,47.75271,TRUE,B
+Fred Hervey Water Reclamation Plant,North America,USA,Aquifer storage using wells,3,-106.364348,31.944596,TRUE,C
+Comunidade Mandacácio,South America,Brasil,Subsurface Dam,3,-39.328154,-8.069863,TRUE,C
+Torgelow,Europe,Germany,Bank filtration,2,14.08,53.628,TRUE,B
+El Hajeb-Sidi Abid,Africa,Tunisia,Surface flooding and ditch-and-furrow,3,10.69585,34.69983,TRUE,C
+Madam,Asia,India,Subsurface Dam,3,79.60173,12.38472,TRUE,C
+Winkler Avenue,North America,USA,Aquifer storage and recovery,2,-81.881388,26.602222,TRUE,B
+Manshad,Asia,Iran,Check dam,2,54.333416,31.605405,TRUE,B
+Urfahr,Europe,Austria,Bank filtration,3,14.286,48.307,TRUE,C
+Wuhlheide,Europe,Germany,Bank filtration,12,13.53,52.47,TRUE,B/D
+Tonopah Desert Recharge Project (TDRP),North America,USA,Infiltration basin,3,-112.984259,33.555862,TRUE,C
+Wynn Vale Dam,Oceania,Australia,Aquifer storage and recovery,4,138.699468,-34.799446,TRUE,D
+Greenfields Wetlands,Oceania,Australia,Aquifer storage and recovery,3,138.6013319,-34.8093112,TRUE,C
+"National Bank of Washington, Villa Plaza Branch – 2D1,3",North America,USA,Aquifer storage and recovery,3,-122.514397,47.163249,TRUE,C
+Tanglabidly,Asia,Iran,Check dam,2,54.435217,31.49373,TRUE,B
+Langebaan,Africa,South Africa,Aquifer storage using wells,3,18.046854,-33.076732,TRUE,C
+"Mannheim ASR Project, Region of Waterloo",North America,Canada,Aquifer storage and recovery,3,-80.531282,43.401755,TRUE,C
+Sucre,South America,Bolivia,Trenches,3,-65.245929,-19.05245,TRUE,C
+Frankfurter WW2 + WW5 + WW7,Europe,Germany,Infiltration basin,13,8.560689,50.097267,TRUE,C/D
+Shanghai,Asia,China,Aquifer storage and recovery,13,121.458065,31.242089,TRUE,C/D
+Hawks Prairie Reclaimed Water Satellite,North America,USA,Infiltration basin,3,-122.765124,47.07446,TRUE,C
+Cluj,Europe,Romania,Bank filtration,13,23.4908,46.7475,TRUE,C/D
+Peace River ASR Project,North America,USA,Aquifer storage and recovery,2,-82.014606,27.094896,TRUE,B
+Szentendre Island,Europe,Hungary,Bank filtration,13,19.092,47.738,TRUE,C/D
+Binsheimer Feld,Europe,Germany,Infiltration basin,3,6.702,51.509,TRUE,C
+Arcade,Europe,Italy,Aquifer storage using wells,3,12.2195,45.7807,TRUE,C
+Nagybajcs-szegoye,Europe,Hungary,Bank filtration,3,17.64816,47.69636,TRUE,C
+Sohar Dam,Asia,Oman,Check dam,2,56.73214,24.264643,TRUE,B
+Kievietsweg,Europe,Netherlands,Bank filtration,14,5,52,TRUE,D/D
+Campina de Faro,Europe,Portugal,Infiltration basin,3,-7.915,37.042,TRUE,C
+Ujecie Bogucino-Rosciecino,Europe,Poland,Bank filtration,3,15.56,54.169,TRUE,C
+Little Dalton Spreading Grounds,North America,USA,Infiltration basin,3,-117.841742,34.152551,TRUE,C
+Akola region,Asia,India,Trenches,4,77.002079,20.701167,TRUE,D
+Herten,Europe,Netherlands,Aquifer storage and recovery,2,5.962,51.181,TRUE,B
+Sítio Olho D'água dos Brandões,South America,Brasil,Subsurface Dam,3,-36.41419,-6.2118,TRUE,C
+Distrito Curral Velho,South America,Brasil,Subsurface Dam,3,-38.00017,-6.23119,TRUE,C
+Livermore,North America,USA,Aquifer storage and recovery,3,-121.764091,37.685006,TRUE,C
+Sítio Maniçoba,South America,Brasil,Subsurface Dam,13,-40.08788,-7.915354,TRUE,C/D
+Pitombeira,South America,Brasil,Subsurface Dam,3,-37.24519,-6.45574,TRUE,C
+Zanjan plain,Asia,Iran,Surface flooding and ditch-and-furrow,3,48.479061,36.67929,TRUE,C
+Moorestown,North America,USA,Aquifer storage and recovery,2,-74.949786,39.970395,TRUE,B
+Mount Pleasant Waterworks & Sewer Commission,North America,USA,Aquifer storage and recovery,3,-79.826024,32.833053,TRUE,C
+Micron Technologies,North America,USA,Aquifer storage and recovery,3,-116.149497,43.528501,TRUE,C
+Wala reservoir,Europe,Jordan,Check dam,3,35.80444,31.56806,TRUE,C
+Berkheide,Europe,Netherlands,Infiltration basin,2,4.383,52.183,TRUE,B
+Wadi Al Jizzi,Asia,Oman,Check dam,3,56.516248,24.312339,TRUE,C
+1211 Shi Ji Da Dao,Asia,China,Aquifer storage using wells,3,121.528131,31.228822,TRUE,C
+Trecho do Rio Itajaí do Sul,South America,Brasil,Bank filtration,13,-49.6054,-27.41336,TRUE,C/D
+Marco Lakes – Expanded – ASR 3,North America,USA,Aquifer storage and recovery,12,-81.69333333,26.065555,TRUE,B/D
+WW Styrum Ost + WW Styrum West,Europe,Germany,Infiltration basin,2,6.8,51.46,TRUE,B
+The Paddocks,Oceania,Australia,Aquifer storage and recovery,4,138.642021,-34.811716,TRUE,D
+Bergje Texel,Europe,Netherlands,Aquifer storage and recovery,13,4.817,53.033,TRUE,C/D
+Shijingshan,Asia,China,Aquifer storage using wells,3,116.204792,39.934926,TRUE,C
+Huantai,Asia,China,Surface flooding and ditch-and-furrow,3,118.101882,36.945175,TRUE,C
+Ahvenisto,Europe,Finland,Infiltration basin,2,26.51168,61.29572,TRUE,B
+"First National Bank, 1405 S.W. Morrison St. Branch3- 3R1,2",North America,USA,Aquifer storage and recovery,3,-122.686471,45.5214,TRUE,C
+Off-River Channel,North America,USA,Infiltration basin,3,-117.860583,33.84118,TRUE,C
+Rovatnet,Europe,Norway,Bank filtration,12,9.042739,63.238397,TRUE,B/D
+Linsental,Europe,Switzerland,Bank filtration,3,8.758,47.468,TRUE,C
+Pacoima Spreading Grounds,North America,USA,Infiltration basin,3,-118.448018,34.256425,TRUE,C
+Jagsi-Sarfabad deep,Asia,India,Aquifer storage and recovery,3,76.63632,29.276362,TRUE,C
+Baoshan Farm,Asia,China,Infiltration basin,13,130.932933,46.937761,TRUE,C/D
+American Pipe & Construction Co.,North America,USA,Aquifer storage and recovery,3,-122.664035,45.52921,TRUE,C
+Área do Laboratório de Sistemas Prediais - EEC -UFG,South America,Brasil,Aquifer storage using wells,4,-49.241,-16.67698,TRUE,D
+Haren,Europe,Netherlands,Aquifer storage and recovery,2,6.613,53.172,TRUE,B
+University of Sasketchewan field site 2,North America,Canada,Aquifer storage using wells,2,-107.239452,52.404789,TRUE,B
+Raudatain well field R-63,Asia,Kuwait,Aquifer storage and recovery,3,47.72133,29.880411,TRUE,C
+San Gabriel River (San Gabriel Valley),North America,USA,Check dam,3,-118.070543,33.9997,TRUE,C
+Bhaonta (Beruji),Asia,India,Check dam,3,76.218212,27.333514,TRUE,C
+Arrowhead Ranch Water Reclamation Facility (ARWRF),North America,USA,Aquifer storage and recovery,3,-112.196979,33.668322,TRUE,C
+Assentamento Pedro Henrique - BS-4 (Owner: Maria de Lourdes F. da Silva),South America,Brasil,Subsurface Dam,3,-35.75722,-6.78083,TRUE,C
+Al-Mazraa,Asia,Syria,Aquifer storage and recovery,3,36.296725,33.52459,TRUE,C
+"Pacific Power & Light Co. - 3D5,6",North America,USA,Aquifer storage and recovery,3,-122.678194,45.518028,TRUE,C
+Northfield/Northgate,Oceania,Australia,Aquifer storage and recovery,3,138.6271309,-34.858292,TRUE,C
+Xi'an Nuclear Instrument Factory,Asia,China,Aquifer storage and recovery,3,108.955589,34.222643,TRUE,C
+Sandy Creek Weir  (Lockyer Valley),Oceania,Australia,Check dam,4,152.331268,-27.637178,TRUE,D
+New River-Agua Fria River Underground Storage Project (NAUSP),North America,USA,Infiltration basin,3,-112.285105,33.526209,TRUE,C
+Breehei,Europe,Netherlands,Aquifer storage and recovery,12,6.011,51.482,TRUE,B/D
+Big Dalton Spreading Grounds,North America,USA,Infiltration basin,3,-117.836233,34.153644,TRUE,C
+Lytchet Minster,Europe,United Kingdom,Aquifer storage and recovery,3,-2.058591,50.738097,TRUE,C
+BF Plant Nokia - Maatialaharju,Europe,Finland,Bank filtration,3,23.50126,61.48072,TRUE,C
+Sand Hollow Trench,North America,USA,Trenches,2,-113.374203,37.128629,TRUE,B
+Ottappalam,Asia,India,Subsurface Dam,13,76.37837,10.770063,TRUE,C/D
+T Kromme Gat + De Put,Europe,Netherlands,Bank filtration,13,4.822,51.827,TRUE,C/D
+Sojovice,Europe,Czech Republik,Bank filtration,13,14.755827,50.216359,TRUE,C/D
+Kissimmee River ASR system (KRARS),North America,USA,Aquifer storage and recovery,2,-80.874917,27.155194,TRUE,B
+Noordhollands Duinreservaat,Europe,Netherlands,Infiltration basin,12,4.621,52.547,TRUE,B/D
+Shingnapur,Asia,India,Bank filtration,14,77.489684,20.942633,TRUE,D/D
+Riverton Heights and Boulevard Park,North America,USA,Aquifer storage and recovery,3,-122.306685,47.497631,TRUE,C
+Dominguez Gap Spreading Grounds,North America,USA,Infiltration basin,3,-118.203074,33.845733,TRUE,C
+Linkes Tumed-Banne,Asia,China,Aquifer storage and recovery,13,111.863823,40.785557,TRUE,C/D
+Verdun-sur-Garonne,Europe,France,Infiltration basin,3,1.236389,43.85389,TRUE,C
+Shitoro,Asia,Japan,Subsurface Dam,3,138.1081,34.841013,TRUE,C
+Fazenda Sítio Manoel,South America,Brasil,Subsurface Dam,13,-36.373584,-6.524552,TRUE,C/D
+Oak Creek,North America,USA,Aquifer storage and recovery,3,-87.92191,42.874693,TRUE,C
+Lower Flagstone Creek Weir  (Lockyer Valley),Oceania,Australia,Check dam,14,152.142102,-27.592346,TRUE,D/D
+Al Ansab,Asia,Oman,Check dam,2,58.343948,23.548235,TRUE,B
+Atlantis Water Resource Management Scheme (AWRMS),Africa,South Africa,Infiltration basin,3,18.449092,-33.628087,TRUE,C
+Comarca Lagunera,North America,Mexico,Infiltration basin,3,-103.433333,25.55,TRUE,C
+Södertälje,Europe,Sweden,Infiltration basin,13,17.625,59.195,TRUE,C/D
+Xian,Asia,China,Aquifer storage using wells,3,108.931544,34.322784,TRUE,C
+Westbrook Ave. ASR Site,North America,USA,Aquifer storage and recovery,3,-77.833933,34.22335,TRUE,C
+Rokugo basin 2,Asia,Japan,Infiltration basin,3,140.568056,39.416667,TRUE,C
+Qingfeng Farm,Asia,China,Aquifer storage and recovery,13,133.072354,45.786947,TRUE,C/D
+United Water,North America,USA,Aquifer storage and recovery,3,-116.283314,43.576807,TRUE,C
+Redmond ASR,North America,USA,Aquifer storage and recovery,3,-122.10887,47.677008,TRUE,C
+Agon-Coutainville,Europe,France,Infiltration basin,13,-1.59444444,49.05527778,TRUE,C/D
+Springtree – City of Sunrise ASR System,North America,USA,Aquifer storage and recovery,3,-80.2611111,26.1758333,TRUE,C
+Cuenca del Río Sonora,North America,Mexico,Infiltration basin,4,-110.954286,29.068506,TRUE,D
+"Federal Savings & Loan Association Building - 27G1,2",North America,USA,Aquifer storage and recovery,3,-122.670789,45.630385,TRUE,C
+Valles Centrales de Oaxaca,North America,Mexico,Channel infiltration/spreading,4,-96.578188,16.964935,TRUE,D
+Aquífero Cauê – Área de influência Fechos Auxiliar,South America,Brasil,Infiltration basin,3,-60.9,-7.78,TRUE,C
+Culemborg,Europe,Netherlands,Bank filtration,3,5.233,51.948,TRUE,C
+Mündelheim,Europe,Germany,Bank filtration,12,6.688,51.369,TRUE,B/D
+"Fengtai, Peking",Asia,China,Surface flooding and ditch-and-furrow,3,116.248785,39.829667,TRUE,C
+Har Ki Pauri,Asia,India,Bank filtration,13,78.175776,29.961269,TRUE,C/D
+Jinlang Shangquan,Asia,China,Aquifer storage using wells,3,123.440514,41.775012,TRUE,C
+Ankeny ASR,North America,USA,Aquifer storage and recovery,3,-93.610611,41.729115,TRUE,C
+Kroombit Dam (Callide Valley),Oceania,Australia,Channel infiltration/spreading,4,150.772157,-24.417232,TRUE,D
+La Mitidja Legros System,Africa,Algeria,Infiltration basin,3,2.883073,36.585054,TRUE,C
+Oued Biskra,Africa,Algeria,Check dam,2,5.7425,34.89222222,TRUE,B
+Stolpe,Europe,Germany,Surface flooding and ditch-and-furrow,2,13.26,52.66,TRUE,B
+Wesseling-Hersel,Europe,Germany,Bank filtration,13,6.993,50.822,TRUE,C/D
+Lake Manatee ASR Wells,North America,USA,Aquifer storage and recovery,2,-82.354684,27.488002,TRUE,B
+Sulaibyia,Asia,Kuwait,Infiltration basin,3,47.799633,29.282019,TRUE,C
+Montclair Basin,North America,USA,Infiltration basin,3,-117.702081,34.087024,TRUE,C
+Grobbendonk,Europe,Belgium,Infiltration basin,1,4.7167,51.2,TRUE,A
+Pleasanton,North America,USA,Aquifer storage and recovery,3,-121.878132,37.663808,TRUE,C
+Troutman Water Treatment Facility (formerly Port Malabar),North America,USA,Aquifer storage and recovery,12,-80.598938,28.025659,TRUE,B/D
+Fort Dix Land Application Site Infiltration Basin Project,North America,USA,Infiltration basin,2,-74.613484,39.983723,TRUE,B
+Orangeburg ASR,North America,USA,Aquifer storage and recovery,3,-80.874017,33.489716,TRUE,C
+850 Nongchang,Asia,China,Aquifer storage and recovery,13,132.492276,45.733463,TRUE,C/D
+WW Burgaltendorf,Europe,Germany,Infiltration basin,3,7.105129,51.428426,TRUE,C
+West Palm Beach WTP,North America,USA,Aquifer storage and recovery,3,-80.06361111,26.71638888,TRUE,C
+river Esgueva,Europe,Spain,Aquifer storage and recovery,3,-4.95,41.83,TRUE,C
+Hietasalo,Europe,Finland,Bank filtration,3,27.68,62.893,TRUE,C
+San Jerónimo Silacayoapilla,North America,Mexico,Check dam,14,-97.849213,17.803086,TRUE,D/D
+River View Basin,North America,USA,Infiltration basin,3,-117.866196,33.823354,TRUE,C
+Ie,Asia,Japan,Subsurface Dam,3,127.80761,26.727622,TRUE,C
+Derwent Park,Oceania,Australia,Aquifer storage and recovery,3,147.293093,-42.830898,TRUE,C
+Westhofen1,Europe,Germany,Infiltration basin,13,7.53417,51.41527,TRUE,C/D
+Glasgow,Europe,United Kingdom,Bank filtration,3,-4.252396,55.87261,TRUE,C
+FE-1R,Europe,Spain,Aquifer storage and recovery,3,-3.72626,40.526561,TRUE,C
+Tea Tree Gully Golf Course,Oceania,Australia,Aquifer storage and recovery,4,138.7293378,-34.8035991,TRUE,D
+Kiindu Dam 6,Africa,Kenia,Subsurface Dam,4,37.99972,-1.45142,TRUE,D
+Eland Platinum Mine,Africa,South Africa,Sand Dams,4,27.881128,-25.630232,TRUE,D
+Calleguas – Metropolitan Water District,North America,USA,Aquifer storage and recovery,3,-118.832248,34.246567,TRUE,C
+N/A,Asia,China,Subsurface Dam,3,80.840264,38.850061,TRUE,C
+Assentamento Pedro Henrique - BS-2 (Owner: Severino Candido de Araújo),South America,Brasil,Subsurface Dam,3,-35.75722,-6.78083,TRUE,C
+"AQUITOPIA, Gareh-Bygone-Plain",Asia,Iran,Surface flooding and ditch-and-furrow,3,53.934367,28.60562,TRUE,C
+Fish Canyon Spreading Grounds,North America,USA,Check dam,3,-117.922022,34.155909,TRUE,C
+Saticoy,North America,USA,Infiltration basin,3,-119.142216,34.279271,TRUE,C
+Adam's ASR test site,North America,Canada,Aquifer storage and recovery,3,-106.70293,52.276007,TRUE,C
+Croissy-sur-Seine,Europe,France,Infiltration basin,3,2.142506,48.87968,TRUE,C
+Santa Clara County Water District,North America,USA,Aquifer storage and recovery,13,-121.863073,37.322411,TRUE,C/D
+Carmona,Europe,Spain,Infiltration basin,3,-5.98,37.26,TRUE,C
+Irwindale Spreading Grounds/ Manning Pit,North America,USA,Infiltration basin,3,-117.932957,34.098292,TRUE,C
+Lagoa da Petrobrás,South America,Brasil,Infiltration basin,3,-35.227377,-5.831019,TRUE,C
+Pallejà,Europe,Spain,Bank filtration,3,2.01,41.42,TRUE,C
+Komesu,Asia,Japan,Subsurface Dam,3,127.696863,26.094785,TRUE,C
+Gordons Corner Well-Injection Facility,North America,USA,Aquifer storage using wells,2,-74.275669,40.334697,TRUE,B
+Clackamas River Water ASR,North America,USA,Aquifer storage and recovery,13,-122.582873,45.361589,TRUE,C/D
+Ban Nong Na (Nong Kula) 2,Asia,Thailand,Infiltration basin,13,99.999297,16.646433,TRUE,C/D
+Vehonniemi- Isokangas Esker,Europe,Finland,Bank filtration,2,24.2,61.382,TRUE,B
+Burdekin Delta,Oceania,Australia,Infiltration basin,4,147.4199768,-19.612734,TRUE,D
+C-111 infiltration basins,North America,USA,Infiltration basin,13,-80.474013,25.464079,TRUE,C/D
+Bora,Asia,Japan,Subsurface Dam,13,125.424377,24.732382,TRUE,C/D
+Honeywell,North America,USA,Aquifer storage and recovery,3,-112.081792,33.466335,TRUE,C
+Lagoa do Makro,South America,Brasil,Infiltration basin,2,-35.2098,-5.86292,TRUE,B
+Linden ponds,North America,USA,Infiltration basin,3,-117.399334,34.154521,TRUE,C
+Sierra Madre Spreading Grounds,North America,USA,Infiltration basin,3,-118.040127,34.165474,TRUE,C
+Hall-Wentland,North America,USA,Surface flooding and ditch-and-furrow,3,-118.412346,45.999006,TRUE,C
+Izena,Asia,Japan,Subsurface Dam,3,127.936413,26.935233,TRUE,C
+Soreq-1,Asia,Israel,Infiltration basin,3,34.765221,31.960645,TRUE,C
+Gheraiesti,Europe,Romania,Bank filtration,3,26.90449,46.59933,TRUE,C
+Harpers Field,Oceania,Australia,Aquifer storage and recovery,4,138.729286,-34.774361,TRUE,D
+Youlambie Weir (Three Moon Creek),Oceania,Australia,Check dam,4,151.096769,-24.819166,TRUE,D
+Kalateh Asad recharge project,Asia,Iran,Check dam,2,55.625878,36.404847,TRUE,B
+Dashin,Asia,China,Surface flooding and ditch-and-furrow,3,116.169693,39.641662,TRUE,C
+L-63N (Taylor Creek) ASR System,North America,USA,Aquifer storage and recovery,2,-80.785901,27.238903,TRUE,B
+Wasilkow,Europe,Poland,Infiltration basin,2,23.19394,53.19352,TRUE,B
+Andritz,Europe,Austria,Bank filtration,3,15.426,47.111,TRUE,C
+Área do Instituto de Pesquisas Hidráulicas - UFRGS - Trincheira 2,South America,Brasil,Trenches,13,-51.114595,-30.076102,TRUE,C/D
+Direct Injection at Cabezon,North America,USA,Aquifer storage using wells,3,-106.669859,35.269552,TRUE,C
+Reijerwaard,Europe,Netherlands,Bank filtration,13,4.6,51.88,TRUE,C/D
+Cania Dam (Three Moon Creek),Oceania,Australia,Check dam,3,150.985074,-24.650774,TRUE,C
+Campo de pozos de Barranca,South America,Costa Rica,Bank filtration,13,-84.69346111,9.998702778,TRUE,C/D
+Calvinia artificial recharge scheme,Africa,South Africa,Aquifer storage and recovery,3,19.773245,-31.464017,TRUE,C
+Xiao Zhen Cun,Asia,China,Subsurface Dam,13,117.694767,37.068383,TRUE,C/D
+Remmerden,Europe,Netherlands,Bank filtration,3,5.534663,51.97388,TRUE,C
+San Gabriel Coastal Spreading Grounds,North America,USA,Infiltration basin,3,-118.077179,33.990456,TRUE,C
+Hickory Basin,North America,USA,Infiltration basin,3,-117.510832,34.09242,TRUE,C
+Echo Meadows,North America,USA,Surface flooding and ditch-and-furrow,3,-119.265419,45.76608,TRUE,C
+Kotwal Cheruvu,Asia,India,Check dam,3,78.418538,17.124582,TRUE,C
+"Ci, Handan",Asia,China,Aquifer storage using wells,3,114.225621,36.344002,TRUE,C
+Bodenheim,Europe,Germany,Bank filtration,13,8.325,49.937,TRUE,C/D
+Missouri River - Missouri–American Water Company,North America,USA,Bank filtration,3,-94.670103,39.189814,TRUE,C
+Hartfield Park,Oceania,Australia,Aquifer storage and recovery,3,115.997794,-31.99489,TRUE,C
+Tanggeli Desert,Asia,China,Infiltration basin,13,105.124609,37.585192,TRUE,C/D
+Parfit Square,Oceania,Australia,Aquifer storage and recovery,3,138.5818388,-34.8996161,TRUE,C
+Innovation Farm,Asia,China,Infiltration basin,13,133.043657,47.365331,TRUE,C/D
+San Sevaine Flood Control Basins,North America,USA,Infiltration basin,3,-117.492214,34.143642,TRUE,C
+s-Gravendeel,Europe,Netherlands,Bank filtration,3,4.617949,51.78053,TRUE,C
+Sedgefield,Africa,South Africa,Infiltration basin,3,22.805502,-34.021103,TRUE,C
+Rokugo basin 1,Asia,Japan,Infiltration basin,3,140.559722,39.418056,TRUE,C
+El Rio spreading grounds,North America,USA,Infiltration basin,3,-119.154675,34.2449,TRUE,C
+Chaco Central,South America,Paraguay,Aquifer storage using wells,13,-60.0166667,-22.333333,TRUE,C/D
+NW Umapine site,North America,USA,Infiltration basin,3,-118.503538,45.979755,TRUE,C
+Moulle,Europe,France,Infiltration basin,3,2.17,50.79,TRUE,C
+Tongji University,Asia,China,Aquifer storage and recovery,3,111.268567,34.186181,TRUE,C
+Murray Avenue,North America,USA,Aquifer storage and recovery,2,-75.026402,39.925997,TRUE,B
+Tarim Basin,Asia,China,Subsurface Dam,3,80.840264,38.850061,TRUE,C
+Dinamarca,South America,Brasil,Subsurface Dam,3,-37.23023,-6.4053,TRUE,C
+Chang'an University,Asia,China,Aquifer storage and recovery,13,108.954279,34.231632,TRUE,C/D
+Plaine de Millegrand,Europe,France,Aquifer storage using wells,13,2.440985933,43.20966004,TRUE,C/D
+Na Grobli,Europe,Poland,Infiltration basin,3,17.058,51.1045,TRUE,C
+N/A,Asia,China,Surface flooding and ditch-and-furrow,3,116.169693,39.641662,TRUE,C
+Linkes Tumed-Banne,Asia,China,Aquifer storage and recovery,13,111.515349,40.728667,TRUE,C/D
+Heywood Park,Oceania,Australia,Aquifer storage and recovery,3,138.6026621,-34.961318,TRUE,C
+"Minqin, Wuwei",Asia,China,Infiltration basin,3,102.647167,37.909021,TRUE,C
+Santiago Creek: Santiago Basins - Hart Park (3),North America,USA,Infiltration basin,3,-117.832347,33.78308,TRUE,C
+El Paso Water Utilities 3 (EPWU),North America,USA,Infiltration basin,3,-106.424907,31.968394,TRUE,C
+Moore's Bridges Filter Plant,North America,USA,Aquifer storage and recovery,13,-76.20312,36.872589,TRUE,C/D
+Fazenda Caraíba,South America,Brasil,Subsurface Dam,3,-40.2,-11.46667,TRUE,C
+Grenade,Europe,France,Infiltration basin,3,1.293294114,43.77177108,TRUE,C
+Aflaj,Asia,Oman,Check dam,3,58.001307,23.606725,TRUE,C
+Chaobai River,Asia,China,Check dam,3,116.984759,40.426251,TRUE,C
+Highlands Ranch ASR Program,North America,USA,Aquifer storage and recovery,3,-104.95322,39.54179,TRUE,C
+Zhengzhou,Asia,China,Infiltration basin,13,113.784243,34.834083,TRUE,C/D
+Mahdia-Ksour Essef aquifer,Africa,Tunisia,Bank filtration,3,11.06222,35.50472,TRUE,C
+Belcaire,Europe,Spain,Aquifer storage and recovery,3,-0.21,39.81,TRUE,C
+Kabashima,Asia,Japan,Subsurface Dam,3,129.783152,32.561744,TRUE,C
+Ana Catchment 3,Africa,Kenia,Subsurface Dam,4,37.96826,-1.36987,TRUE,D
+Halstead Diversion well 07143880,North America,USA,Bank filtration,13,-97.519249,38.008083,TRUE,C/D
+Kraljevo,Europe,Serbia and Montenegro,Bank filtration,3,20.6868,43.7272,TRUE,C
+St. George,North America,USA,Infiltration basin,13,-113.567102,37.082515,TRUE,C/D
+Baumberg,Europe,Germany,Bank filtration,3,7.051,51.17,TRUE,C
+Cheltenham Racecourse,Oceania,Australia,Aquifer storage and recovery,3,138.532472,-34.867525,TRUE,C
+Rossdale Golf Club,Oceania,Australia,Aquifer storage and recovery,3,145.1164,-38.029713,TRUE,C
+Schoonhoven,Europe,Netherlands,Bank filtration,3,4.854,51.948,TRUE,C
+Stateline Project,North America,USA,Aquifer storage and recovery,3,-117.460373,46.963543,TRUE,C
+N/A,Asia,China,Subsurface Dam,13,116.158776,39.703593,TRUE,C/D
+Miko,Asia,Japan,Subsurface Dam,13,135.838632,35.622109,TRUE,C/D
+Estação Elevatória da Caixa d'água,South America,Brasil,Bank filtration,13,-34.826635,-7.193914,TRUE,C/D
+Aldinga wastewater storage and recovery scheme,Oceania,Australia,Aquifer storage and recovery,4,138.48209,-35.289684,TRUE,D
+Cole's ASR test site 1,North America,Canada,Aquifer storage using wells,3,-106.475703,52.143753,TRUE,C
+Beeckerwerth-Alsum,Europe,Germany,Bank filtration,12,6.7,51.47,TRUE,B/D
+Kingswood,Oceania,Australia,Aquifer storage and recovery,3,138.616893,-34.967399,TRUE,C
+Iasi,Europe,Romania,Bank filtration,3,27.5903,47.1569,TRUE,C
+Adelaide Botanics Garden,Oceania,Australia,Aquifer storage and recovery,3,138.6094452,-34.9161354,TRUE,C
+Bielany,Europe,Poland,Infiltration basin,3,19.84,50.042,TRUE,C
+Kiindu Dam,Africa,Kenia,Subsurface Dam,4,38.00249,-1.449857,TRUE,D
+Hinds/Hekeao MAR Pilot Project,Oceania,New Zealand,Infiltration basin,13,171.61935,-43.879261,TRUE,C/D
+Jagsi-Sarfabad shallow,Asia,India,Aquifer storage and recovery,3,76.63632,29.276362,TRUE,C
+Louise P. Moon ASR,North America,USA,Aquifer storage and recovery,3,-93.833096,41.617577,TRUE,C
+Anaheim Lake,North America,USA,Infiltration basin,3,-117.847346,33.864873,TRUE,C
+Sur 1,Asia,Oman,Check dam,2,59.459444,22.526575,TRUE,B
+Orba,Europe,Spain,Surface flooding and ditch-and-furrow,3,-0.08,38.78,TRUE,C
+Fountain Hills,North America,USA,Aquifer storage and recovery,3,-111.72893,33.606484,TRUE,C
+Olive Basin,North America,USA,Infiltration basin,3,-117.841728,33.848304,TRUE,C
+Mas-Grenier,Europe,France,Infiltration basin,3,1.197222,43.89139,TRUE,C
+Badhyan,Asia,India,Aquifer storage and recovery,3,75.752161,28.976451,TRUE,C
+Locher Rd,North America,USA,Infiltration basin,3,-118.474153,46.001784,TRUE,C
+Edinburgh Park North,Oceania,Australia,Aquifer storage and recovery,3,138.657301,-34.710873,TRUE,C
+Koraro-01,Africa,Ethiopia,Subsurface Dam,3,39.410441,13.974516,TRUE,C
+Dohne,Europe,Germany,Bank filtration,3,6.874,51.426,TRUE,C
+"Clark County Public Utilities District Building- 27H1,2",North America,USA,Aquifer storage and recovery,3,-122.663473,45.629749,TRUE,C
+Isfara aquifer,Asia,Uzbekistan,Infiltration basin,3,70.542695,40.377012,TRUE,C
+Nallan Pillai Petral,Asia,India,Subsurface Dam,3,79.251187,12.190454,TRUE,C
+Raymond Basin,North America,USA,Infiltration basin,3,-117.908087,33.848565,TRUE,C
+Modanetta D,Europe,Italy,Aquifer storage using wells,13,11.523,45.698,TRUE,C/D
+Donauinsel Nord,Europe,Austria,Bank filtration,3,16.415,48.236,TRUE,C
+Grand Prairie,North America,USA,Aquifer storage using wells,14,-91.417933,34.473909,TRUE,D/D
+Hansen Spreading Grounds,North America,USA,Infiltration basin,3,-118.394929,34.249909,TRUE,C
+Geneuille,Europe,France,Bank filtration,3,5.969782,47.32335,TRUE,C
+Wanghe River,Asia,China,Subsurface Dam,13,119.953193,37.369913,TRUE,C/D
+Kharkams,Africa,South Africa,Aquifer storage and recovery,3,17.887575,-30.36846,TRUE,C
+Wilwood,North America,USA,Aquifer storage and recovery,2,-74.817914,38.988951,TRUE,B
+Wittlaerer Werth,Europe,Germany,Bank filtration,2,6.738,51.297,TRUE,B
+Prato,Europe,Italy,Aquifer storage and recovery,3,11.102,43.878,TRUE,C
+Qingyang,Asia,China,Surface flooding and ditch-and-furrow,3,107.670036,35.678951,TRUE,C
+City of Tigard,North America,USA,Aquifer storage and recovery,3,-122.789759,45.412624,TRUE,C
+Jinhe well field,Asia,China,Check dam,3,117.325604,34.780507,TRUE,C
+McMullen ASR,North America,USA,Aquifer storage and recovery,3,-93.787204,41.520364,TRUE,C
+Yavne-2,Asia,Israel,Infiltration basin,3,34.719292,31.866523,TRUE,C
+McCarthy Ranch,North America,USA,Aquifer storage and recovery,3,-119.412243,45.650079,TRUE,C
+Haltern,Europe,Germany,Infiltration basin,3,7.204,51.73,TRUE,C
+Monster,Europe,Netherlands,Infiltration basin,13,4.197303,52.03517,TRUE,C/D
+Nuestra Señora de Fátima,South America,Argentina,Aquifer storage using wells,3,-66.32171631,-30.35154626,TRUE,C
+Rolinha,South America,Brasil,Subsurface Dam,3,-37.20542,-6.33115,TRUE,C
+Mount Laurel,North America,USA,Aquifer storage and recovery,2,-74.901285,39.944024,TRUE,B
+De Rug,Europe,Netherlands,Bank filtration,3,5.823,51.081,TRUE,C
+Gatehampton,Europe,United Kingdom,Bank filtration,3,-1.131592,51.52498,TRUE,C
+WW Überruhr + WW Horst,Europe,Germany,Bank filtration,13,7.06,51.43,TRUE,C/D
+Name,South America,Chile,Trenches,3,-72.15531208,-35.73548532,TRUE,C
+Boumerdes aquifer,Africa,Tunisia,Bank filtration,3,11.06222,35.50472,TRUE,C
+Glenore Grove Weir  (Lockyer Valley),Oceania,Australia,Check dam,4,152.405378,-27.518374,TRUE,D
+Hosterwitz,Europe,Germany,Infiltration basin,2,13.85,51.01,TRUE,B
+Olive Grove (Adams Creek),Oceania,Australia,Aquifer storage and recovery,3,138.685288,-34.717029,TRUE,C
+Royal Adelaide Golf Club,Oceania,Australia,Aquifer storage and recovery,3,138.5101,-34.896456,TRUE,C
+Oregonian Bldg. - 3E3,North America,USA,Aquifer storage and recovery,3,-122.681874,45.514848,TRUE,C
+"Portland Medical Center - 34N10,11",North America,USA,Aquifer storage and recovery,3,-122.68166,45.521281,TRUE,C
+Fazenda Baixa Verde,South America,Brasil,Subsurface Dam,4,-48.97499,-24.0413066,TRUE,D
+Grange Golf Club,Oceania,Australia,Aquifer storage and recovery,3,138.502979,-34.884992,TRUE,C
+N/A,Asia,China,Aquifer storage and recovery,3,121.479031,31.224633,TRUE,C
+Ship Creek,North America,USA,Infiltration basin,3,-149.674825,61.229513,TRUE,C
+Five Coves Basins,North America,USA,Infiltration basin,3,-117.863603,33.837888,TRUE,C
+Manatee Road,North America,USA,Aquifer storage and recovery,2,-81.689853,26.046285,TRUE,B
+La Güeya,South America,Argentina,Aquifer storage and recovery,3,-61.839694,-29.144444,TRUE,C
+N/A,Asia,China,Subsurface Dam,3,107.999626,36.999577,TRUE,C
+Manatee Southwest Water Reclamation Facility,North America,USA,Aquifer storage and recovery,2,-82.624524,27.453184,TRUE,B
+Mahlenzien,Europe,Germany,Bank filtration,12,12.461,52.326,TRUE,B/D
+Zhulong River,Asia,China,Surface flooding and ditch-and-furrow,13,112.784603,35.013485,TRUE,C/D
+"Velddriel, Sellik",Europe,Netherlands,Bank filtration,13,5.2955,51.7627,TRUE,C/D
+AI-Amalih,Asia,Saudi Arabia,Check dam,2,45.585775,25.590003,TRUE,B
+Omaruru Delta (OMDEL),Africa,Namibia,Infiltration basin,2,14.513527,-21.902015,TRUE,B
+Dan Region,Asia,Israel,Aquifer storage and recovery,3,34.815588,32.071701,TRUE,C
+City of St Helens,North America,USA,Bank filtration,3,-122.814742,45.857228,TRUE,C
+Santo Domingo,North America,Mexico,Check dam,4,-100.021111,21.567778,TRUE,D
+Glenelg Golf Course,Oceania,Australia,Aquifer storage and recovery,3,138.526311,-34.9617894,TRUE,C
+Nadiyapattu Odai,Asia,India,Aquifer storage using wells,3,79.406449,11.662141,TRUE,C
+Vernouillet,Europe,France,Bank filtration,3,1.973342996,48.98010354,TRUE,C
+291 Farm,Asia,China,Infiltration basin,13,131.512327,46.940808,TRUE,C/D
+Gaocheng,Asia,China,Infiltration basin,13,114.86523,38.012931,TRUE,C/D
+"Anxin, Baoding",Asia,China,Surface flooding and ditch-and-furrow,3,116.026828,38.952347,TRUE,C
+Csepel Island,Europe,Hungary,Bank filtration,2,18.94318,47.29413,TRUE,B
+"Jinxiang, Jining",Asia,China,Check dam,3,116.131964,35.062794,TRUE,C
+Alice Springs SAT,Oceania,Australia,Infiltration basin,2,133.892612,-23.766975,TRUE,B
+Fiveash Water Treatment Plant,North America,USA,Aquifer storage and recovery,13,-80.155505,26.178858,TRUE,C/D
+Sant ´Alessio,Europe,Italy,Bank filtration,13,10.51575,43.867103,TRUE,C/D
+EMBRAPA – Campo experimental da Caatinga BS-4,South America,Brasil,Subsurface Dam,3,-40.328154,-9.069863,TRUE,C
+Lagoa do Preá,South America,Brasil,Infiltration basin,3,-35.20528,-5.827327,TRUE,C
+Hardwald,Europe,Switzerland,Infiltration basin,3,7.699,47.532,TRUE,C
+Stiller Pond,North America,USA,Infiltration basin,3,-118.468283,46.052001,TRUE,C
+San Luís Rio Colorado,North America,Mexico,Infiltration basin,3,-114.824874,32.392221,TRUE,C
+Polokwane,Africa,South Africa,Channel infiltration/spreading,13,29.440344,-23.863168,TRUE,C/D
+Zoelen,Europe,Netherlands,Aquifer storage and recovery,2,5.402,51.912,TRUE,B
+Ouddorp,Europe,Netherlands,Aquifer storage and recovery,12,3.935,51.809,TRUE,B/D
+North Reservoir – ASR-1 LM-6210,North America,USA,Aquifer storage and recovery,2,-81.8386111,26.710555,TRUE,B
+City of St Helens – 4N/1W-5R1,North America,USA,Aquifer storage and recovery,3,-122.814742,45.857228,TRUE,C

@@ -1,0 +1,321 @@
+Contaminant type,Compound,Source,Unit,Concentration,Reference,doi
+Organics,TOC,Influent ,mg/L,10,Bekele et al. (2011),https://doi.org/10.1016/j.watres.2011.08.058
+Metals,Fe,Influent ,µg/L,140,Bekele et al. (2011),https://doi.org/10.1016/j.watres.2011.08.058
+Metals,Al,Influent ,µg/L,18,Bekele et al. (2011),https://doi.org/10.1016/j.watres.2011.08.058
+Organics,TOC,Effluent,mg/L,6.4,Bekele et al. (2011),https://doi.org/10.1016/j.watres.2011.08.058
+Metals,Fe,Effluent,µg/L,53,Bekele et al. (2011),https://doi.org/10.1016/j.watres.2011.08.058
+Metals,Al,Effluent,µg/L,45,Bekele et al. (2011),https://doi.org/10.1016/j.watres.2011.08.058
+Pathogens,E. coli,Influent ,n/100 mL,77000,Donn et al. (2020),https://doi.org/10.3390/w12010173
+Pathogens,E. coli,Influent ,n/100 mL,41000000000,Donn et al. (2020),https://doi.org/10.3390/w12010173
+Pathogens,E. coli,Influent ,n/100 mL,400,Donn et al. (2020),https://doi.org/10.3390/w12010173
+Pathogens,E. coli,Effluent,n/100 mL,2700,Donn et al. (2020),https://doi.org/10.3390/w12010173
+Pathogens,E. coli,Effluent,n/100 mL,2600,Donn et al. (2020),https://doi.org/10.3390/w12010173
+Pathogens,E. coli,Effluent,n/100 mL,68,Donn et al. (2020),https://doi.org/10.3390/w12010173
+Organics,TOC,Effluent,mg/L,1.2,Ginige et al. (2013),https://doi.org/10.1111/1574-6941.12137
+Metals,Fe,Effluent,µg/L,670,Ginige et al. (2013),https://doi.org/10.1111/1574-6941.12137
+Metals,Mn,Effluent,µg/L,31,Ginige et al. (2013),https://doi.org/10.1111/1574-6941.12137
+Organics,DOC,Influent,mg/L,2,Gorski et al. (2019),https://doi.org/10.1021/acs.est.9b01191
+Organics,DOC,Effluent,mg/L,2.7,Gorski et al. (2019),https://doi.org/10.1021/acs.est.9b01191
+Organics,DOC,Influent,mg/L,7.3,Hellauer et al. (2018),https://doi.org/10.1016/j.jhydrol.2017.09.044
+Metals,Fe,Influent,µg/L,50,Hellauer et al. (2018),https://doi.org/10.1016/j.jhydrol.2017.09.044
+Metals,Mn,Influent,µg/L,30,Hellauer et al. (2018),https://doi.org/10.1016/j.jhydrol.2017.09.044
+Organics,DOC,Effluent,mg/L,2.1,Hellauer et al. (2018),https://doi.org/10.1016/j.jhydrol.2017.09.044
+Organics,DOC,Effluent,mg/L,4.6,Hellauer et al. (2018),https://doi.org/10.1016/j.jhydrol.2017.09.044
+Organics,DOC,Effluent,mg/L,5.2,Hellauer et al. (2018),https://doi.org/10.1016/j.jhydrol.2017.09.044
+Organics,TOC,Influent,mg/L,11,Jokela et al. (2017),https://doi.org/10.3390/w9020138
+Organics,TOC,Influent,mg/L,7.2,Jokela et al. (2017),https://doi.org/10.3390/w9020138
+Organics,TOC,Influent,mg/L,11,Jokela et al. (2017),https://doi.org/10.3390/w9020138
+Organics,TOC,Influent,mg/L,6.5,Jokela et al. (2017),https://doi.org/10.3390/w9020138
+Organics,TOC,Influent,mg/L,7.7,Jokela et al. (2017),https://doi.org/10.3390/w9020138
+Organics,TOC,Influent,mg/L,9,Jokela et al. (2017),https://doi.org/10.3390/w9020138
+Organics,TOC,Effluent,mg/L,1.5,Jokela et al. (2017),https://doi.org/10.3390/w9020138
+Organics,TOC,Effluent,mg/L,1.8,Jokela et al. (2017),https://doi.org/10.3390/w9020138
+Organics,TOC,Effluent,mg/L,1.7,Jokela et al. (2017),https://doi.org/10.3390/w9020138
+Organics,TOC,Effluent,mg/L,2,Jokela et al. (2017),https://doi.org/10.3390/w9020138
+Organics,TOC,Effluent,mg/L,2.5,Jokela et al. (2017),https://doi.org/10.3390/w9020138
+Organics,TOC,Effluent,mg/L,1.9,Jokela et al. (2017),https://doi.org/10.3390/w9020138
+Organics,TOC,Influent,mg/L,7.8,Laws et al. (2011),https://doi.org/10.1016/j.scitotenv.2010.11.021
+Organics,DOC,Influent,mg/L,7.4,Laws et al. (2011),https://doi.org/10.1016/j.scitotenv.2010.11.021
+Organics,TOC,Effluent,mg/L,3.1,Laws et al. (2011),https://doi.org/10.1016/j.scitotenv.2010.11.021
+Organics,DOC,Effluent,mg/L,3.1,Laws et al. (2011),https://doi.org/10.1016/j.scitotenv.2010.11.021
+Pathogens,E. coli,Influent,n/100 mL,464.5,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,E. coli,Influent,n/100 mL,43100,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,E. coli,Influent,n/100 mL,175,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,E. coli,Effluent,n/100 mL,13.9,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,E. coli,Effluent,n/100 mL,12,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,E. coli,Effluent,n/100 mL,171,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,E. coli,Effluent,n/100 mL,0,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,Enterococci ,Effluent,n/100 mL,3.6,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,Enterococci ,Effluent,n/100 mL,1400.5,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,Enterococci ,Effluent,n/100 mL,1900,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,Enterococci ,Effluent,n/100 mL,0,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,Enterococci,Influent,n/100 mL,8045,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,Enterococci,Influent,n/100 mL,6600,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Pathogens,Enterococci,Influent,n/100 mL,29.5,Levantesi et al. (2010),https://doi.org/10.1016/j.scitotenv.2010.07.042
+Organics,DOC,Influent,mg/L,6.1,Mermillod-Blondin et al. (2015),https://doi.org/10.1016/j.watres.2015.05.031
+Organics,DOC,Effluent,mg/L,4.7,Mermillod-Blondin et al. (2015),https://doi.org/10.1016/j.watres.2015.05.031
+Organics,TOC,Influent,mg/L,6.6,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Al,Influent,µg/L,17,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,As,Influent,µg/L,0.7,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Cu,Influent,µg/L,1.8,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Fe,Influent,µg/L,620,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Pb,Influent,µg/L,1.1,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Mn,Influent,µg/L,57,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Zn,Influent,µg/L,170,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Pathogens,E. coli,Influent,n/100 mL,103,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Organics,TOC,Effluent,mg/L,3.4,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Al,Effluent,µg/L,5.3,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,As,Effluent,µg/L,2.9,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Cu,Effluent,µg/L,6.7,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Fe,Effluent,µg/L,870,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Pb,Effluent,µg/L,0.97,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Mn,Effluent,µg/L,60,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Zn,Effluent,µg/L,21,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Pathogens,E. coli,Effluent,n/100 mL,12,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Organics,TOC,Influent,mg/L,8.2,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Al,Influent,µg/L,230,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,As,Influent,µg/L,1.9,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Cu,Influent,µg/L,8.3,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Fe,Influent,µg/L,1400,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Mn,Influent,µg/L,82,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Zn,Influent,µg/L,44,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Pathogens,E. coli,Influent,n/100 mL,660,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Organics,TOC,Effluent,mg/L,4.1,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Al,Effluent,µg/L,170,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,As,Effluent,µg/L,5.6,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Cu,Effluent,µg/L,3.7,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Fe,Effluent,µg/L,1700,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Mn,Effluent,µg/L,140,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Zn,Effluent,µg/L,100,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Pathogens,E. coli,Effluent,n/100 mL,8.4,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Organics,TOC,Influent,mg/L,10,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Al,Influent,µg/L,23,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,As,Influent,µg/L,2.6,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Cu,Influent,µg/L,2.9,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Fe,Influent,µg/L,240,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Mn,Influent,µg/L,23,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Zn,Influent,µg/L,10,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Pathogens,E. coli,Influent,n/100 mL,520,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Organics,TOC,Effluent,mg/L,3.8,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Al,Effluent,µg/L,10,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,As,Effluent,µg/L,5.6,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Cu,Effluent,µg/L,16,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Fe,Effluent,µg/L,490,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Mn,Effluent,µg/L,29,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Zn,Effluent,µg/L,870,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Pathogens,E. coli,Effluent,n/100 mL,0.8,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Organics,TOC,Influent,mg/L,10,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Al,Influent,µg/L,20,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,As,Influent,µg/L,4,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Cu,Influent,µg/L,7.9,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Fe,Influent,µg/L,1200,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Mn,Influent,µg/L,160,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Zn,Influent,µg/L,61,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Pathogens,E. coli,Influent,n/100 mL,2500,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Organics,TOC,Effluent,mg/L,7.6,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Al,Effluent,µg/L,20,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,As,Effluent,µg/L,7.3,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Cu,Effluent,µg/L,7.1,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Fe,Effluent,µg/L,2400,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Mn,Effluent,µg/L,170,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Metals,Zn,Effluent,µg/L,100,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Pathogens,E. coli,Effluent,n/100 mL,25,Page et al. (2017),https://doi.org/10.1016/j.watres.2017.03.049
+Organics,DOC,Effluent,mg/L,3,Sidhu et al. (2015),https://doi.org/10.2134/jeq2015.03.0118
+Organics,DOC,Effluent,mg/L,6.3,Sidhu et al. (2015),https://doi.org/10.2134/jeq2015.03.0118
+Organics,DOC,Effluent,mg/L,6.8,Sidhu et al. (2015),https://doi.org/10.2134/jeq2015.03.0118
+Organics,DOC,Effluent,mg/L,2.9,Sidhu et al. (2015),https://doi.org/10.2134/jeq2015.03.0118
+Organics,DOC,Influent,mg/L,4.4,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Fe,Influent,µg/L,240,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Mn,Influent,µg/L,70,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,As,Influent,µg/L,4.3,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Cu,Influent,µg/L,8.3,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Zn,Influent,µg/L,47.1,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Organics,DOC,Influent,mg/L,2.5,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Fe,Influent,µg/L,110,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Mn,Influent,µg/L,30,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Al,Influent,µg/L,17,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,As,Influent,µg/L,0.8,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Cu,Influent,µg/L,5.3,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Zn,Influent,µg/L,3.5,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Organics,DOC,Effluent,mg/L,3.4,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Fe,Effluent,µg/L,4180,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Mn,Effluent,µg/L,750,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Al,Effluent,µg/L,5,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,As,Effluent,µg/L,11.1,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Cu,Effluent,µg/L,1.4,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Zn,Effluent,µg/L,4.8,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Organics,DOC,Effluent,mg/L,2.1,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Fe,Effluent,µg/L,2010,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Mn,Effluent,µg/L,630,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Al,Effluent,µg/L,2,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,As,Effluent,µg/L,7.5,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Cu,Effluent,µg/L,0.5,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,Zn,Effluent,µg/L,2.1,Stuyfzand (2014),https://doi.org/10.1007/s12665-014-3770-z
+Metals,As,Influent,µg/L,0,Vanderzalm et al. (2011),https://doi.org/10.1016/j.apgeochem.2011.06.025
+Metals,As,Effluent,µg/L,0,Vanderzalm et al. (2011),https://doi.org/10.1016/j.apgeochem.2011.06.025
+Metals,As,Influent,µg/L,3.9,Zhang et al. (2015),https://doi.org/10.1016/j.jenvman.2015.01.027
+Pathogens,E. coli,Influent,n/100 mL,110000,Schijven et al. (2000),https://doi.org/10.1016/S0169-7722(00)00098-X
+Organics,DOC,Effluent,mg/L,2.7,Niinikoski et al. (2016),https://doi.org/10.1016/j.apgeochem.2016.09.001
+Organics,DOC,Influent,mg/L,4.3,Niinikoski et al. (2016),https://doi.org/10.1016/j.apgeochem.2016.09.002
+Organics,DOC,Effluent,mg/L,2.1,Niinikoski et al. (2016),https://doi.org/10.1016/j.apgeochem.2016.09.003
+Organics,DOC,Effluent,mg/L,2.3,Niinikoski et al. (2016),https://doi.org/10.1016/j.apgeochem.2016.09.004
+Organics,DOC,Effluent,mg/L,1.5,Niinikoski et al. (2016),https://doi.org/10.1016/j.apgeochem.2016.09.005
+Organics,DOC,Effluent,mg/L,2.1,Niinikoski et al. (2016),https://doi.org/10.1016/j.apgeochem.2016.09.006
+Organics,DOC,Effluent,mg/L,3,Niinikoski et al. (2016),https://doi.org/10.1016/j.apgeochem.2016.09.007
+Organics,DOC,Influent,mg/L,3.6,Zhang et al. (2012),https://doi.org/10.1007/s11270-012-1225-2
+Organics,DOC,Effluent,mg/L,2.8,Zhang et al. (2012),https://doi.org/10.1007/s11270-012-1225-3
+Organics,DOC,Influent,mg/L,1.4,Vanderzalm et al. (2006),https://doi.org/10.1016/j.apgeochem.2006.02.022
+Organics,DOC,Influent,mg/L,1.7,Vanderzalm et al. (2006),https://doi.org/10.1016/j.apgeochem.2006.02.023
+Organics,DOC,Effluent,mg/L,1,Vanderzalm et al. (2006),https://doi.org/10.1016/j.apgeochem.2006.02.024
+Organics,DOC,Effluent,mg/L,1.1,Vanderzalm et al. (2006),https://doi.org/10.1016/j.apgeochem.2006.02.025
+Organics,DOC,Effluent,mg/L,5.1,Stuyfzand et al. (2019),https://doi.org/10.3390/w11091807
+Organics,DOC,Effluent,mg/L,1.5,Quanrud et al. (2003),https://doi.org/10.1016/S0043-1354(02)00489-X
+Organics,DOC,Influent,mg/L,15,Quanrud et al. (2003),https://doi.org/10.1016/S0043-1354(02)00489-X
+Organics,DOC,Effluent,mg/L,3.8,Page et al. (2011),https://doi.org/10.1016/j.jenvman.2011.04.005
+Organics,DOC,Effluent,mg/L,5,Page et al. (2011),https://doi.org/10.1016/j.jenvman.2011.04.006
+Organics,DOC,Influent,mg/L,8.3,Page et al. (2011),https://doi.org/10.1016/j.jenvman.2011.04.007
+Organics,DOC,Influent,mg/L,1.7,Page et al. (2011),https://doi.org/10.1016/j.jenvman.2011.04.008
+Organics,DOC,Influent,mg/L,2.9,Mille et al. (1993),https://doi.org/10.1111/j.1745-6584.1993.tb01843.x
+Organics,DOC,Effluent,mg/L,1.2,Mille et al. (1993),https://doi.org/10.1111/j.1745-6584.1993.tb01843.x
+Organics,DOC,Influent,mg/L,6,Fox et al. (2001),https://doi.org/10.2166/wst.2001.0658
+Organics,DOC,Effluent,mg/L,0.9,Fox et al. (2001),https://doi.org/10.2166/wst.2001.0659
+Organics,DOC,Influent,mg/L,6.9,Pi et al. (2006),https://doi.org/10.1016/S1001-0742(06)60038-7
+Organics,DOC,Effluent,mg/L,4.9,Pi et al. (2006),https://doi.org/10.1016/S1001-0742(06)60038-8
+Organics,DOC,Influent,mg/L,18,Idelovitch et al. (1984),www.jstor.org/stable/25042398
+Organics,DOC,Effluent,mg/L,3.2,Idelovitch et al. (1984),www.jstor.org/stable/25042399
+Organics,DOC,Influent,mg/L,7.4,Grünheid et al. (2005),https://doi.org/10.1016/j.watres.2005.05.030
+Organics,DOC,Effluent,mg/L,3,Grünheid et al. (2005),https://doi.org/10.1016/j.watres.2005.05.031
+Organics,DOC,Influent,mg/L,2.3,Storck et al. (2012),https://doi.org/10.2166/wst.2012.150
+Organics,DOC,Effluent,mg/L,0.5,Storck et al. (2012),https://doi.org/10.2166/wst.2012.150
+Organics,DOC,Influent,mg/L,1.3,Weiss et al. (2004),https://doi.org/10.2166/aqua.2004.0007
+Organics,DOC,Effluent,mg/L,1,Weiss et al. (2004),https://doi.org/10.2166/aqua.2004.0007
+Organics,DOC,Influent,mg/L,7,Maeng et al. (2010),https://doi.org/10.1016/j.watres.2010.03.035
+Organics,DOC,Influent,mg/L,7.2,Maeng et al. (2010),https://doi.org/10.1016/j.watres.2010.03.035
+Organics,DOC,Influent,mg/L,2.7,Weiss et al. (2003),https://doi.org/10.1002/j.1551-8833.2003.tb10475.x
+Organics,DOC,Effluent,mg/L,0.7,Weiss et al. (2003),https://doi.org/10.1002/j.1551-8833.2003.tb10475.x
+Organics,DOC,Influent,mg/L,4,Weiss et al. (2003),https://doi.org/10.1002/j.1551-8833.2003.tb10475.x
+Organics,DOC,Effluent,mg/L,0.5,Weiss et al. (2003),https://doi.org/10.1002/j.1551-8833.2003.tb10475.x
+Organics,DOC,Influent,mg/L,3.5,Weiss et al. (2003),https://doi.org/10.1002/j.1551-8833.2003.tb10475.x
+Organics,DOC,Effluent,mg/L,2.5,Weiss et al. (2003),https://doi.org/10.1002/j.1551-8833.2003.tb10475.x
+Organics,DOC,Influent,mg/L,13.5,Wilson et al. (1995),https://doi.org/10.2175/106143095X131600
+Organics,DOC,Effluent,mg/L,1.2,Wilson et al. (1995),https://doi.org/10.2175/106143095X131600
+Organics,TOC,Influent,mg/L,17.29999924,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Organics,TOC,Influent,mg/L,24.39999962,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Organics,TOC,Influent,mg/L,6.519999981,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Organics,TOC,Influent,mg/L,18.79999924,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Organics,TOC,Effluent,mg/L,5.949999809,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Organics,TOC,Effluent,mg/L,24.39999962,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Organics,TOC,Effluent,mg/L,5.940000057,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Organics,TOC,Effluent,mg/L,18,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Fe,Influent,µg/L,57000,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Fe,Influent,µg/L,4970,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Fe,Influent,µg/L,1130,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Fe,Influent,µg/L,31000,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Fe,Effluent,µg/L,1880,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Fe,Effluent,µg/L,2360,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Fe,Effluent,µg/L,884,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Fe,Effluent,µg/L,3700,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Influent,µg/L,36400,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Influent,µg/L,4450,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Influent,µg/L,3000,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Influent,µg/L,4610,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Influent,µg/L,660,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Influent,µg/L,18600,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Influent,µg/L,1650,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Influent,µg/L,8830,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Influent,µg/L,3800,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Influent,µg/L,4250,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Effluent,µg/L,1110,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Effluent,µg/L,650,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Effluent,µg/L,830,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Effluent,µg/L,1620,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Effluent,µg/L,746,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Effluent,µg/L,2520,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Effluent,µg/L,588,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Effluent,µg/L,410,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Effluent,µg/L,366,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Al,Effluent,µg/L,752,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,As,Influent,µg/L,9.800000191,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,As,Influent,µg/L,2.970000029,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,As,Influent,µg/L,1.210000038,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,As,Influent,µg/L,8.170000076,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,As,Effluent,µg/L,1.590000033,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,As,Effluent,µg/L,2.799999952,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,As,Effluent,µg/L,1.179999948,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,As,Effluent,µg/L,3.210000038,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Influent,µg/L,390,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Influent,µg/L,80.30000305,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Influent,µg/L,48.40000153,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Influent,µg/L,74.90000153,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Influent,µg/L,25.79999924,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Influent,µg/L,198,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Influent,µg/L,40.59999847,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Influent,µg/L,132,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Influent,µg/L,57.70000076,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Influent,µg/L,78.40000153,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Effluent,µg/L,17.60000038,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Effluent,µg/L,25.79999924,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Effluent,µg/L,14.19999981,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Effluent,µg/L,51.29999924,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Effluent,µg/L,22.29999924,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Effluent,µg/L,40.29999924,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Effluent,µg/L,30.89999962,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Effluent,µg/L,18.20000076,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Effluent,µg/L,12.30000019,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Cu,Effluent,µg/L,38.5,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,197,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,128,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,194,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,278,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,178,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,288,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,184,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,76.09999847,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,342,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Effluent,µg/L,181,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,106,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Effluent,µg/L,83.40000153,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,1380,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Effluent,µg/L,175,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,2640,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Effluent,µg/L,75,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,472,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Effluent,µg/L,105,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,242,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Effluent,µg/L,73.80000305,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Influent,µg/L,274,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Influent,µg/L,60.79999924,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Influent,µg/L,36.29999924,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Influent,µg/L,41.20000076,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Influent,µg/L,11.60000038,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Influent,µg/L,159,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Influent,µg/L,25,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Influent,µg/L,94,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Influent,µg/L,42,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Influent,µg/L,39.40000153,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Effluent,µg/L,9.579999924,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Effluent,µg/L,9.569999695,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Effluent,µg/L,6.289999962,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Effluent,µg/L,19.89999962,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Effluent,µg/L,8.720000267,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Effluent,µg/L,24.20000076,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Effluent,µg/L,12,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Effluent,µg/L,6.690000057,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Effluent,µg/L,4.880000114,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Metals,Pb,Effluent,µg/L,12.39999962,International Stormwater BMP database (downloaded on 11/27/2020),http://www.bmpdatabase.org/index.htm
+Pathogens,Enterococci ,Influent,n/100 mL,30000,International Stormwater BMP database (downloaded on 7/24/2020),http://www.bmpdatabase.org/index.htm
+Pathogens,Enterococci ,Effluent,n/100 mL,3500,International Stormwater BMP database (downloaded on 7/24/2020),http://www.bmpdatabase.org/index.htm
+Pathogens,Enterococci ,Influent,n/100 mL,240000,International Stormwater BMP database (downloaded on 7/24/2020),http://www.bmpdatabase.org/index.htm
+Pathogens,Enterococci ,Effluent,n/100 mL,130000,International Stormwater BMP database (downloaded on 7/24/2020),http://www.bmpdatabase.org/index.htm
+Pathogens,Enterococci ,Influent,n/100 mL,300000,International Stormwater BMP database (downloaded on 7/24/2020),http://www.bmpdatabase.org/index.htm
+Pathogens,Enterococci ,Effluent,n/100 mL,160000,International Stormwater BMP database (downloaded on 7/24/2020),http://www.bmpdatabase.org/index.htm
+Pathogens,Enterococci ,Influent,n/100 mL,30000,International Stormwater BMP database (downloaded on 7/24/2020),http://www.bmpdatabase.org/index.htm
+Pathogens,Enterococci ,Effluent,n/100 mL,5000,International Stormwater BMP database (downloaded on 7/24/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,199,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Effluent,µg/L,129,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,720,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Effluent,µg/L,66.59999847,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,296,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Effluent,µg/L,58.90000153,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Influent,µg/L,304,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm
+Metals,Zn,Effluent,µg/L,153,International Stormwater BMP database (downloaded on 06/25/2020),http://www.bmpdatabase.org/index.htm

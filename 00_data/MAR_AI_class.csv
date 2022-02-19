@@ -1,0 +1,1128 @@
+FID,specific_m,influent_s,final_use,main_objec,RASTERVALU
+0,Infiltration basin,Groundwater,no data,no data,4
+1,Bank filtration,River water,Domestic,Management of Water Distribution Systems,5
+2,Aquifer storage using wells,no data,Agricultural,no data,3
+3,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+4,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,3
+5,Rooftop Rainwater Harvesting,Storm water,Domestic,Ecological Benefits,-9999
+6,Infiltration basin,Lake water,Domestic,Water Quality Management,5
+7,Infiltration basin,River water,no data,Maximize Natural Storage,2
+8,Infiltration basin,Storm water,no data,no data,3
+9,Aquifer storage and recovery,no data,no data,no data,5
+10,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+11,Aquifer storage using wells,River water,Agricultural,no data,3
+12,Subsurface Dam,River water,Agricultural,Physical Aquifer Management,4
+13,Rooftop Rainwater Harvesting,Storm water,Domestic,Other Benefits,5
+14,Aquifer storage and recovery,Reclaimed wastewater,no data,Maximize Natural Storage,5
+15,Aquifer storage and recovery,Storm water,Domestic,no data,-9999
+16,Aquifer storage and recovery,Tap water,no data,Maximize Natural Storage,5
+17,Subsurface Dam,River water,Domestic,Maximize Natural Storage,-9999
+18,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,5
+19,Aquifer storage using wells,River water,Domestic,Maximize Natural Storage,3
+20,Bank filtration,River water,Domestic,Water Quality Management,5
+21,Aquifer storage using wells,Storm water,no data,Other Benefits,-9999
+22,Infiltration basin,Reclaimed wastewater,Domestic,Physical Aquifer Management,3
+23,Infiltration basin,River water,no data,no data,5
+24,Aquifer storage and recovery,River water,no data,no data,5
+25,Aquifer storage and recovery,Storm water,Domestic,Maximize Natural Storage,4
+26,Infiltration basin,River water,no data,no data,5
+27,Bank filtration,Lake water,Domestic,Water Quality Management,5
+28,Bank filtration,Lake water,Ecological,Water Quality Management,5
+29,Infiltration basin,River water,no data,no data,5
+30,Check dam,River water,Ecological,Maximize Natural Storage,5
+31,Aquifer storage and recovery,no data,Domestic,Maximize Natural Storage,-9999
+32,Bank filtration,River water,Domestic,Water Quality Management,5
+33,Aquifer storage and recovery,Groundwater,no data,Other Benefits,5
+34,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+35,Check dam,River water,no data,Physical Aquifer Management,-9999
+36,Infiltration basin,River water,no data,no data,3
+37,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,3
+38,Aquifer storage and recovery,River water,Domestic,Physical Aquifer Management,3
+39,Infiltration basin,River water,Agricultural,Maximize Natural Storage,3
+40,Infiltration basin,Reclaimed wastewater,no data,no data,3
+41,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+42,Check dam,River water,Agricultural,Physical Aquifer Management,4
+43,Aquifer storage and recovery,River water,Agricultural,Maximize Natural Storage,5
+44,Check dam,River water,Agricultural,Maximize Natural Storage,-9999
+45,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+46,Subsurface Dam,River water,Ecological,Physical Aquifer Management,3
+47,Aquifer storage and recovery,River water,no data,no data,4
+48,Bank filtration,Lake water,Domestic,Water Quality Management,5
+49,Aquifer storage and recovery,Groundwater,Domestic,Water Quality Management,5
+50,Aquifer storage and recovery,Storm water,no data,Ecological Benefits,-9999
+51,Infiltration basin,Storm water,no data,no data,3
+52,Subsurface Dam,River water,Domestic,Maximize Natural Storage,3
+53,Infiltration basin,Reclaimed wastewater,no data,Water Quality Management,-9999
+54,Infiltration basin,Lake water,Domestic,Management of Water Distribution Systems,-9999
+55,Aquifer storage and recovery,River water,Domestic,Water Quality Management,5
+56,Infiltration basin,River water,Domestic,Water Quality Management,5
+57,Check dam,River water,no data,Maximize Natural Storage,3
+58,Aquifer storage and recovery,Storm water,Domestic,Maximize Natural Storage,5
+59,Subsurface Dam,Groundwater,Agricultural,Physical Aquifer Management,-9999
+60,Infiltration basin,Reclaimed wastewater,Agricultural,Water Quality Management,3
+61,Check dam,River water,Ecological,Physical Aquifer Management,4
+62,Aquifer storage and recovery,Tap water,no data,Maximize Natural Storage,5
+63,Bank filtration,River water,Domestic,Water Quality Management,5
+64,Bank filtration,River water,Domestic,Management of Water Distribution Systems,5
+65,Aquifer storage and recovery,no data,no data,no data,5
+66,Aquifer storage and recovery,Tap water,Domestic,Maximize Natural Storage,-9999
+67,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+68,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+69,Excess Irrigation,Reclaimed wastewater,Research,Physical Aquifer Management,-9999
+70,Aquifer storage using wells,Lake water,no data,Physical Aquifer Management,5
+71,Aquifer storage and recovery,Storm water,Agricultural,Maximize Natural Storage,4
+72,Aquifer storage and recovery,River water,no data,no data,-9999
+73,Aquifer storage and recovery,no data,no data,no data,5
+74,Bank filtration,River water,Domestic,Water Quality Management,5
+75,Check dam,River water,Domestic,no data,5
+76,Check dam,River water,Agricultural,Maximize Natural Storage,5
+77,Infiltration basin,Reclaimed wastewater,Domestic,Ecological Benefits,4
+78,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+79,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+80,Aquifer storage and recovery,Storm water,no data,no data,-9999
+81,Check dam,River water,Ecological,Maximize Natural Storage,5
+82,Bank filtration,River water,Domestic,Maximize Natural Storage,5
+83,Check dam,River water,Agricultural,Maximize Natural Storage,4
+84,Aquifer storage using wells,River water,no data,Physical Aquifer Management,4
+85,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,-9999
+86,Bank filtration,River water,Domestic,Water Quality Management,5
+87,Aquifer storage and recovery,Reclaimed wastewater,Domestic,Management of Water Distribution Systems,4
+88,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+89,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+90,Check dam,River water,no data,Physical Aquifer Management,3
+91,Aquifer storage using wells,River water,Domestic,Maximize Natural Storage,3
+92,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+93,Aquifer storage and recovery,Reclaimed wastewater,no data,Maximize Natural Storage,5
+94,Aquifer storage using wells,River water,no data,Physical Aquifer Management,5
+95,Aquifer storage and recovery,Storm water,Agricultural,Water Quality Management,4
+96,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+97,Check dam,River water,Agricultural,Physical Aquifer Management,-9999
+98,Aquifer storage using wells,Reclaimed wastewater,Ecological,Water Quality Management,5
+99,Infiltration basin,River water,Environmental,Physical Aquifer Management,5
+100,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,5
+101,Reverse Drainage,River water,Domestic,Water Quality Management,5
+102,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,4
+103,Aquifer storage and recovery,River water,Ecological,Physical Aquifer Management,4
+104,Aquifer storage and recovery,Storm water,no data,Maximize Natural Storage,5
+105,Bank filtration,Lake water,Agricultural,Water Quality Management,5
+106,Bank filtration,River water,Domestic,Maximize Natural Storage,5
+107,Aquifer storage using wells,River water,no data,Ecological Benefits,5
+108,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+109,Surface flooding and ditch-and-furrow,Lake water,no data,Physical Aquifer Management,3
+110,Aquifer storage and recovery,Reclaimed wastewater,no data,no data,3
+111,Bank filtration,River water,Domestic,Water Quality Management,5
+112,Aquifer storage and recovery,River water,no data,no data,-9999
+113,Bank filtration,River water,Domestic,Water Quality Management,-9999
+114,Surface flooding and ditch-and-furrow,River water,Agricultural,Water Quality Management,4
+115,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+116,Surface flooding and ditch-and-furrow,River water,Agricultural,Water Quality Management,5
+117,Check dam,River water,Agricultural,Physical Aquifer Management,3
+118,Aquifer storage and recovery,Groundwater,no data,Maximize Natural Storage,5
+119,Bank filtration,River water,Domestic,Water Quality Management,5
+120,Aquifer storage using wells,Lake water,Domestic,Maximize Natural Storage,3
+121,Check dam,River water,Agricultural,Maximize Natural Storage,4
+122,Check dam,River water,Domestic,Physical Aquifer Management,4
+123,Infiltration basin,Reclaimed wastewater,no data,no data,3
+124,Aquifer storage using wells,Lake water,Ecological,Physical Aquifer Management,5
+125,Bank filtration,River water,Domestic,Water Quality Management,5
+126,Bank filtration,River water,Industrial,no data,5
+127,Infiltration basin,River water,Domestic,Water Quality Management,5
+128,Infiltration basin,River water,no data,no data,3
+129,Aquifer storage and recovery,Lake water,Domestic,Water Quality Management,-9999
+130,Bank filtration,River water,Domestic,Water Quality Management,5
+131,Aquifer storage and recovery,Tap water,no data,no data,3
+132,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+133,Aquifer storage using wells,River water,no data,no data,5
+134,Aquifer storage and recovery,River water,Domestic,Ecological Benefits,3
+135,Bank filtration,Lake water,Agricultural,Physical Aquifer Management,5
+136,Bank filtration,River water,Domestic,no data,5
+137,Bank filtration,River water,Domestic,Maximize Natural Storage,5
+138,Check dam,River water,Ecological,Maximize Natural Storage,5
+139,Subsurface Dam,Groundwater,Domestic,Physical Aquifer Management,-9999
+140,Infiltration basin,River water,Domestic,Water Quality Management,5
+141,Subsurface Dam,River water,Domestic,Maximize Natural Storage,3
+142,Bank filtration,River water,Domestic,no data,5
+143,Aquifer storage and recovery,Groundwater,no data,Physical Aquifer Management,4
+144,Aquifer storage and recovery,River water,no data,Maximize Natural Storage,5
+145,Infiltration basin,River water,no data,Physical Aquifer Management,4
+146,Check dam,River water,Agricultural,Maximize Natural Storage,5
+147,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+148,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+149,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+150,Aquifer storage and recovery,Lake water,Domestic,Water Quality Management,-9999
+151,Aquifer storage and recovery,no data,no data,no data,5
+152,Aquifer storage and recovery,Groundwater,Ecological,Physical Aquifer Management,5
+153,Channel infiltration/spreading,River water,no data,no data,3
+154,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,5
+155,Infiltration basin,River water,no data,no data,3
+156,Surface flooding and ditch-and-furrow,Storm water,no data,Maximize Natural Storage,3
+157,Check dam,River water,Ecological,Maximize Natural Storage,5
+158,Infiltration basin,River water,Domestic,Maximize Natural Storage,5
+159,Bank filtration,Lake water,Domestic,Water Quality Management,5
+160,Bank filtration,River water,Domestic,Water Quality Management,5
+161,Aquifer storage using wells,Storm water,Agricultural,Maximize Natural Storage,4
+162,Aquifer storage and recovery,Groundwater,no data,no data,5
+163,Trenches,Storm water,Domestic,Physical Aquifer Management,5
+164,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+165,Surface flooding and ditch-and-furrow,River water,Agricultural,Physical Aquifer Management,4
+166,Aquifer storage using wells,River water,Agricultural,Maximize Natural Storage,-9999
+167,Subsurface Dam,River water,Ecological,Physical Aquifer Management,4
+168,Excess Irrigation,Lake water,Domestic,Water Quality Management,5
+169,Infiltration basin,Lake water,Domestic,Water Quality Management,5
+170,Check dam,River water,Ecological,Maximize Natural Storage,3
+171,Aquifer storage and recovery,River water,Ecological,Physical Aquifer Management,5
+172,Surface flooding and ditch-and-furrow,River water,Agricultural,Water Quality Management,3
+173,Subsurface Dam,Groundwater,Agricultural,Maximize Natural Storage,-9999
+174,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,3
+175,Aquifer storage using wells,River water,no data,no data,5
+176,Bank filtration,River water,Domestic,Water Quality Management,5
+177,Aquifer storage using wells,River water,Domestic,Physical Aquifer Management,5
+178,Infiltration basin,Reclaimed wastewater,no data,no data,3
+179,Subsurface Dam,Groundwater,Agricultural,no data,5
+180,Infiltration basin,River water,no data,no data,3
+181,Bank filtration,Lake water,Domestic,Water Quality Management,5
+182,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+183,Aquifer storage and recovery,River water,Domestic,Water Quality Management,-9999
+184,Infiltration basin,River water,Domestic,Maximize Natural Storage,3
+185,Channel infiltration/spreading,Storm water,Agricultural,Other Benefits,3
+186,Subsurface Dam,River water,Ecological,Physical Aquifer Management,3
+187,Bank filtration,River water,Domestic,Water Quality Management,5
+188,Infiltration basin,River water,no data,Maximize Natural Storage,3
+189,Infiltration basin,Reclaimed wastewater,Agricultural,Water Quality Management,-9999
+190,Aquifer storage using wells,River water,no data,Maximize Natural Storage,3
+191,Infiltration basin,River water,no data,Other Benefits,5
+192,Aquifer storage and recovery,River water,no data,no data,-9999
+193,Bank filtration,River water,Domestic,no data,5
+194,Aquifer storage and recovery,Tap water,no data,Physical Aquifer Management,3
+195,Bank filtration,River water,Domestic,Water Quality Management,5
+196,Rooftop Rainwater Harvesting,Storm water,Ecological,Maximize Natural Storage,3
+197,Excess Irrigation,River water,Agricultural,Maximize Natural Storage,5
+198,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,5
+199,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+200,Aquifer storage and recovery,Groundwater,Domestic,Physical Aquifer Management,-9999
+201,Check dam,River water,Agricultural,Physical Aquifer Management,2
+202,Bank filtration,River water,Domestic,Water Quality Management,5
+203,Infiltration basin,River water,Domestic,Maximize Natural Storage,5
+204,Surface flooding and ditch-and-furrow,Lake water,Domestic,Maximize Natural Storage,-9999
+205,Channel infiltration/spreading,River water,Agricultural,Maximize Natural Storage,3
+206,Infiltration basin,River water,Domestic,Water Quality Management,5
+207,Check dam,River water,Agricultural,Maximize Natural Storage,5
+208,Aquifer storage and recovery,Groundwater,Domestic,Maximize Natural Storage,3
+209,Infiltration basin,River water,Environmental,Physical Aquifer Management,5
+210,Infiltration basin,River water,no data,no data,5
+211,Trenches,Storm water,Ecological,Ecological Benefits,5
+212,Aquifer storage and recovery,Reclaimed wastewater,Domestic,Maximize Natural Storage,-9999
+213,Infiltration basin,River water,Domestic,Maximize Natural Storage,3
+214,Infiltration basin,River water,Domestic,Physical Aquifer Management,5
+215,Aquifer storage and recovery,no data,no data,Maximize Natural Storage,4
+216,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+217,Bank filtration,River water,Domestic,Water Quality Management,5
+218,Aquifer storage and recovery,Tap water,no data,no data,3
+219,Bank filtration,River water,Domestic,Water Quality Management,5
+220,Aquifer storage using wells,River water,Agricultural,Physical Aquifer Management,-9999
+221,no data,River water,Agricultural,no data,4
+222,Check dam,River water,Agricultural,Maximize Natural Storage,3
+223,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+224,Bank filtration,River water,Domestic,no data,3
+225,Infiltration basin,Storm water,Domestic,Maximize Natural Storage,4
+226,Bank filtration,Lake water,Domestic,Maximize Natural Storage,5
+227,Infiltration basin,River water,Ecological,Water Quality Management,4
+228,Bank filtration,River water,Domestic,Water Quality Management,5
+229,Aquifer storage and recovery,River water,Domestic,Physical Aquifer Management,5
+230,Aquifer storage and recovery,River water,no data,no data,5
+231,Aquifer storage using wells,River water,no data,no data,5
+232,Aquifer storage and recovery,River water,Ecological,Maximize Natural Storage,3
+233,Infiltration basin,Storm water,no data,Physical Aquifer Management,3
+234,Aquifer storage using wells,Storm water,no data,no data,-9999
+235,Infiltration basin,Reclaimed wastewater,no data,no data,3
+236,Bank filtration,River water,Domestic,Water Quality Management,5
+237,Infiltration basin,Lake water,Domestic,Water Quality Management,5
+238,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,5
+239,Aquifer storage and recovery,Storm water,Domestic,Management of Water Distribution Systems,3
+240,Aquifer storage using wells,River water,Domestic,Maximize Natural Storage,3
+241,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,3
+242,Aquifer storage and recovery,Groundwater,Agricultural,Physical Aquifer Management,3
+243,Subsurface Dam,Groundwater,Agricultural,Physical Aquifer Management,5
+244,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,5
+245,Aquifer storage and recovery,Groundwater,Industrial,Maximize Natural Storage,3
+246,Infiltration basin,River water,no data,Physical Aquifer Management,3
+247,Excess Irrigation,River water,Agricultural,Maximize Natural Storage,4
+248,Bank filtration,River water,Domestic,Maximize Natural Storage,5
+249,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+250,Infiltration basin,Reclaimed wastewater,Domestic,Water Quality Management,5
+251,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+252,Bank filtration,River water,Domestic,Water Quality Management,5
+253,Infiltration basin,River water,Domestic,no data,4
+254,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+255,Excess Irrigation,Groundwater,Agricultural,Maximize Natural Storage,3
+256,Bank filtration,River water,Domestic,Water Quality Management,5
+257,Check dam,River water,Ecological,Physical Aquifer Management,4
+258,Excess Irrigation,Lake water,Domestic,Water Quality Management,5
+259,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+260,Subsurface Dam,Groundwater,no data,no data,-9999
+261,Aquifer storage and recovery,Tap water,Domestic,Management of Water Distribution Systems,4
+262,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+263,Aquifer storage and recovery,Storm water,Agricultural,Physical Aquifer Management,4
+264,Aquifer storage using wells,River water,Environmental,Water Quality Management,5
+265,Aquifer storage and recovery,Reclaimed wastewater,no data,no data,5
+266,Trenches,Storm water,Ecological,Ecological Benefits,3
+267,Bank filtration,River water,Domestic,Water Quality Management,5
+268,Bank filtration,River water,Domestic,Water Quality Management,5
+269,Check dam,River water,no data,no data,3
+270,Check dam,River water,no data,Maximize Natural Storage,3
+271,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,5
+272,Infiltration basin,Reclaimed wastewater,Domestic,Water Quality Management,4
+273,Aquifer storage and recovery,no data,no data,no data,3
+274,Infiltration basin,Reclaimed wastewater,no data,no data,-9999
+275,Subsurface Dam,Storm water,Agricultural,Maximize Natural Storage,4
+276,Bank filtration,River water,Domestic,Water Quality Management,5
+277,Aquifer storage and recovery,Groundwater,Domestic,no data,5
+278,Check dam,River water,no data,Physical Aquifer Management,3
+279,Infiltration basin,River water,Domestic,Water Quality Management,5
+280,Infiltration basin,Lake water,Domestic,Water Quality Management,5
+281,Bank filtration,River water,Domestic,Water Quality Management,5
+282,Rooftop Rainwater Harvesting,Storm water,no data,Maximize Natural Storage,5
+283,Infiltration basin,no data,no data,Physical Aquifer Management,3
+284,Infiltration basin,Reclaimed wastewater,Agricultural,Water Quality Management,3
+285,Subsurface Dam,Groundwater,Agricultural,no data,-9999
+286,Infiltration basin,Storm water,Agricultural,Maximize Natural Storage,4
+287,Surface flooding and ditch-and-furrow,River water,Domestic,Water Quality Management,5
+288,Aquifer storage using wells,River water,Domestic,Physical Aquifer Management,-9999
+289,Aquifer storage and recovery,River water,Ecological,Ecological Benefits,5
+290,Bank filtration,River water,Domestic,no data,5
+291,Bank filtration,River water,Domestic,Water Quality Management,5
+292,Check dam,River water,no data,Maximize Natural Storage,4
+293,Infiltration basin,River water,Domestic,Water Quality Management,-9999
+294,Aquifer storage and recovery,Reclaimed wastewater,no data,no data,5
+295,Infiltration basin,River water,Agricultural,Maximize Natural Storage,3
+296,Aquifer storage and recovery,no data,no data,no data,5
+297,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,5
+298,Bank filtration,River water,Domestic,Water Quality Management,5
+299,Bank filtration,River water,Domestic,no data,5
+300,Aquifer storage using wells,Reclaimed wastewater,no data,Physical Aquifer Management,3
+301,Aquifer storage using wells,River water,Ecological,Physical Aquifer Management,3
+302,Bank filtration,Lake water,Domestic,Water Quality Management,5
+303,Surface flooding and ditch-and-furrow,River water,Agricultural,no data,4
+304,Aquifer storage and recovery,River water,no data,no data,3
+305,Bank filtration,Lake water,Domestic,Water Quality Management,5
+306,Subsurface Dam,Storm water,Agricultural,Maximize Natural Storage,5
+307,Subsurface Dam,Groundwater,Agricultural,Physical Aquifer Management,5
+308,Aquifer storage and recovery,Reclaimed wastewater,Domestic,Ecological Benefits,4
+309,Infiltration basin,River water,Domestic,Maximize Natural Storage,4
+310,Reverse Drainage,no data,no data,no data,3
+311,Aquifer storage and recovery,no data,no data,Maximize Natural Storage,5
+312,Surface flooding and ditch-and-furrow,Storm water,Ecological,Management of Water Distribution Systems,3
+313,Check dam,River water,Agricultural,Physical Aquifer Management,4
+314,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+315,Subsurface Dam,River water,Domestic,Maximize Natural Storage,3
+316,Bank filtration,River water,Domestic,Maximize Natural Storage,5
+317,Infiltration basin,River water,no data,Other Benefits,3
+318,Infiltration basin,River water,no data,Physical Aquifer Management,3
+319,Aquifer storage using wells,Tap water,Ecological,Physical Aquifer Management,5
+320,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+321,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+322,Aquifer storage and recovery,Tap water,no data,no data,5
+323,Infiltration basin,Reclaimed wastewater,no data,no data,3
+324,Aquifer storage and recovery,River water,Domestic,Water Quality Management,5
+325,Bank filtration,River water,Domestic,Water Quality Management,5
+326,Infiltration basin,River water,no data,no data,5
+327,Aquifer storage using wells,Storm water,Domestic,Physical Aquifer Management,5
+328,Aquifer storage and recovery,no data,no data,no data,5
+329,Bank filtration,River water,Domestic,Water Quality Management,5
+330,Bank filtration,River water,Domestic,Water Quality Management,5
+331,Aquifer storage and recovery,Storm water,Domestic,Maximize Natural Storage,5
+332,Rooftop Rainwater Harvesting,Storm water,Ecological,Physical Aquifer Management,4
+333,Bank filtration,River water,Domestic,Water Quality Management,5
+334,Surface flooding and ditch-and-furrow,River water,Agricultural,Physical Aquifer Management,3
+335,Subsurface Dam,Storm water,Agricultural,Maximize Natural Storage,4
+336,Rooftop Rainwater Harvesting,Storm water,no data,Physical Aquifer Management,4
+337,Aquifer storage and recovery,no data,no data,no data,5
+338,Trenches,Storm water,no data,Physical Aquifer Management,5
+339,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+340,Aquifer storage and recovery,River water,no data,no data,3
+341,Subsurface Dam,Storm water,Agricultural,Maximize Natural Storage,4
+342,Bank filtration,River water,Domestic,Physical Aquifer Management,5
+343,Aquifer storage and recovery,Storm water,Domestic,Management of Water Distribution Systems,3
+344,Check dam,Storm water,Domestic,Physical Aquifer Management,5
+345,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+346,Infiltration basin,River water,Research,Other Benefits,5
+347,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+348,Subsurface Dam,River water,Domestic,Maximize Natural Storage,3
+349,Infiltration basin,Lake water,Domestic,Water Quality Management,5
+350,Aquifer storage and recovery,Lake water,Domestic,Maximize Natural Storage,3
+351,Surface flooding and ditch-and-furrow,River water,no data,Physical Aquifer Management,4
+352,Subsurface Dam,Groundwater,Agricultural,no data,4
+353,Infiltration basin,River water,Domestic,Physical Aquifer Management,4
+354,Subsurface Dam,Groundwater,Agricultural,no data,4
+355,Check dam,River water,Ecological,Maximize Natural Storage,5
+356,Infiltration basin,River water,Domestic,Physical Aquifer Management,5
+357,Infiltration basin,Reclaimed wastewater,Domestic,Physical Aquifer Management,5
+358,Bank filtration,River water,Domestic,Water Quality Management,5
+359,Check dam,River water,no data,no data,3
+360,Aquifer storage and recovery,Tap water,Domestic,Management of Water Distribution Systems,4
+361,Aquifer storage and recovery,Tap water,no data,no data,5
+362,Aquifer storage and recovery,Lake water,no data,Maximize Natural Storage,5
+363,Aquifer storage and recovery,Reclaimed wastewater,Domestic,Maximize Natural Storage,3
+364,Aquifer storage and recovery,Tap water,no data,no data,3
+365,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+366,Bank filtration,River water,Domestic,Water Quality Management,5
+367,Surface flooding and ditch-and-furrow,River water,Domestic,Physical Aquifer Management,4
+368,Excess Irrigation,Lake water,Domestic,Water Quality Management,-9999
+369,Rooftop Rainwater Harvesting,Storm water,Ecological,Maximize Natural Storage,5
+370,Subsurface Dam,Storm water,Agricultural,Maximize Natural Storage,3
+371,Infiltration basin,Groundwater,Agricultural,Maximize Natural Storage,4
+372,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+373,Infiltration basin,Reclaimed wastewater,Agricultural,Water Quality Management,3
+374,Bank filtration,Lake water,Domestic,Water Quality Management,5
+375,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+376,Bank filtration,River water,Domestic,Water Quality Management,5
+377,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+378,Check dam,River water,Agricultural,Maximize Natural Storage,5
+379,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+380,Aquifer storage using wells,Reclaimed wastewater,Domestic,Physical Aquifer Management,4
+381,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+382,Infiltration basin,River water,no data,Physical Aquifer Management,5
+383,Bank filtration,River water,Domestic,Water Quality Management,5
+384,Aquifer storage and recovery,Reclaimed wastewater,Domestic,Water Quality Management,3
+385,Check dam,River water,Agricultural,Maximize Natural Storage,5
+386,Infiltration basin,no data,no data,no data,-9999
+387,Infiltration basin,River water,Agricultural,Other Benefits,5
+388,Infiltration basin,River water,Domestic,Maximize Natural Storage,5
+389,Subsurface Dam,River water,Agricultural,Physical Aquifer Management,-9999
+390,Aquifer storage using wells,Reclaimed wastewater,Ecological,Maximize Natural Storage,3
+391,Bank filtration,River water,Domestic,Water Quality Management,5
+392,Check dam,River water,Agricultural,Maximize Natural Storage,5
+393,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,5
+394,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+395,Aquifer storage and recovery,River water,Ecological,Ecological Benefits,5
+396,Infiltration basin,River water,Domestic,Maximize Natural Storage,3
+397,Rooftop Rainwater Harvesting,Storm water,Domestic,Physical Aquifer Management,-9999
+398,Trenches,Storm water,Domestic,Physical Aquifer Management,5
+399,Check dam,River water,no data,no data,5
+400,Bank filtration,River water,no data,Water Quality Management,-9999
+401,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+402,Infiltration basin,River water,no data,Maximize Natural Storage,5
+403,Bank filtration,Lake water,Research,Water Quality Management,5
+404,Aquifer storage using wells,River water,Domestic,Maximize Natural Storage,3
+405,Bank filtration,River water,Domestic,Water Quality Management,5
+406,Infiltration basin,River water,Environmental,Physical Aquifer Management,5
+407,Aquifer storage and recovery,Storm water,Agricultural,Water Quality Management,3
+408,Infiltration basin,River water,Domestic,Water Quality Management,5
+409,Bank filtration,River water,no data,no data,5
+410,Aquifer storage and recovery,Brackish water,no data,no data,3
+411,Aquifer storage and recovery,Reclaimed wastewater,Domestic,Physical Aquifer Management,-9999
+412,Surface flooding and ditch-and-furrow,River water,Agricultural,Maximize Natural Storage,3
+413,Infiltration basin,River water,Agricultural,no data,4
+414,Aquifer storage and recovery,Tap water,no data,no data,5
+415,Bank filtration,River water,Domestic,Water Quality Management,5
+416,Aquifer storage and recovery,River water,Ecological,Physical Aquifer Management,5
+417,Surface flooding and ditch-and-furrow,River water,Agricultural,Maximize Natural Storage,3
+418,Infiltration basin,River water,no data,Maximize Natural Storage,5
+419,Aquifer storage and recovery,Reclaimed wastewater,no data,no data,5
+420,Aquifer storage and recovery,no data,no data,no data,3
+421,Aquifer storage and recovery,Reclaimed wastewater,no data,Maximize Natural Storage,5
+422,Check dam,River water,Agricultural,Maximize Natural Storage,3
+423,Check dam,River water,no data,Physical Aquifer Management,3
+424,Aquifer storage and recovery,River water,Domestic,no data,-9999
+425,Bank filtration,River water,Domestic,Water Quality Management,5
+426,Aquifer storage using wells,Groundwater,no data,Physical Aquifer Management,4
+427,Infiltration basin,River water,Domestic,Maximize Natural Storage,3
+428,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+429,Bank filtration,River water,Domestic,Water Quality Management,5
+430,Check dam,River water,no data,Maximize Natural Storage,5
+431,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+432,Check dam,River water,no data,no data,3
+433,Infiltration basin,Reclaimed wastewater,Ecological,Water Quality Management,3
+434,Infiltration basin,Storm water,Ecological,Maximize Natural Storage,5
+435,Infiltration basin,River water,Agricultural,Maximize Natural Storage,4
+436,Bank filtration,River water,no data,no data,5
+437,Infiltration basin,Reclaimed wastewater,no data,Water Quality Management,3
+438,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+439,Aquifer storage using wells,River water,no data,Other Benefits,5
+440,Check dam,River water,Agricultural,Maximize Natural Storage,4
+441,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+442,Aquifer storage using wells,River water,Domestic,Maximize Natural Storage,3
+443,Aquifer storage using wells,River water,Agricultural,no data,3
+444,Infiltration basin,River water,Agricultural,Other Benefits,3
+445,Sand Storage Dams,Groundwater,Domestic,Maximize Natural Storage,3
+446,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,5
+447,Check dam,River water,no data,no data,4
+448,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,3
+449,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+450,Check dam,River water,Agricultural,Maximize Natural Storage,5
+451,Subsurface Dam,Groundwater,Agricultural,no data,5
+452,Reverse Drainage,River water,no data,Physical Aquifer Management,3
+453,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+454,Aquifer storage and recovery,River water,Agricultural,Ecological Benefits,-9999
+455,Bank filtration,River water,no data,no data,5
+456,Aquifer storage and recovery,no data,Domestic,Physical Aquifer Management,5
+457,Rooftop Rainwater Harvesting,Storm water,Domestic,no data,5
+458,Infiltration basin,River water,no data,no data,5
+459,Aquifer storage and recovery,Groundwater,Ecological,Physical Aquifer Management,4
+460,Infiltration basin,River water,Agricultural,no data,5
+461,Infiltration basin,Storm water,no data,no data,3
+462,Aquifer storage and recovery,River water,Agricultural,Maximize Natural Storage,3
+463,Check dam,River water,Agricultural,Physical Aquifer Management,-9999
+464,Aquifer storage and recovery,no data,no data,no data,5
+465,Check dam,River water,Agricultural,Maximize Natural Storage,5
+466,Aquifer storage using wells,Reclaimed wastewater,Ecological,Physical Aquifer Management,4
+467,Aquifer storage and recovery,River water,no data,no data,5
+468,Aquifer storage and recovery,Tap water,Domestic,Maximize Natural Storage,5
+469,Trenches,Storm water,Domestic,Physical Aquifer Management,5
+470,Bank filtration,River water,Domestic,Water Quality Management,5
+471,Aquifer storage and recovery,River water,Domestic,Water Quality Management,5
+472,Rooftop Rainwater Harvesting,Storm water,Ecological,Other Benefits,3
+473,Infiltration basin,River water,Domestic,Water Quality Management,5
+474,Infiltration basin,Storm water,Domestic,Maximize Natural Storage,4
+475,Check dam,River water,Agricultural,Maximize Natural Storage,5
+476,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,5
+477,Infiltration basin,Lake water,Domestic,Water Quality Management,5
+478,Aquifer storage and recovery,River water,Agricultural,Physical Aquifer Management,5
+479,Infiltration basin,River water,Environmental,Physical Aquifer Management,5
+480,Bank filtration,River water,Domestic,Water Quality Management,5
+481,Infiltration basin,Lake water,Domestic,Water Quality Management,5
+482,Excess Irrigation,Lake water,Domestic,Water Quality Management,5
+483,Bank filtration,River water,Domestic,no data,5
+484,Aquifer storage and recovery,Groundwater,Domestic,Maximize Natural Storage,-9999
+485,Aquifer storage and recovery,no data,no data,no data,5
+486,Bank filtration,River water,Domestic,no data,5
+487,Check dam,River water,Ecological,Physical Aquifer Management,4
+488,Barriers and Bunds,River water,Ecological,Management of Water Distribution Systems,4
+489,Infiltration basin,River water,Agricultural,no data,4
+490,Infiltration basin,Lake water,Domestic,Water Quality Management,5
+491,Bank filtration,River water,Domestic,Maximize Natural Storage,5
+492,Infiltration basin,Reclaimed wastewater,no data,Water Quality Management,1
+493,Infiltration basin,River water,Agricultural,no data,4
+494,Aquifer storage and recovery,Groundwater,Ecological,Physical Aquifer Management,5
+495,Subsurface Dam,Storm water,Domestic,Maximize Natural Storage,-9999
+496,Bank filtration,Tap water,Domestic,Physical Aquifer Management,5
+497,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+498,Infiltration basin,no data,Domestic,no data,5
+499,Aquifer storage and recovery,River water,Domestic,Water Quality Management,5
+500,Infiltration basin,Storm water,Domestic,Maximize Natural Storage,4
+501,Infiltration basin,Reclaimed wastewater,Domestic,Ecological Benefits,-9999
+502,Subsurface Dam,River water,Domestic,Physical Aquifer Management,4
+503,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,5
+504,Bank filtration,River water,no data,no data,5
+505,Check dam,River water,Domestic,Maximize Natural Storage,4
+506,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+507,Aquifer storage and recovery,Storm water,no data,Maximize Natural Storage,3
+508,Bank filtration,River water,Domestic,Water Quality Management,5
+509,Bank filtration,River water,Domestic,Water Quality Management,5
+510,Aquifer storage and recovery,Lake water,no data,no data,3
+511,Check dam,River water,Agricultural,Maximize Natural Storage,4
+512,Infiltration basin,Reclaimed wastewater,no data,no data,3
+513,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+514,Check dam,River water,Ecological,Maximize Natural Storage,5
+515,Infiltration basin,River water,Domestic,Management of Water Distribution Systems,5
+516,Infiltration basin,River water,Domestic,Physical Aquifer Management,4
+517,Check dam,River water,Agricultural,Physical Aquifer Management,-9999
+518,Check dam,River water,Domestic,Maximize Natural Storage,3
+519,Aquifer storage using wells,River water,Agricultural,no data,3
+520,Surface flooding and ditch-and-furrow,Reclaimed wastewater,Ecological,Management of Water Distribution Systems,4
+521,Bank filtration,River water,Domestic,Water Quality Management,5
+522,Infiltration basin,Storm water,no data,no data,3
+523,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,5
+524,Bank filtration,River water,Domestic,Water Quality Management,5
+525,Rooftop Rainwater Harvesting,Storm water,Ecological,Maximize Natural Storage,5
+526,Bank filtration,River water,Domestic,Water Quality Management,5
+527,Aquifer storage and recovery,Storm water,Domestic,Maximize Natural Storage,-9999
+528,Surface flooding and ditch-and-furrow,Storm water,Ecological,Management of Water Distribution Systems,3
+529,Infiltration basin,River water,no data,Maximize Natural Storage,1
+530,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+531,Aquifer storage and recovery,River water,no data,no data,3
+532,Aquifer storage and recovery,River water,Ecological,Physical Aquifer Management,5
+533,Aquifer storage using wells,Groundwater,Ecological,Physical Aquifer Management,5
+534,Aquifer storage using wells,River water,Agricultural,Water Quality Management,4
+535,Aquifer storage and recovery,Groundwater,Industrial,Ecological Benefits,4
+536,Infiltration basin,River water,Domestic,Maximize Natural Storage,5
+537,Aquifer storage using wells,Storm water,Domestic,Physical Aquifer Management,5
+538,Infiltration basin,Storm water,Domestic,Maximize Natural Storage,4
+539,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+540,Bank filtration,River water,Industrial,no data,5
+541,Check dam,River water,Agricultural,Physical Aquifer Management,-9999
+542,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,3
+543,Trenches,Storm water,Domestic,Physical Aquifer Management,5
+544,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,4
+545,Bank filtration,River water,no data,no data,-9999
+546,Bank filtration,River water,Domestic,Water Quality Management,5
+547,Check dam,River water,Agricultural,Maximize Natural Storage,4
+548,Aquifer storage using wells,Groundwater,Industrial,Other Benefits,5
+549,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,4
+550,Bank filtration,Lake water,Domestic,Water Quality Management,5
+551,Aquifer storage and recovery,Groundwater,Environmental,Ecological benefits,5
+552,Aquifer storage and recovery,River water,Industrial,Maximize Natural Storage,5
+553,Check dam,Storm water,Agricultural,Other Benefits,3
+554,Subsurface Dam,River water,Domestic,Maximize Natural Storage,5
+555,Infiltration basin,River water,no data,Maximize Natural Storage,4
+556,Subsurface Dam,River water,Domestic,Physical Aquifer Management,4
+557,Aquifer storage and recovery,Storm water,Agricultural,Water Quality Management,3
+558,Aquifer storage and recovery,Groundwater,no data,Maximize Natural Storage,5
+559,Aquifer storage and recovery,Tap water,Domestic,Maximize Natural Storage,4
+560,Aquifer storage and recovery,Reclaimed wastewater,no data,Physical Aquifer Management,3
+561,Bank filtration,River water,Domestic,Water Quality Management,5
+562,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+563,Infiltration basin,River water,Agricultural,no data,4
+564,Bank filtration,River water,Domestic,Water Quality Management,5
+565,Subsurface Dam,Groundwater,no data,no data,-9999
+566,Subsurface Dam,River water,Agricultural,Physical Aquifer Management,3
+567,Infiltration basin,Reclaimed wastewater,Domestic,Physical Aquifer Management,-9999
+568,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,3
+569,Check dam,River water,no data,Physical Aquifer Management,5
+570,Infiltration basin,River water,no data,no data,3
+571,Surface flooding and ditch-and-furrow,Reclaimed wastewater,Agricultural,Physical Aquifer Management,4
+572,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+573,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,4
+574,Check dam,River water,Agricultural,Physical Aquifer Management,4
+575,Bank filtration,no data,no data,no data,5
+576,Check dam,River water,Agricultural,Maximize Natural Storage,4
+577,Bank filtration,River water,Domestic,Maximize Natural Storage,5
+578,Subsurface Dam,River water,Ecological,Physical Aquifer Management,2
+579,Aquifer storage and recovery,Reclaimed wastewater,no data,no data,3
+580,Trenches,Storm water,no data,no data,5
+581,Infiltration basin,Reclaimed wastewater,Domestic,Ecological Benefits,-9999
+582,Aquifer storage and recovery,Storm water,Domestic,no data,3
+583,Infiltration basin,Reclaimed wastewater,no data,no data,3
+584,Infiltration basin,River water,no data,no data,5
+585,Excess Irrigation,Reclaimed wastewater,Research,Physical Aquifer Management,-9999
+586,Aquifer storage and recovery,River water,Domestic,no data,5
+587,Infiltration basin,River water,no data,Physical Aquifer Management,3
+588,Check dam,River water,Agricultural,Physical Aquifer Management,5
+589,Infiltration basin,Lake water,no data,no data,5
+590,Subsurface Dam,River water,Domestic,Physical Aquifer Management,4
+591,Surface flooding and ditch-and-furrow,River water,Agricultural,Maximize Natural Storage,4
+592,Infiltration basin,Storm water,Ecological,Maximize Natural Storage,5
+593,Infiltration basin,River water,no data,no data,3
+594,Infiltration basin,River water,Domestic,Water Quality Management,5
+595,Infiltration basin,River water,no data,no data,3
+596,Bank filtration,River water,Domestic,Water Quality Management,5
+597,Bank filtration,River water,Domestic,Water Quality Management,5
+598,Aquifer storage and recovery,Groundwater,no data,no data,5
+599,Infiltration basin,Lake water,Domestic,Maximize Natural Storage,-9999
+600,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+601,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,5
+602,Check dam,River water,Agricultural,Physical Aquifer Management,2
+603,Infiltration basin,River water,no data,no data,3
+604,Infiltration basin,River water,Industrial,Maximize Natural Storage,5
+605,Infiltration basin,River water,no data,Water Quality Management,5
+606,Aquifer storage and recovery,Storm water,Ecological,Maximize Natural Storage,3
+607,Check dam,River water,Agricultural,Physical Aquifer Management,3
+608,Subsurface Dam,River water,Domestic,Maximize Natural Storage,3
+609,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,5
+610,Aquifer storage using wells,no data,no data,Physical Aquifer Management,3
+611,Infiltration basin,River water,no data,Maximize Natural Storage,5
+612,Aquifer storage and recovery,River water,Agricultural,Physical Aquifer Management,3
+613,Subsurface Dam,Storm water,Agricultural,Maximize Natural Storage,4
+614,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,5
+615,Check dam,River water,no data,Physical Aquifer Management,2
+616,Aquifer storage and recovery,Tap water,Domestic,Maximize Natural Storage,3
+617,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+618,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,5
+619,Infiltration basin,Storm water,no data,Physical Aquifer Management,3
+620,Aquifer storage and recovery,River water,Domestic,Water Quality Management,5
+621,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+622,Subsurface Dam,Groundwater,Agricultural,Maximize Natural Storage,-9999
+623,Bank filtration,River water,Domestic,Water Quality Management,1
+624,Aquifer storage and recovery,Storm water,Domestic,Maximize Natural Storage,4
+625,Check dam,Reclaimed wastewater,Agricultural,Maximize Natural Storage,3
+626,Surface flooding and ditch-and-furrow,River water,Agricultural,Maximize Natural Storage,3
+627,Surface flooding and ditch-and-furrow,River water,Agricultural,Water Quality Management,4
+628,Infiltration basin,Storm water,Ecological,Maximize Natural Storage,5
+629,Aquifer storage using wells,Reclaimed wastewater,Domestic,Physical Aquifer Management,3
+630,Aquifer storage using wells,Storm water,Domestic,Ecological Benefits,3
+631,Aquifer storage and recovery,Lake water,no data,Maximize Natural Storage,5
+632,Infiltration basin,River water,no data,Maximize Natural Storage,3
+633,Bank filtration,River water,Domestic,Water Quality Management,5
+634,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,3
+635,Aquifer storage and recovery,River water,no data,Water Quality Management,-9999
+636,Bank filtration,River water,Domestic,Water Quality Management,5
+637,Check dam,River water,Agricultural,Maximize Natural Storage,5
+638,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+639,Aquifer storage and recovery,Tap water,Domestic,Maximize Natural Storage,5
+640,Aquifer storage and recovery,Reclaimed wastewater,Ecological,Physical Aquifer Management,-9999
+641,Infiltration basin,River water,no data,Physical Aquifer Management,3
+642,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+643,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+644,Subsurface Dam,Groundwater,Agricultural,Physical Aquifer Management,-9999
+645,Aquifer storage and recovery,Brackish water,Ecological,Ecological Benefits,3
+646,Aquifer storage and recovery,Storm water,Agricultural,Water Quality Management,5
+647,Bank filtration,River water,Domestic,Water Quality Management,5
+648,Infiltration basin,River water,Domestic,Water Quality Management,5
+649,Check dam,River water,Ecological,Maximize Natural Storage,5
+650,Aquifer storage and recovery,no data,no data,no data,5
+651,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,3
+652,Infiltration basin,Reclaimed wastewater,no data,no data,3
+653,Aquifer storage and recovery,no data,Domestic,Maximize Natural Storage,-9999
+654,Infiltration basin,River water,no data,Other Benefits,3
+655,Bank filtration,River water,Domestic,Water Quality Management,5
+656,Aquifer storage and recovery,Reclaimed wastewater,Agricultural,Maximize Natural Storage,3
+657,Trenches,Storm water,Ecological,Ecological Benefits,5
+658,Aquifer storage and recovery,River water,Domestic,Water Quality Management,-9999
+659,Aquifer storage and recovery,Tap water,Domestic,Maximize Natural Storage,-9999
+660,Surface flooding and ditch-and-furrow,River water,Domestic,Water Quality Management,5
+661,Infiltration basin,Storm water,Domestic,Maximize Natural Storage,4
+662,Subsurface Dam,River water,Agricultural,Physical Aquifer Management,4
+663,Infiltration basin,no data,no data,no data,5
+664,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,4
+665,Check dam,River water,Agricultural,Physical Aquifer Management,4
+666,Infiltration basin,River water,no data,no data,3
+667,Check dam,River water,no data,no data,3
+668,Check dam,River water,Domestic,Other Benefits,2
+669,Channel infiltration/spreading,River water,Agricultural,Maximize Natural Storage,3
+670,Infiltration basin,River water,no data,Physical Aquifer Management,3
+671,Subsurface Dam,Storm water,Agricultural,Maximize Natural Storage,3
+672,Subsurface Dam,Groundwater,Agricultural,Maximize Natural Storage,-9999
+673,Aquifer storage using wells,Groundwater,no data,Physical Aquifer Management,3
+674,Infiltration basin,River water,Agricultural,Physical Aquifer Management,4
+675,Bank filtration,River water,Domestic,Water Quality Management,5
+676,Infiltration basin,Reclaimed wastewater,no data,no data,3
+677,Check dam,River water,no data,no data,3
+678,Subsurface Dam,River water,Domestic,Maximize Natural Storage,3
+679,Aquifer storage and recovery,Reclaimed wastewater,Domestic,Maximize Natural Storage,3
+680,Aquifer storage and recovery,Reclaimed wastewater,no data,no data,5
+681,Aquifer storage and recovery,Groundwater,Domestic,Maximize Natural Storage,3
+682,Check dam,River water,Domestic,Maximize Natural Storage,5
+683,Trenches,River water,Agricultural,Physical Aquifer Management,3
+684,Infiltration basin,Reclaimed wastewater,no data,no data,3
+685,Bank filtration,River water,Domestic,Water Quality Management,5
+686,Aquifer storage using wells,Storm water,Domestic,no data,3
+687,Infiltration basin,Physical Aquifer Management,River water,Domestic,-9999
+688,Infiltration basin,River water,no data,no data,3
+689,Rooftop Rainwater Harvesting,Storm water,Industrial,Maximize Natural Storage,5
+690,Rooftop Rainwater Harvesting,Storm water,Industrial,Maximize Natural Storage,5
+691,Aquifer storage and recovery,no data,no data,no data,5
+692,Aquifer storage using wells,Storm water,Domestic,Physical Aquifer Management,5
+693,Aquifer storage and recovery,no data,no data,no data,-9999
+694,Check dam,River water,Agricultural,Maximize Natural Storage,3
+695,Infiltration basin,Storm water,Agricultural,Maximize Natural Storage,2
+696,Bank filtration,River water,Domestic,Maximize Natural Storage,5
+697,Check dam,Storm water,Domestic,Maximize Natural Storage,4
+698,Infiltration basin,River water,Agricultural,Maximize Natural Storage,3
+699,Aquifer storage and recovery,Lake water,no data,Physical Aquifer Management,3
+700,Infiltration basin,River water,no data,Other Benefits,5
+701,Infiltration basin,Storm water,Domestic,Maximize Natural Storage,4
+702,Infiltration basin,Storm water,no data,no data,3
+703,Infiltration basin,River water,Domestic,Water Quality Management,-9999
+704,Infiltration basin,Storm water,no data,no data,3
+705,Trenches,Storm water,Ecological,Ecological Benefits,5
+706,Subsurface Dam,Groundwater,Domestic,Maximize Natural Storage,3
+707,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,3
+708,Trenches,Storm water,no data,no data,5
+709,Check dam,River water,Agricultural,Physical Aquifer Management,2
+710,Check dam,River water,Ecological,Maximize Natural Storage,5
+711,Trenches,Storm water,Domestic,Physical Aquifer Management,5
+712,Infiltration basin,River water,no data,Maximize Natural Storage,3
+713,Subsurface Dam,River water,Ecological,Physical Aquifer Management,4
+714,Bank filtration,River water,Domestic,Water Quality Management,5
+715,Subsurface Dam,River water,Domestic,Maximize Natural Storage,4
+716,Aquifer storage and recovery,Tap water,Domestic,Maximize Natural Storage,5
+717,Bank filtration,Lake water,Domestic,Water Quality Management,5
+718,Surface flooding and ditch-and-furrow,River water,Agricultural,Maximize Natural Storage,3
+719,Subsurface Dam,Storm water,Agricultural,Maximize Natural Storage,4
+720,Aquifer storage using wells,Groundwater,no data,Physical Aquifer Management,3
+721,Infiltration basin,River water,Agricultural,Maximize Natural Storage,3
+722,Reverse Drainage,Reclaimed wastewater,Domestic,Water Quality Management,4
+723,Check dam,River water,no data,Physical Aquifer Management,5
+724,Infiltration basin,Reclaimed wastewater,no data,Physical Aquifer Management,4
+725,Infiltration basin,River water,Domestic,Maximize Natural Storage,3
+726,Infiltration basin,River water,no data,Physical Aquifer Management,3
+727,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+728,Aquifer storage using wells,Storm water,Domestic,Physical Aquifer Management,5
+729,Bank filtration,River water,Domestic,Management of Water Distribution Systems,5
+730,Infiltration basin,Reclaimed wastewater,no data,no data,3
+731,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+732,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+733,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,4
+734,Infiltration basin,River water,Domestic,Water Quality Management,5
+735,Bank filtration,River water,Domestic,Water Quality Management,5
+736,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+737,Infiltration basin,Lake water,Agricultural,Physical Aquifer Management,-9999
+738,Bank filtration,River water,Domestic,Water Quality Management,5
+739,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,4
+740,Bank filtration,River water,Domestic,Water Quality Management,5
+741,Aquifer storage using wells,River water,Agricultural,Physical Aquifer Management,5
+742,Aquifer storage and recovery,Tap water,no data,Maximize Natural Storage,-9999
+743,Check dam,River water,Agricultural,Physical Aquifer Management,2
+744,Check dam,River water,Agricultural,Physical Aquifer Management,-9999
+745,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+746,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+747,Bank filtration,River water,Domestic,Water Quality Management,5
+748,Aquifer storage using wells,Reclaimed wastewater,no data,Physical Aquifer Management,3
+749,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+750,Bank filtration,River water,Domestic,Water Quality Management,5
+751,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,3
+752,Surface flooding and ditch-and-furrow,Reclaimed wastewater,no data,Maximize Natural Storage,-9999
+753,Subsurface Dam,Groundwater,no data,no data,4
+754,Aquifer storage and recovery,Reclaimed wastewater,no data,no data,5
+755,Check dam,River water,Agricultural,Maximize Natural Storage,3
+756,Bank filtration,River water,Domestic,Water Quality Management,5
+757,Bank filtration,River water,Domestic,Water Quality Management,5
+758,Infiltration basin,River water,no data,Maximize Natural Storage,3
+759,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,3
+760,Aquifer storage and recovery,Storm water,Domestic,no data,-9999
+761,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+762,Check dam,River water,Agricultural,Maximize Natural Storage,3
+763,Aquifer storage using wells,River water,no data,Maximize Natural Storage,-9999
+764,Aquifer storage and recovery,River water,Domestic,Management of Water Distribution Systems,5
+765,Trenches,Storm water,Ecological,Ecological Benefits,3
+766,Infiltration basin,River water,Domestic,Maximize Natural Storage,5
+767,Aquifer storage and recovery,Groundwater,Ecological,Physical Aquifer Management,5
+768,Infiltration basin,Reclaimed wastewater,Agricultural,Maximize Natural Storage,5
+769,Bank filtration,River water,Domestic,Water Quality Management,5
+770,Aquifer storage and recovery,River water,Domestic,Ecological Benefits,5
+771,Bank filtration,River water,Domestic,no data,5
+772,Bank filtration,River water,Domestic,Water Quality Management,5
+773,Infiltration basin,River water,Domestic,Water Quality Management,5
+774,Aquifer storage using wells,River water,Environmental,Maximize Natural Storage,5
+775,Bank filtration,River water,Domestic,Water Quality Management,5
+776,Infiltration basin,River water,no data,Physical Aquifer Management,3
+777,Check dam,River water,Agricultural,Physical Aquifer Management,2
+778,Bank filtration,River water,Domestic,Water Quality Management,5
+779,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+780,Infiltration basin,Storm water,Agricultural,Maximize Natural Storage,4
+781,Bank filtration,River water,Domestic,Water Quality Management,5
+782,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+783,Trenches,Storm water,Agricultural,Maximize Natural Storage,5
+784,Aquifer storage and recovery,Groundwater,Domestic,Maximize Natural Storage,5
+785,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+786,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+787,Reverse Drainage,Storm water,Domestic,Physical Aquifer Management,4
+788,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+789,Aquifer storage and recovery,no data,no data,no data,3
+790,Aquifer storage using wells,Storm water,no data,Other Benefits,-9999
+791,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+792,Subsurface Dam,Storm water,Agricultural,Maximize Natural Storage,4
+793,Surface flooding and ditch-and-furrow,River water,Agricultural,Maximize Natural Storage,3
+794,Aquifer storage and recovery,no data,no data,no data,5
+795,Excess Irrigation,River water,Domestic,Water Quality Management,5
+796,Aquifer storage and recovery,Groundwater,no data,no data,5
+797,Aquifer storage and recovery,no data,Industrial,Other Benefits,3
+798,Check dam,Storm water,Domestic,Physical Aquifer Management,3
+799,Infiltration basin,River water,Domestic,Maximize Natural Storage,-9999
+800,Infiltration basin,Storm water,Domestic,Maximize Natural Storage,4
+801,Check dam,River water,Agricultural,Physical Aquifer Management,2
+802,Aquifer storage using wells,Tap water,Ecological,Physical Aquifer Management,5
+803,Bank filtration,River water,Ecological,Water Quality Management,5
+804,Aquifer storage and recovery,Lake water,no data,Maximize Natural Storage,5
+805,Infiltration basin,River water,Domestic,Water Quality Management,5
+806,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,3
+807,Aquifer storage and recovery,Distilled water,no data,no data,-9999
+808,Aquifer storage using wells,River water,Domestic,Maximize Natural Storage,3
+809,Surface flooding and ditch-and-furrow,River water,Ecological,Physical Aquifer Management,4
+810,Infiltration basin,River water,Domestic,Maximize Natural Storage,5
+811,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+812,Infiltration basin,River water,no data,no data,3
+813,Bank filtration,Lake water,Domestic,no data,5
+814,Bank filtration,River water,Domestic,Water Quality Management,5
+815,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+816,Reverse Drainage,Storm water,Domestic,Ecological Benefits,5
+817,Aquifer storage and recovery,River water,Agricultural,Water Quality Management,5
+818,Infiltration basin,Storm water,Agricultural,Maximize Natural Storage,4
+819,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+820,Aquifer storage using wells,Storm water,Domestic,Physical Aquifer Management,5
+821,Aquifer storage and recovery,Brackish water,Ecological,Physical Aquifer Management,5
+822,Barriers and Bunds,River water,Agricultural,Maximize Natural Storage,4
+823,Aquifer storage using wells,Lake water,Domestic,Maximize Natural Storage,3
+824,Aquifer storage and recovery,Groundwater,no data,Physical Aquifer Management,3
+825,Check dam,Lake water,no data,Physical Aquifer Management,3
+826,Check dam,River water,Agricultural,Maximize Natural Storage,5
+827,Aquifer storage and recovery,Reclaimed wastewater,no data,no data,3
+828,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+829,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,3
+830,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+831,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+832,Aquifer storage and recovery,River water,Ecological,Physical Aquifer Management,4
+833,Check dam,River water,Ecological,Maximize Natural Storage,5
+834,Infiltration basin,River water,Domestic,Maximize Natural Storage,3
+835,Aquifer storage and recovery,Groundwater,Domestic,Water Quality Management,5
+836,Infiltration basin,River water,no data,Physical Aquifer Management,3
+837,Aquifer storage and recovery,no data,no data,no data,5
+838,Bank filtration,River water,Domestic,Maximize Natural Storage,5
+839,Trenches,Groundwater,no data,Physical Aquifer Management,3
+840,Subsurface Dam,Groundwater,Agricultural,no data,5
+841,Bank filtration,River water,Domestic,Maximize Natural Storage,5
+842,Bank filtration,River water,no data,no data,5
+843,Aquifer storage and recovery,River water,Ecological,Ecological Benefits,5
+844,Infiltration basin,Lake water,Domestic,Ecological Benefits,-9999
+845,Bank filtration,River water,no data,Water Quality Management,5
+846,Aquifer storage and recovery,Tap water,Domestic,Physical Aquifer Management,5
+847,Infiltration basin,River water,no data,Physical Aquifer Management,3
+848,Aquifer storage and recovery,Groundwater,no data,no data,3
+849,Infiltration basin,River water,Domestic,Water Quality Management,5
+850,Subsurface Dam,Groundwater,no data,no data,5
+851,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+852,Aquifer storage and recovery,Lake water,no data,Maximize Natural Storage,5
+853,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+854,Check dam,River water,Ecological,Maximize Natural Storage,5
+855,Check dam,River water,Agricultural,Physical Aquifer Management,-9999
+856,Infiltration basin,Reclaimed wastewater,Domestic,Maximize Natural Storage,3
+857,Bank filtration,River water,Agricultural,Water Quality Management,5
+858,Infiltration basin,Lake water,Agricultural,Physical Aquifer Management,3
+859,Infiltration basin,Lake water,Domestic,no data,5
+860,Aquifer storage using wells,River water,Domestic,Physical Aquifer Management,4
+861,Aquifer storage and recovery,no data,no data,no data,5
+862,Infiltration basin,River water,no data,Physical Aquifer Management,5
+863,Aquifer storage and recovery,Storm water,Agricultural,Maximize Natural Storage,4
+864,Aquifer storage and recovery,no data,no data,no data,3
+865,Aquifer storage and recovery,no data,no data,no data,5
+866,Infiltration basin,Reclaimed wastewater,Environmental,Water Quality Management,-9999
+867,Aquifer storage and recovery,no data,no data,no data,-9999
+868,Infiltration basin,Reclaimed wastewater,Domestic,Water Quality Management,3
+869,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+870,Channel infiltration/spreading,River water,Domestic,Physical Aquifer Management,5
+871,Infiltration basin,Storm water,Ecological,Maximize Natural Storage,5
+872,Bank filtration,River water,Domestic,Water Quality Management,5
+873,Bank filtration,River water,Domestic,Water Quality Management,5
+874,Surface flooding and ditch-and-furrow,River water,Domestic,Physical Aquifer Management,3
+875,Bank filtration,River water,Domestic,Water Quality Management,5
+876,Aquifer storage using wells,River water,Ecological,Other Benefits,4
+877,Aquifer storage and recovery,Tap water,no data,Maximize Natural Storage,5
+878,Channel infiltration/spreading,River water,Agricultural,Maximize Natural Storage,3
+879,Infiltration basin,River water,Agricultural,no data,4
+880,Check dam,River water,Agricultural,no data,3
+881,Surface flooding and ditch-and-furrow,River water,Domestic,Water Quality Management,5
+882,Bank filtration,River water,Domestic,Water Quality Management,5
+883,Rooftop Rainwater Harvesting,Storm water,Ecological,Maximize Natural Storage,5
+884,Aquifer storage and recovery,Tap water,no data,Maximize Natural Storage,5
+885,Infiltration basin,Reclaimed wastewater,no data,Maximize Natural Storage,3
+886,Infiltration basin,Storm water,no data,no data,3
+887,Bank filtration,River water,no data,no data,5
+888,Infiltration basin,River water,no data,no data,5
+889,Aquifer storage and recovery,River water,no data,no data,3
+890,Aquifer storage and recovery,Tap water,Domestic,Maximize Natural Storage,-9999
+891,Infiltration basin,Reclaimed wastewater,no data,no data,5
+892,Subsurface Dam,River water,Agricultural,Physical Aquifer Management,4
+893,Aquifer storage and recovery,Tap water,no data,Maximize Natural Storage,5
+894,Bank filtration,River water,Domestic,Water quality management,5
+895,Aquifer storage and recovery,Storm water,Agricultural,Maximize Natural Storage,4
+896,Infiltration basin,River water,Domestic,Water quality management,5
+897,Reverse Drainage,Reclaimed wastewater,Ecological,Maximize Natural Storage,4
+898,Aquifer storage and recovery,no data,no data,no data,5
+899,Aquifer storage and recovery,River water,no data,no data,5
+900,Bank filtration,Lake water,Domestic,no data,5
+901,Bank filtration,River water,Domestic,no data,5
+902,Check dam,Storm water,Agricultural,Maximize Natural Storage,3
+903,Infiltration basin,River water,no data,no data,3
+904,Subsurface Dam,Groundwater,no data,no data,-9999
+905,Aquifer storage and recovery,Storm water,Domestic,Water Quality Management,5
+906,Infiltration basin,River water,Domestic,Water Quality Management,5
+907,Bank filtration,River water,Domestic,Water Quality Management,5
+908,Aquifer storage and recovery,Tap water,Domestic,Management of Water Distribution Systems,4
+909,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,3
+910,Subsurface Dam,River water,Domestic,Maximize Natural Storage,3
+911,Sand Storage Dams,no data,Industrial,Maximize Natural Storage,4
+912,Aquifer storage and recovery,Lake water,Domestic,Maximize Natural Storage,3
+913,Subsurface Dam,River water,Domestic,Maximize Natural Storage,2
+914,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+915,Infiltration basin,Storm water,no data,no data,-9999
+916,Surface flooding and ditch-and-furrow,River water,Agricultural,Physical Aquifer Management,3
+917,Check dam,River water,no data,Physical Aquifer Management,3
+918,Infiltration basin,River water,no data,no data,3
+919,Aquifer storage and recovery,Lake water,Domestic,Water Quality Management,3
+920,Infiltration basin,River water,Domestic,Water Quality Management,5
+921,Aquifer storage and recovery,River water,no data,no data,3
+922,Infiltration basin,River water,Agricultural,no data,4
+923,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+924,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,4
+925,Bank filtration,River water,Industrial,Maximize Natural Storage,-9999
+926,Subsurface Dam,Groundwater,Agricultural,Physical Aquifer Management,-9999
+927,Aquifer storage using wells,Groundwater,Industrial,Other Benefits,5
+928,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,5
+929,Infiltration basin,River water,no data,Physical Aquifer Management,5
+930,Aquifer storage using wells,Brackish water,no data,Other Benefits,-9999
+931,Bank filtration,Lake water,Domestic,Water Quality Management,5
+932,Infiltration basin,River water,Agricultural,Maximize Natural Storage,4
+933,Infiltration basin,River water,Ecological,Ecological Benefits,5
+934,Subsurface Dam,Groundwater,no data,no data,-9999
+935,Aquifer storage and recovery,no data,no data,no data,3
+936,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,4
+937,Infiltration basin,River water,no data,no data,3
+938,Infiltration basin,River water,no data,Physical Aquifer Management,3
+939,Surface flooding and ditch-and-furrow,River water,no data,Physical Aquifer Management,3
+940,Subsurface Dam,Groundwater,no data,no data,-9999
+941,Infiltration basin,Reclaimed wastewater,Agricultural,Water Quality Management,-9999
+942,Bank filtration,River water,Domestic,Water Quality Management,5
+943,Aquifer storage and recovery,River water,Domestic,Management of Water Distribution Systems,3
+944,Check dam,River water,Agricultural,Maximize Natural Storage,4
+945,Check dam,River water,no data,Physical Aquifer Management,3
+946,Surface flooding and ditch-and-furrow,River water,Agricultural,Maximize Natural Storage,3
+947,Aquifer storage and recovery,River water,Agricultural,Maximize Natural Storage,5
+948,Infiltration basin,River water,Domestic,Management of Water Distribution Systems,5
+949,Bank filtration,River water,Domestic,Water Quality Management,5
+950,Trenches,Storm water,Domestic,Physical Aquifer Management,5
+951,Aquifer storage using wells,no data,no data,no data,3
+952,Bank filtration,River water,Domestic,Water Quality Management,5
+953,Check dam,River water,Agricultural,Maximize Natural Storage,4
+954,Bank filtration,River water,Domestic,Management of Water Distribution Systems,5
+955,Aquifer storage and recovery,Lake water,Domestic,Water Quality Management,3
+956,Subsurface Dam,River water,Domestic,Maximize Natural Storage,4
+957,Bank filtration,River water,Agricultural,Water Quality Management,5
+958,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+959,Infiltration basin,Reclaimed wastewater,no data,no data,3
+960,Surface flooding and ditch-and-furrow,River water,Domestic,Maximize Natural Storage,3
+961,Check dam,River water,Agricultural,Physical Aquifer Management,4
+962,Aquifer storage using wells,Reclaimed wastewater,Agricultural,Water Quality Management,4
+963,Bank filtration,River water,Domestic,Water Quality Management,5
+964,Bank filtration,River water,Domestic,Water Quality Management,5
+965,Bank filtration,River water,no data,no data,5
+966,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,4
+967,Infiltration basin,Storm water,Agricultural,Maximize Natural Storage,3
+968,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+969,Infiltration basin,Storm water,Agricultural,Maximize Natural Storage,4
+970,Infiltration basin,Reclaimed wastewater,no data,no data,3
+971,Bank filtration,River water,Domestic,Water Quality Management,5
+972,Infiltration basin,Reclaimed wastewater,no data,Maximize Natural Storage,3
+973,Infiltration basin,River water,no data,Physical Aquifer Management,5
+974,Infiltration basin,River water,Domestic,Water Quality Management,3
+975,Aquifer storage using wells,Storm water,Domestic,Maximize Natural Storage,5
+976,Infiltration basin,River water,no data,Physical Aquifer Management,3
+977,Infiltration basin,River water,Domestic,no data,5
+978,Aquifer storage and recovery,no data,no data,no data,4
+979,Aquifer storage and recovery,River water,no data,no data,5
+980,Rooftop Rainwater Harvesting,Storm water,Ecological,Physical Aquifer Management,5
+981,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,2
+982,Subsurface Dam,Storm water,Agricultural,Maximize Natural Storage,4
+983,Aquifer storage and recovery,River water,Ecological,Physical Aquifer Management,4
+984,Reverse Drainage,Storm water,no data,Physical Aquifer Management,3
+985,Aquifer storage using wells,River water,no data,no data,5
+986,Infiltration basin,River water,Domestic,Water Quality Management,5
+987,Surface flooding and ditch-and-furrow,Reclaimed wastewater,Agricultural,Maximize Natural Storage,3
+988,Aquifer storage and recovery,Groundwater,no data,no data,3
+989,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+990,Infiltration basin,River water,Agricultural,Maximize Natural Storage,3
+991,Infiltration basin,River water,no data,no data,3
+992,Infiltration basin,Reclaimed wastewater,Domestic,Maximize Natural Storage,3
+993,Aquifer storage and recovery,Tap water,no data,no data,5
+994,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,4
+995,Infiltration basin,River water,Domestic,Physical Aquifer Management,5
+996,Check dam,River water,Agricultural,Physical Aquifer Management,-9999
+997,Check dam,River water,Domestic,Physical Aquifer Management,3
+998,Rooftop Rainwater Harvesting,Storm water,no data,no data,5
+999,Aquifer storage and recovery,Lake water,no data,Maximize Natural Storage,3
+1000,Infiltration basin,Reclaimed wastewater,Industrial,Water Quality Management,4
+1001,Bank filtration,Storm water,no data,Maximize Natural Storage,-9999
+1002,Aquifer storage and recovery,River water,Agricultural,Maximize Natural Storage,3
+1003,Subsurface Dam,Groundwater,Domestic,Maximize Natural Storage,5
+1004,Reverse Drainage,River water,Agricultural,no data,3
+1005,Subsurface Dam,River water,Domestic,Maximize Natural Storage,3
+1006,Bank filtration,River water,no data,Other Benefits,3
+1007,Bank filtration,River water,Domestic,Maximize Natural Storage,5
+1008,Infiltration basin,River water,no data,no data,3
+1009,Reverse Drainage,River water,no data,Physical Aquifer Management,3
+1010,Bank filtration,River water,Domestic,Water Quality Management,5
+1011,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+1012,Aquifer storage and recovery,Storm water,Domestic,Maximize Natural Storage,5
+1013,Bank filtration,River water,Domestic,Water Quality Management,5
+1014,Bank filtration,River water,Domestic,Water Quality Management,5
+1015,Aquifer storage and recovery,Reclaimed wastewater,Industrial,Physical Aquifer Management,4
+1016,Subsurface Dam,River water,Domestic,Maximize Natural Storage,3
+1017,Subsurface Dam,Groundwater,Domestic,Physical Aquifer Management,-9999
+1018,Bank filtration,River water,Research,Water Quality Management,-9999
+1019,Aquifer storage and recovery,Reclaimed wastewater,Agricultural,Ecological Benefits,3
+1020,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,3
+1021,Aquifer storage using wells,River water,Domestic,Water Quality Management,3
+1022,Bank filtration,River water,Industrial,Water Quality Management,5
+1023,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+1024,Bank filtration,River water,Domestic,Water Quality Management,5
+1025,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+1026,Infiltration basin,River water,Domestic,Water Quality Management,5
+1027,Subsurface Dam,River water,Domestic,Maximize Natural Storage,3
+1028,Infiltration basin,River water,Domestic,Maximize Natural Storage,5
+1029,Aquifer storage and recovery,River water,Agricultural,Water Quality Management,5
+1030,Aquifer storage and recovery,Tap water,no data,Maximize Natural Storage,5
+1031,Infiltration basin,River water,no data,no data,3
+1032,Check dam,River water,Agricultural,Physical Aquifer Management,-9999
+1033,Surface flooding and ditch-and-furrow,Storm water,Agricultural,Ecological Benefits,-9999
+1034,Aquifer storage and recovery,Reclaimed wastewater,no data,no data,3
+1035,Infiltration basin,River water,no data,no data,3
+1036,Infiltration basin,River water,Domestic,Water Quality Management,5
+1037,Aquifer storage and recovery,Storm water,Agricultural,Water Quality Management,3
+1038,Infiltration basin,River water,Agricultural,Physical Aquifer Management,3
+1039,Aquifer storage and recovery,Storm water,no data,Ecological Benefits,3
+1040,Subsurface Dam,Groundwater,Domestic,Physical Aquifer Management,4
+1041,Bank filtration,River water,Domestic,Water Quality Management,5
+1042,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+1043,Infiltration basin,River water,Domestic,Maximize Natural Storage,3
+1044,Subsurface Dam,Groundwater,no data,Maximize Natural Storage,4
+1045,Infiltration basin,River water,no data,Other Benefits,3
+1046,Aquifer storage using wells,River water,no data,no data,5
+1047,Bank filtration,River water,Domestic,Water Quality Management,5
+1048,Aquifer storage using wells,River water,Agricultural,Physical Aquifer Management,5
+1049,Infiltration basin,Lake water,no data,Physical Aquifer Management,3
+1050,Bank filtration,River water,Domestic,Water Quality Management,5
+1051,Subsurface Dam,River water,Agricultural,Physical Aquifer Management,-9999
+1052,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,2
+1053,Aquifer storage and recovery,Groundwater,no data,no data,-9999
+1054,Bank filtration,River water,Domestic,Water Quality Management,5
+1055,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,5
+1056,Surface flooding and ditch-and-furrow,Storm water,Agricultural,Physical Aquifer Management,4
+1057,Aquifer storage and recovery,River water,Domestic,Maximize Natural Storage,5
+1058,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+1059,Check dam,River water,Industrial,Physical Aquifer Management,4
+1060,Aquifer storage and recovery,Tap water,no data,Maximize Natural Storage,5
+1061,Infiltration basin,Reclaimed wastewater,Agricultural,Water Quality Management,3
+1062,Rooftop Rainwater Harvesting,Storm water,Domestic,Maximize Natural Storage,5
+1063,Aquifer storage and recovery,Groundwater,Agricultural,no data,3
+1064,Infiltration basin,River water,Domestic,Water Quality Management,5
+1065,Infiltration basin,River water,Domestic,no data,5
+1066,Aquifer storage using wells,Reclaimed wastewater,Domestic,Physical Aquifer Management,3
+1067,Subsurface Dam,Storm water,Agricultural,Maximize Natural Storage,4
+1068,Aquifer storage and recovery,no data,no data,no data,5
+1069,Bank filtration,River water,Domestic,Maximize Natural Storage,5
+1070,Bank filtration,River water,Domestic,Water Quality Management,5
+1071,Bank filtration,River water,Domestic,Water Quality Management,5
+1072,Trenches,Storm water,Ecological,Ecological Benefits,5
+1073,Reverse Drainage,River water,Domestic,Physical Aquifer Management,4
+1074,Bank filtration,Storm water,no data,Maximize Natural Storage,-9999
+1075,Check dam,River water,Ecological,Maximize Natural Storage,5
+1076,Infiltration basin,River water,Agricultural,Management of Water Distribution Systems,5
+1077,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,3
+1078,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+1079,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+1080,Rooftop Rainwater Harvesting,Storm water,no data,Physical Aquifer Management,4
+1081,Aquifer storage and recovery,Groundwater,Industrial,Other Benefits,5
+1082,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,5
+1083,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+1084,Aquifer storage and recovery,Storm water,Ecological,Maximize Natural Storage,5
+1085,Infiltration basin,River water,Domestic,Maximize Natural Storage,5
+1086,Infiltration basin,River water,no data,no data,3
+1087,Surface flooding and ditch-and-furrow,no data,Agricultural,Maximize Natural Storage,-9999
+1088,Aquifer storage and recovery,Reclaimed wastewater,no data,no data,5
+1089,Aquifer storage and recovery,Storm water,Agricultural,Water Quality Management,4
+1090,Rooftop Rainwater Harvesting,Storm water,Agricultural,Maximize Natural Storage,5
+1091,Subsurface Dam,River water,no data,Maximize Natural Storage,3
+1092,Aquifer storage using wells,Storm water,no data,no data,-9999
+1093,Aquifer storage and recovery,Reclaimed wastewater,Agricultural,Maximize Natural Storage,-9999
+1094,Bank filtration,River water,Domestic,Water Quality Management,5
+1095,Surface flooding and ditch-and-furrow,River water,Ecological,Physical Aquifer Management,4
+1096,Barriers and Bunds,River water,Domestic,Physical Aquifer Management,-9999
+1097,Bank filtration,River water,Domestic,Water Quality Management,5
+1098,Check dam,River water,Agricultural,Physical Aquifer Management,3
+1099,Rooftop Rainwater Harvesting,Storm water,Industrial,Maximize Natural Storage,5
+1100,Infiltration basin,River water,Domestic,Maximize Natural Storage,2
+1101,Aquifer storage and recovery,Lake water,Domestic,Physical Aquifer Management,-9999
+1102,Bank filtration,River water,Domestic,Physical Aquifer Management,5
+1103,Check dam,River water,Domestic,Physical Aquifer Management,3
+1104,Aquifer storage and recovery,Storm water,Domestic,Ecological Benefits,-9999
+1105,Aquifer storage using wells,River water,Agricultural,Physical Aquifer Management,5
+1106,Bank filtration,River water,Domestic,Water Quality Management,5
+1107,Infiltration basin,Storm water,Agricultural,Maximize Natural Storage,4
+1108,Infiltration basin,River water,Ecological,Physical Aquifer Management,3
+1109,Surface flooding and ditch-and-furrow,Storm water,no data,Maximize Natural Storage,3
+1110,Bank filtration,River water,Domestic,Water Quality Management,5
+1111,Check dam,River water,Agricultural,Physical Aquifer Management,4
+1112,Infiltration basin,Reclaimed wastewater,Agricultural,Maximize Natural Storage,3
+1113,Aquifer storage and recovery,no data,no data,no data,-9999
+1114,Bank filtration,River water,Domestic,no data,5
+1115,Aquifer storage using wells,Brackish water,no data,Other Benefits,-9999
+1116,Excess Irrigation,Reclaimed wastewater,Industrial,Water Quality Management,5
+1117,Subsurface Dam,River water,Agricultural,Maximize Natural Storage,3
+1118,Infiltration basin,Storm water,Domestic,Physical Aquifer Management,4
+1119,Infiltration basin,River water,Domestic,Maximize Natural Storage,5
+1120,Infiltration basin,River water,Agricultural,Other Benefits,3
+1121,Infiltration basin,Storm water,Domestic,Management of Water Distribution Systems,2
+1122,Channel infiltration/spreading,Reclaimed wastewater,Agricultural,Water Quality Management,3
+1123,Aquifer storage and recovery,Groundwater,Domestic,Other Benefits,5
+1124,Aquifer storage and recovery,Brackish water,Domestic,Physical Aquifer Management,5
+1125,Aquifer storage and recovery,Reclaimed wastewater,no data,no data,5
+1126,Aquifer storage and recovery,River water,Domestic,Physical Aquifer Management,5

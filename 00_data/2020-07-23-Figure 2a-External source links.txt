@@ -1,0 +1,6 @@
+Figure 2a: 
+Soil map source: Global Hydrologic Soil Groups (HYSOGs250m) for Curve Number-Based Runoff Modeling
+link: https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1566
+
+Coordinates of MAR sites: MAR portal
+link: https://apps.geodan.nl/igrac/ggis-viewer/viewer/globalmar/public/default
