@@ -4,11 +4,12 @@
 
 THE Codes IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+
 * Author: Sarfaraz Alam (szalam@stanford.edu), Stanford Univ Dept of Geophysics 
 * Date: 2/2022
 * Description: This repository contains the code and data related to the analysis of worldwide Managed Aquifer Recharge practices and their climate, soil type, influent, and effluent types. The study also reviewed how MAR impacts water quality. 
 
-<img src="02_figures/MAR_Abstract_picture.png" width="300"> <br>
+<img src="02_figures/MAR_Abstract_picture.png" alt="drawing" width="600"> <br>
 Managed Aquifer Recharge types
 
 # More information about data used or queried in this repository can be found in the manuscript text.
