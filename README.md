@@ -9,10 +9,10 @@ THE Codes IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
 * Date: 2/2022
 * Description: This repository contains the code and data related to the analysis of worldwide Managed Aquifer Recharge practices and their climate, soil type, influent, and effluent types. The study also reviewed how MAR impacts water quality. 
 
-<img src="02_figures/MAR_Abstract_picture.png" alt="drawing" width="600"> <br>
+<img src="02_figures/MAR_Abstract_picture.png" alt="drawing" width="750"> <br>
 Managed Aquifer Recharge types
 
-# More information about data used or queried in this repository can be found in the manuscript text.
+## More information about data used or queried in this repository can be found in the manuscript text.
 
 
 ## Soil map: Global Hydrologic Soil Groups
